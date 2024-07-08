@@ -1,0 +1,9246 @@
+Label: 1
+Area: 8.0
+Bounding Box: (0, 1, 6, 6)
+Centroid: (2.375, 3.0)
+Orientation: -0.5577583616531915
+
+Label: 2
+Area: 98.0
+Bounding Box: (0, 0, 40, 8)
+Centroid: (21.26530612244898, 3.1122448979591835)
+Orientation: -0.07447791947352586
+
+Label: 3
+Area: 82.0
+Bounding Box: (0, 592, 56, 600)
+Centroid: (25.865853658536587, 596.0)
+Orientation: 0.07949806208725048
+
+Label: 4
+Area: 1.0
+Bounding Box: (1, 598, 2, 599)
+Centroid: (1.0, 598.0)
+Orientation: -0.7853981633974483
+
+Label: 5
+Area: 1.0
+Bounding Box: (3, 598, 4, 599)
+Centroid: (3.0, 598.0)
+Orientation: -0.7853981633974483
+
+Label: 6
+Area: 1.0
+Bounding Box: (4, 0, 5, 1)
+Centroid: (4.0, 0.0)
+Orientation: -0.7853981633974483
+
+Label: 7
+Area: 2.0
+Bounding Box: (6, 0, 7, 2)
+Centroid: (6.0, 0.5)
+Orientation: 1.5707963267948966
+
+Label: 8
+Area: 1.0
+Bounding Box: (6, 597, 7, 598)
+Centroid: (6.0, 597.0)
+Orientation: -0.7853981633974483
+
+Label: 9
+Area: 3.0
+Bounding Box: (8, 598, 11, 600)
+Centroid: (9.0, 598.3333333333334)
+Orientation: 0.0
+
+Label: 10
+Area: 1.0
+Bounding Box: (9, 6, 10, 7)
+Centroid: (9.0, 6.0)
+Orientation: -0.7853981633974483
+
+Label: 11
+Area: 1.0
+Bounding Box: (11, 592, 12, 593)
+Centroid: (11.0, 592.0)
+Orientation: -0.7853981633974483
+
+Label: 12
+Area: 1.0
+Bounding Box: (15, 0, 16, 1)
+Centroid: (15.0, 0.0)
+Orientation: -0.7853981633974483
+
+Label: 13
+Area: 1.0
+Bounding Box: (16, 4, 17, 5)
+Centroid: (16.0, 4.0)
+Orientation: -0.7853981633974483
+
+Label: 14
+Area: 1.0
+Bounding Box: (16, 6, 17, 7)
+Centroid: (16.0, 6.0)
+Orientation: -0.7853981633974483
+
+Label: 15
+Area: 1.0
+Bounding Box: (18, 6, 19, 7)
+Centroid: (18.0, 6.0)
+Orientation: -0.7853981633974483
+
+Label: 16
+Area: 1.0
+Bounding Box: (26, 7, 27, 8)
+Centroid: (26.0, 7.0)
+Orientation: -0.7853981633974483
+
+Label: 17
+Area: 1.0
+Bounding Box: (28, 6, 29, 7)
+Centroid: (28.0, 6.0)
+Orientation: -0.7853981633974483
+
+Label: 18
+Area: 1.0
+Bounding Box: (29, 592, 30, 593)
+Centroid: (29.0, 592.0)
+Orientation: -0.7853981633974483
+
+Label: 19
+Area: 1.0
+Bounding Box: (29, 599, 30, 600)
+Centroid: (29.0, 599.0)
+Orientation: -0.7853981633974483
+
+Label: 20
+Area: 1.0
+Bounding Box: (31, 593, 32, 594)
+Centroid: (31.0, 593.0)
+Orientation: -0.7853981633974483
+
+Label: 21
+Area: 1.0
+Bounding Box: (31, 599, 32, 600)
+Centroid: (31.0, 599.0)
+Orientation: -0.7853981633974483
+
+Label: 22
+Area: 1.0
+Bounding Box: (35, 6, 36, 7)
+Centroid: (35.0, 6.0)
+Orientation: -0.7853981633974483
+
+Label: 23
+Area: 1.0
+Bounding Box: (39, 7, 40, 8)
+Centroid: (39.0, 7.0)
+Orientation: -0.7853981633974483
+
+Label: 24
+Area: 2.0
+Bounding Box: (48, 593, 50, 595)
+Centroid: (48.5, 593.5)
+Orientation: -0.7853981633974483
+
+Label: 25
+Area: 2.0
+Bounding Box: (50, 595, 52, 597)
+Centroid: (50.5, 595.5)
+Orientation: -0.7853981633974483
+
+Label: 26
+Area: 1.0
+Bounding Box: (51, 593, 52, 594)
+Centroid: (51.0, 593.0)
+Orientation: -0.7853981633974483
+
+Label: 27
+Area: 6.0
+Bounding Box: (53, 592, 56, 595)
+Centroid: (54.0, 593.0)
+Orientation: 0.7853981633974483
+
+Label: 28
+Area: 7.0
+Bounding Box: (168, 240, 172, 245)
+Centroid: (169.71428571428572, 242.0)
+Orientation: 0.9997871771204565
+
+Label: 29
+Area: 3.0
+Bounding Box: (168, 253, 171, 255)
+Centroid: (169.0, 253.33333333333334)
+Orientation: 0.0
+
+Label: 30
+Area: 1.0
+Bounding Box: (168, 256, 169, 257)
+Centroid: (168.0, 256.0)
+Orientation: -0.7853981633974483
+
+Label: 31
+Area: 1.0
+Bounding Box: (168, 262, 169, 263)
+Centroid: (168.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 32
+Area: 7.0
+Bounding Box: (169, 245, 172, 251)
+Centroid: (169.57142857142858, 247.42857142857142)
+Orientation: -1.45071082286481
+
+Label: 33
+Area: 1.0
+Bounding Box: (170, 257, 171, 258)
+Centroid: (170.0, 257.0)
+Orientation: -0.7853981633974483
+
+Label: 34
+Area: 1.0
+Bounding Box: (170, 260, 171, 261)
+Centroid: (170.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 35
+Area: 1.0
+Bounding Box: (170, 262, 171, 263)
+Centroid: (170.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 36
+Area: 1.0
+Bounding Box: (171, 251, 172, 252)
+Centroid: (171.0, 251.0)
+Orientation: -0.7853981633974483
+
+Label: 37
+Area: 1.0
+Bounding Box: (172, 240, 173, 241)
+Centroid: (172.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 38
+Area: 1.0
+Bounding Box: (172, 254, 173, 255)
+Centroid: (172.0, 254.0)
+Orientation: -0.7853981633974483
+
+Label: 39
+Area: 11139.0
+Bounding Box: (172, 228, 630, 302)
+Centroid: (397.3574827183769, 260.9534069485591)
+Orientation: 0.03854077869788342
+
+Label: 40
+Area: 1.0
+Bounding Box: (173, 252, 174, 253)
+Centroid: (173.0, 252.0)
+Orientation: -0.7853981633974483
+
+Label: 41
+Area: 1.0
+Bounding Box: (176, 233, 177, 234)
+Centroid: (176.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 42
+Area: 2.0
+Bounding Box: (176, 268, 178, 270)
+Centroid: (176.5, 268.5)
+Orientation: -0.7853981633974483
+
+Label: 43
+Area: 1.0
+Bounding Box: (177, 271, 178, 272)
+Centroid: (177.0, 271.0)
+Orientation: -0.7853981633974483
+
+Label: 44
+Area: 3.0
+Bounding Box: (178, 233, 179, 236)
+Centroid: (178.0, 234.0)
+Orientation: 1.5707963267948966
+
+Label: 45
+Area: 2.0
+Bounding Box: (179, 268, 181, 270)
+Centroid: (179.5, 268.5)
+Orientation: -0.7853981633974483
+
+Label: 46
+Area: 4.0
+Bounding Box: (180, 232, 183, 235)
+Centroid: (181.0, 233.25)
+Orientation: 1.5707963267948966
+
+Label: 47
+Area: 7.0
+Bounding Box: (180, 267, 185, 272)
+Centroid: (182.0, 269.0)
+Orientation: -0.8563466906995303
+
+Label: 48
+Area: 1.0
+Bounding Box: (185, 270, 186, 271)
+Centroid: (185.0, 270.0)
+Orientation: -0.7853981633974483
+
+Label: 49
+Area: 1.0
+Bounding Box: (186, 233, 187, 234)
+Centroid: (186.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 50
+Area: 6.0
+Bounding Box: (186, 267, 191, 271)
+Centroid: (188.0, 268.5)
+Orientation: 0.5292034332420794
+
+Label: 51
+Area: 1.0
+Bounding Box: (188, 234, 189, 235)
+Centroid: (188.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 52
+Area: 1.0
+Bounding Box: (188, 236, 189, 237)
+Centroid: (188.0, 236.0)
+Orientation: -0.7853981633974483
+
+Label: 53
+Area: 1.0
+Bounding Box: (192, 80, 193, 81)
+Centroid: (192.0, 80.0)
+Orientation: -0.7853981633974483
+
+Label: 54
+Area: 2.0
+Bounding Box: (192, 84, 194, 86)
+Centroid: (192.5, 84.5)
+Orientation: 0.7853981633974483
+
+Label: 55
+Area: 252.0
+Bounding Box: (192, 80, 232, 104)
+Centroid: (207.05555555555554, 92.5515873015873)
+Orientation: 0.1716811322932313
+
+Label: 56
+Area: 1.0
+Bounding Box: (192, 225, 193, 226)
+Centroid: (192.0, 225.0)
+Orientation: -0.7853981633974483
+
+Label: 57
+Area: 1.0
+Bounding Box: (193, 82, 194, 83)
+Centroid: (193.0, 82.0)
+Orientation: -0.7853981633974483
+
+Label: 58
+Area: 4.0
+Bounding Box: (193, 226, 197, 228)
+Centroid: (194.5, 226.5)
+Orientation: 0.0
+
+Label: 59
+Area: 1.0
+Bounding Box: (194, 103, 195, 104)
+Centroid: (194.0, 103.0)
+Orientation: -0.7853981633974483
+
+Label: 60
+Area: 1.0
+Bounding Box: (195, 252, 196, 253)
+Centroid: (195.0, 252.0)
+Orientation: -0.7853981633974483
+
+Label: 61
+Area: 1.0
+Bounding Box: (195, 254, 196, 255)
+Centroid: (195.0, 254.0)
+Orientation: -0.7853981633974483
+
+Label: 62
+Area: 1.0
+Bounding Box: (200, 227, 201, 228)
+Centroid: (200.0, 227.0)
+Orientation: -0.7853981633974483
+
+Label: 63
+Area: 2.0
+Bounding Box: (201, 224, 202, 226)
+Centroid: (201.0, 224.5)
+Orientation: 1.5707963267948966
+
+Label: 64
+Area: 5.0
+Bounding Box: (201, 268, 204, 271)
+Centroid: (202.0, 268.8)
+Orientation: 0.0
+
+Label: 65
+Area: 10.0
+Bounding Box: (202, 226, 206, 232)
+Centroid: (203.3, 228.3)
+Orientation: -1.4382748968461694
+
+Label: 66
+Area: 2.0
+Bounding Box: (203, 233, 205, 235)
+Centroid: (203.5, 233.5)
+Orientation: -0.7853981633974483
+
+Label: 67
+Area: 1.0
+Bounding Box: (204, 88, 205, 89)
+Centroid: (204.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 68
+Area: 2.0
+Bounding Box: (205, 235, 207, 237)
+Centroid: (205.5, 235.5)
+Orientation: -0.7853981633974483
+
+Label: 69
+Area: 1.0
+Bounding Box: (205, 268, 206, 269)
+Centroid: (205.0, 268.0)
+Orientation: -0.7853981633974483
+
+Label: 70
+Area: 1.0
+Bounding Box: (205, 271, 206, 272)
+Centroid: (205.0, 271.0)
+Orientation: -0.7853981633974483
+
+Label: 71
+Area: 2.0
+Bounding Box: (206, 225, 208, 226)
+Centroid: (206.5, 225.0)
+Orientation: 0.0
+
+Label: 72
+Area: 2.0
+Bounding Box: (206, 228, 208, 230)
+Centroid: (206.5, 228.5)
+Orientation: -0.7853981633974483
+
+Label: 73
+Area: 1.0
+Bounding Box: (206, 233, 207, 234)
+Centroid: (206.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 74
+Area: 1.0
+Bounding Box: (207, 267, 208, 268)
+Centroid: (207.0, 267.0)
+Orientation: -0.7853981633974483
+
+Label: 75
+Area: 4.0
+Bounding Box: (208, 96, 212, 99)
+Centroid: (209.5, 97.25)
+Orientation: 0.6298990230946778
+
+Label: 76
+Area: 1.0
+Bounding Box: (208, 277, 209, 278)
+Centroid: (208.0, 277.0)
+Orientation: -0.7853981633974483
+
+Label: 77
+Area: 2.0
+Bounding Box: (209, 88, 211, 90)
+Centroid: (209.5, 88.5)
+Orientation: 0.7853981633974483
+
+Label: 78
+Area: 1.0
+Bounding Box: (209, 234, 210, 235)
+Centroid: (209.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 79
+Area: 7.0
+Bounding Box: (210, 277, 215, 280)
+Centroid: (211.71428571428572, 278.0)
+Orientation: -0.10451147140313233
+
+Label: 80
+Area: 1.0
+Bounding Box: (211, 275, 212, 276)
+Centroid: (211.0, 275.0)
+Orientation: -0.7853981633974483
+
+Label: 81
+Area: 1.0
+Bounding Box: (212, 261, 213, 262)
+Centroid: (212.0, 261.0)
+Orientation: -0.7853981633974483
+
+Label: 82
+Area: 1.0
+Bounding Box: (214, 234, 215, 235)
+Centroid: (214.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 83
+Area: 1.0
+Bounding Box: (214, 236, 215, 237)
+Centroid: (214.0, 236.0)
+Orientation: -0.7853981633974483
+
+Label: 84
+Area: 1.0
+Bounding Box: (216, 278, 217, 279)
+Centroid: (216.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 85
+Area: 2.0
+Bounding Box: (217, 101, 219, 102)
+Centroid: (217.5, 101.0)
+Orientation: 0.0
+
+Label: 86
+Area: 1.0
+Bounding Box: (217, 103, 218, 104)
+Centroid: (217.0, 103.0)
+Orientation: -0.7853981633974483
+
+Label: 87
+Area: 1.0
+Bounding Box: (218, 99, 219, 100)
+Centroid: (218.0, 99.0)
+Orientation: -0.7853981633974483
+
+Label: 88
+Area: 1.0
+Bounding Box: (218, 233, 219, 234)
+Centroid: (218.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 89
+Area: 4.0
+Bounding Box: (218, 276, 220, 279)
+Centroid: (218.25, 277.25)
+Orientation: 1.2490457723982544
+
+Label: 90
+Area: 1.0
+Bounding Box: (219, 88, 220, 89)
+Centroid: (219.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 91
+Area: 1.0
+Bounding Box: (220, 98, 221, 99)
+Centroid: (220.0, 98.0)
+Orientation: -0.7853981633974483
+
+Label: 92
+Area: 13.0
+Bounding Box: (220, 98, 227, 104)
+Centroid: (222.92307692307693, 101.07692307692308)
+Orientation: 0.6407209208818131
+
+Label: 93
+Area: 1.0
+Bounding Box: (220, 276, 221, 277)
+Centroid: (220.0, 276.0)
+Orientation: -0.7853981633974483
+
+Label: 94
+Area: 2.0
+Bounding Box: (221, 88, 222, 90)
+Centroid: (221.0, 88.5)
+Orientation: 1.5707963267948966
+
+Label: 95
+Area: 2.0
+Bounding Box: (221, 232, 223, 234)
+Centroid: (221.5, 232.5)
+Orientation: 0.7853981633974483
+
+Label: 96
+Area: 1.0
+Bounding Box: (222, 276, 223, 277)
+Centroid: (222.0, 276.0)
+Orientation: -0.7853981633974483
+
+Label: 97
+Area: 1.0
+Bounding Box: (224, 88, 225, 89)
+Centroid: (224.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 98
+Area: 6.0
+Bounding Box: (224, 233, 229, 236)
+Centroid: (225.83333333333334, 234.16666666666666)
+Orientation: 0.1418970546041639
+
+Label: 99
+Area: 1.0
+Bounding Box: (226, 88, 227, 89)
+Centroid: (226.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 100
+Area: 1.0
+Bounding Box: (226, 90, 227, 91)
+Centroid: (226.0, 90.0)
+Orientation: -0.7853981633974483
+
+Label: 101
+Area: 1.0
+Bounding Box: (226, 232, 227, 233)
+Centroid: (226.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 102
+Area: 3.0
+Bounding Box: (228, 88, 230, 91)
+Centroid: (228.33333333333334, 89.0)
+Orientation: 1.5707963267948966
+
+Label: 103
+Area: 5.0
+Bounding Box: (228, 232, 232, 235)
+Centroid: (229.8, 232.6)
+Orientation: 0.4826258315949633
+
+Label: 104
+Area: 3.0
+Bounding Box: (229, 102, 232, 104)
+Centroid: (230.0, 102.66666666666667)
+Orientation: -0.4913968616236646
+
+Label: 105
+Area: 1.0
+Bounding Box: (232, 381, 233, 382)
+Centroid: (232.0, 381.0)
+Orientation: -0.7853981633974483
+
+Label: 106
+Area: 1.0
+Bounding Box: (232, 385, 233, 386)
+Centroid: (232.0, 385.0)
+Orientation: -0.7853981633974483
+
+Label: 107
+Area: 4.0
+Bounding Box: (232, 389, 235, 392)
+Centroid: (233.0, 390.0)
+Orientation: -0.7853981633974483
+
+Label: 108
+Area: 2.0
+Bounding Box: (233, 276, 235, 278)
+Centroid: (233.5, 276.5)
+Orientation: -0.7853981633974483
+
+Label: 109
+Area: 2.0
+Bounding Box: (234, 273, 236, 275)
+Centroid: (234.5, 273.5)
+Orientation: 0.7853981633974483
+
+Label: 110
+Area: 1.0
+Bounding Box: (234, 382, 235, 383)
+Centroid: (234.0, 382.0)
+Orientation: -0.7853981633974483
+
+Label: 111
+Area: 2.0
+Bounding Box: (234, 386, 235, 388)
+Centroid: (234.0, 386.5)
+Orientation: 1.5707963267948966
+
+Label: 112
+Area: 1.0
+Bounding Box: (235, 233, 236, 234)
+Centroid: (235.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 113
+Area: 1.0
+Bounding Box: (235, 259, 236, 260)
+Centroid: (235.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 114
+Area: 1.0
+Bounding Box: (236, 235, 237, 236)
+Centroid: (236.0, 235.0)
+Orientation: -0.7853981633974483
+
+Label: 115
+Area: 2.0
+Bounding Box: (236, 279, 238, 280)
+Centroid: (236.5, 279.0)
+Orientation: 0.0
+
+Label: 116
+Area: 1.0
+Bounding Box: (236, 382, 237, 383)
+Centroid: (236.0, 382.0)
+Orientation: -0.7853981633974483
+
+Label: 117
+Area: 5773.0
+Bounding Box: (236, 352, 564, 400)
+Centroid: (396.276286159709, 378.9991338991859)
+Orientation: -0.022992520001310992
+
+Label: 118
+Area: 1.0
+Bounding Box: (236, 390, 237, 391)
+Centroid: (236.0, 390.0)
+Orientation: -0.7853981633974483
+
+Label: 119
+Area: 2.0
+Bounding Box: (237, 233, 239, 234)
+Centroid: (237.5, 233.0)
+Orientation: 0.0
+
+Label: 120
+Area: 2.0
+Bounding Box: (237, 259, 238, 261)
+Centroid: (237.0, 259.5)
+Orientation: 1.5707963267948966
+
+Label: 121
+Area: 1.0
+Bounding Box: (237, 377, 238, 378)
+Centroid: (237.0, 377.0)
+Orientation: -0.7853981633974483
+
+Label: 122
+Area: 5.0
+Bounding Box: (238, 277, 243, 279)
+Centroid: (240.0, 277.4)
+Orientation: -0.1117383005703165
+
+Label: 123
+Area: 1.0
+Bounding Box: (238, 388, 239, 389)
+Centroid: (238.0, 388.0)
+Orientation: -0.7853981633974483
+
+Label: 124
+Area: 2.0
+Bounding Box: (239, 234, 241, 236)
+Centroid: (239.5, 234.5)
+Orientation: -0.7853981633974483
+
+Label: 125
+Area: 1.0
+Bounding Box: (239, 260, 240, 261)
+Centroid: (239.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 126
+Area: 1.0
+Bounding Box: (240, 373, 241, 374)
+Centroid: (240.0, 373.0)
+Orientation: -0.7853981633974483
+
+Label: 127
+Area: 2.0
+Bounding Box: (240, 394, 242, 396)
+Centroid: (240.5, 394.5)
+Orientation: 0.7853981633974483
+
+Label: 128
+Area: 4.0
+Bounding Box: (240, 397, 244, 400)
+Centroid: (241.5, 398.0)
+Orientation: 0.4636476090008061
+
+Label: 129
+Area: 3.0
+Bounding Box: (241, 368, 244, 371)
+Centroid: (242.0, 369.0)
+Orientation: 0.7853981633974483
+
+Label: 130
+Area: 1.0
+Bounding Box: (242, 259, 243, 260)
+Centroid: (242.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 131
+Area: 1.0
+Bounding Box: (242, 261, 243, 262)
+Centroid: (242.0, 261.0)
+Orientation: -0.7853981633974483
+
+Label: 132
+Area: 1.0
+Bounding Box: (242, 275, 243, 276)
+Centroid: (242.0, 275.0)
+Orientation: -0.7853981633974483
+
+Label: 133
+Area: 1.0
+Bounding Box: (242, 374, 243, 375)
+Centroid: (242.0, 374.0)
+Orientation: -0.7853981633974483
+
+Label: 134
+Area: 1.0
+Bounding Box: (243, 256, 244, 257)
+Centroid: (243.0, 256.0)
+Orientation: -0.7853981633974483
+
+Label: 135
+Area: 2.0
+Bounding Box: (243, 273, 245, 274)
+Centroid: (243.5, 273.0)
+Orientation: 0.0
+
+Label: 136
+Area: 1.0
+Bounding Box: (244, 258, 245, 259)
+Centroid: (244.0, 258.0)
+Orientation: -0.7853981633974483
+
+Label: 137
+Area: 3.0
+Bounding Box: (244, 275, 247, 277)
+Centroid: (245.0, 275.6666666666667)
+Orientation: 0.0
+
+Label: 138
+Area: 1.0
+Bounding Box: (244, 278, 245, 279)
+Centroid: (244.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 139
+Area: 1.0
+Bounding Box: (244, 368, 245, 369)
+Centroid: (244.0, 368.0)
+Orientation: -0.7853981633974483
+
+Label: 140
+Area: 1.0
+Bounding Box: (244, 397, 245, 398)
+Centroid: (244.0, 397.0)
+Orientation: -0.7853981633974483
+
+Label: 141
+Area: 1.0
+Bounding Box: (245, 256, 246, 257)
+Centroid: (245.0, 256.0)
+Orientation: -0.7853981633974483
+
+Label: 142
+Area: 1.0
+Bounding Box: (245, 399, 246, 400)
+Centroid: (245.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 143
+Area: 1.0
+Bounding Box: (246, 235, 247, 236)
+Centroid: (246.0, 235.0)
+Orientation: -0.7853981633974483
+
+Label: 144
+Area: 1.0
+Bounding Box: (246, 278, 247, 279)
+Centroid: (246.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 145
+Area: 1.0
+Bounding Box: (247, 233, 248, 234)
+Centroid: (247.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 146
+Area: 1.0
+Bounding Box: (249, 232, 250, 233)
+Centroid: (249.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 147
+Area: 1.0
+Bounding Box: (249, 260, 250, 261)
+Centroid: (249.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 148
+Area: 1.0
+Bounding Box: (249, 363, 250, 364)
+Centroid: (249.0, 363.0)
+Orientation: -0.7853981633974483
+
+Label: 149
+Area: 1.0
+Bounding Box: (249, 395, 250, 396)
+Centroid: (249.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 150
+Area: 3.0
+Bounding Box: (249, 397, 252, 399)
+Centroid: (250.0, 397.3333333333333)
+Orientation: 0.0
+
+Label: 151
+Area: 3.0
+Bounding Box: (250, 232, 252, 235)
+Centroid: (250.66666666666666, 233.0)
+Orientation: -1.079399465171232
+
+Label: 152
+Area: 3.0
+Bounding Box: (251, 234, 254, 237)
+Centroid: (252.0, 235.0)
+Orientation: -0.7853981633974483
+
+Label: 153
+Area: 1.0
+Bounding Box: (251, 259, 252, 260)
+Centroid: (251.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 154
+Area: 1.0
+Bounding Box: (251, 361, 252, 362)
+Centroid: (251.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 155
+Area: 1.0
+Bounding Box: (253, 258, 254, 259)
+Centroid: (253.0, 258.0)
+Orientation: -0.7853981633974483
+
+Label: 156
+Area: 1.0
+Bounding Box: (253, 361, 254, 362)
+Centroid: (253.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 157
+Area: 1.0
+Bounding Box: (254, 261, 255, 262)
+Centroid: (254.0, 261.0)
+Orientation: -0.7853981633974483
+
+Label: 158
+Area: 1.0
+Bounding Box: (254, 263, 255, 264)
+Centroid: (254.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 159
+Area: 2.0
+Bounding Box: (254, 397, 255, 399)
+Centroid: (254.0, 397.5)
+Orientation: 1.5707963267948966
+
+Label: 160
+Area: 2.0
+Bounding Box: (255, 232, 257, 234)
+Centroid: (255.5, 232.5)
+Orientation: -0.7853981633974483
+
+Label: 161
+Area: 1.0
+Bounding Box: (255, 258, 256, 259)
+Centroid: (255.0, 258.0)
+Orientation: -0.7853981633974483
+
+Label: 162
+Area: 1.0
+Bounding Box: (255, 361, 256, 362)
+Centroid: (255.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 163
+Area: 4.0
+Bounding Box: (256, 102, 259, 104)
+Centroid: (257.25, 102.25)
+Orientation: 0.3217505543966422
+
+Label: 164
+Area: 1620.0
+Bounding Box: (257, 32, 568, 168)
+Centroid: (410.4672839506173, 105.15987654320988)
+Orientation: 0.06882139297239145
+
+Label: 165
+Area: 1.0
+Bounding Box: (257, 100, 258, 101)
+Centroid: (257.0, 100.0)
+Orientation: -0.7853981633974483
+
+Label: 166
+Area: 2.0
+Bounding Box: (257, 360, 258, 362)
+Centroid: (257.0, 360.5)
+Orientation: 1.5707963267948966
+
+Label: 167
+Area: 1.0
+Bounding Box: (258, 232, 259, 233)
+Centroid: (258.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 168
+Area: 1.0
+Bounding Box: (258, 234, 259, 235)
+Centroid: (258.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 169
+Area: 1.0
+Bounding Box: (258, 263, 259, 264)
+Centroid: (258.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 170
+Area: 10.0
+Bounding Box: (258, 362, 262, 368)
+Centroid: (259.3, 364.3)
+Orientation: -1.4382748968461694
+
+Label: 171
+Area: 1.0
+Bounding Box: (258, 391, 259, 392)
+Centroid: (258.0, 391.0)
+Orientation: -0.7853981633974483
+
+Label: 172
+Area: 3.0
+Bounding Box: (259, 260, 262, 262)
+Centroid: (260.0, 260.3333333333333)
+Orientation: 0.0
+
+Label: 173
+Area: 4.0
+Bounding Box: (260, 233, 263, 237)
+Centroid: (261.0, 234.5)
+Orientation: 1.0172219678978514
+
+Label: 174
+Area: 1.0
+Bounding Box: (260, 263, 261, 264)
+Centroid: (260.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 175
+Area: 1.0
+Bounding Box: (260, 371, 261, 372)
+Centroid: (260.0, 371.0)
+Orientation: -0.7853981633974483
+
+Label: 176
+Area: 4.0
+Bounding Box: (261, 368, 265, 370)
+Centroid: (262.5, 368.75)
+Orientation: 0.11554533359794854
+
+Label: 177
+Area: 2.0
+Bounding Box: (262, 361, 264, 362)
+Centroid: (262.5, 361.0)
+Orientation: 0.0
+
+Label: 178
+Area: 2.0
+Bounding Box: (262, 364, 264, 366)
+Centroid: (262.5, 364.5)
+Orientation: -0.7853981633974483
+
+Label: 179
+Area: 8.0
+Bounding Box: (264, 64, 270, 68)
+Centroid: (266.0, 65.75)
+Orientation: 0.1743855017919535
+
+Label: 180
+Area: 1.0
+Bounding Box: (264, 69, 265, 70)
+Centroid: (264.0, 69.0)
+Orientation: -0.7853981633974483
+
+Label: 181
+Area: 3.0
+Bounding Box: (264, 76, 267, 79)
+Centroid: (265.0, 77.0)
+Orientation: -0.7853981633974483
+
+Label: 182
+Area: 1.0
+Bounding Box: (264, 117, 265, 118)
+Centroid: (264.0, 117.0)
+Orientation: -0.7853981633974483
+
+Label: 183
+Area: 1.0
+Bounding Box: (264, 119, 265, 120)
+Centroid: (264.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 184
+Area: 2.0
+Bounding Box: (264, 395, 266, 397)
+Centroid: (264.5, 395.5)
+Orientation: 0.7853981633974483
+
+Label: 185
+Area: 2.0
+Bounding Box: (264, 398, 266, 400)
+Centroid: (264.5, 398.5)
+Orientation: 0.7853981633974483
+
+Label: 186
+Area: 2.0
+Bounding Box: (265, 105, 266, 107)
+Centroid: (265.0, 105.5)
+Orientation: 1.5707963267948966
+
+Label: 187
+Area: 1.0
+Bounding Box: (265, 112, 266, 113)
+Centroid: (265.0, 112.0)
+Orientation: -0.7853981633974483
+
+Label: 188
+Area: 1.0
+Bounding Box: (265, 240, 266, 241)
+Centroid: (265.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 189
+Area: 4.0
+Bounding Box: (265, 392, 268, 395)
+Centroid: (265.75, 393.25)
+Orientation: 0.7853981633974483
+
+Label: 190
+Area: 1.0
+Bounding Box: (266, 119, 267, 120)
+Centroid: (266.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 191
+Area: 1.0
+Bounding Box: (266, 262, 267, 263)
+Centroid: (266.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 192
+Area: 1.0
+Bounding Box: (267, 116, 268, 117)
+Centroid: (267.0, 116.0)
+Orientation: -0.7853981633974483
+
+Label: 193
+Area: 1.0
+Bounding Box: (267, 241, 268, 242)
+Centroid: (267.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 194
+Area: 1.0
+Bounding Box: (268, 118, 269, 119)
+Centroid: (268.0, 118.0)
+Orientation: -0.7853981633974483
+
+Label: 195
+Area: 3.0
+Bounding Box: (268, 397, 271, 399)
+Centroid: (269.0, 397.3333333333333)
+Orientation: 0.0
+
+Label: 196
+Area: 5.0
+Bounding Box: (269, 64, 274, 66)
+Centroid: (271.0, 64.4)
+Orientation: 0.1117383005703165
+
+Label: 197
+Area: 1.0
+Bounding Box: (269, 116, 270, 117)
+Centroid: (269.0, 116.0)
+Orientation: -0.7853981633974483
+
+Label: 198
+Area: 2.0
+Bounding Box: (269, 262, 271, 264)
+Centroid: (269.5, 262.5)
+Orientation: -0.7853981633974483
+
+Label: 199
+Area: 2.0
+Bounding Box: (270, 68, 272, 70)
+Centroid: (270.5, 68.5)
+Orientation: -0.7853981633974483
+
+Label: 200
+Area: 2.0
+Bounding Box: (270, 99, 272, 101)
+Centroid: (270.5, 99.5)
+Orientation: -0.7853981633974483
+
+Label: 201
+Area: 1.0
+Bounding Box: (270, 102, 271, 103)
+Centroid: (270.0, 102.0)
+Orientation: -0.7853981633974483
+
+Label: 202
+Area: 1.0
+Bounding Box: (271, 104, 272, 105)
+Centroid: (271.0, 104.0)
+Orientation: -0.7853981633974483
+
+Label: 203
+Area: 1.0
+Bounding Box: (272, 278, 273, 279)
+Centroid: (272.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 204
+Area: 1.0
+Bounding Box: (273, 260, 274, 261)
+Centroid: (273.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 205
+Area: 3.0
+Bounding Box: (274, 276, 275, 279)
+Centroid: (274.0, 277.0)
+Orientation: 1.5707963267948966
+
+Label: 206
+Area: 6.0
+Bounding Box: (275, 241, 280, 244)
+Centroid: (277.3333333333333, 242.33333333333334)
+Orientation: -0.37546453119897005
+
+Label: 207
+Area: 1.0
+Bounding Box: (276, 240, 277, 241)
+Centroid: (276.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 208
+Area: 4.0
+Bounding Box: (276, 277, 279, 280)
+Centroid: (277.0, 277.75)
+Orientation: 1.5707963267948966
+
+Label: 209
+Area: 1.0
+Bounding Box: (279, 68, 280, 69)
+Centroid: (279.0, 68.0)
+Orientation: -0.7853981633974483
+
+Label: 210
+Area: 3.0
+Bounding Box: (280, 137, 282, 140)
+Centroid: (280.3333333333333, 138.0)
+Orientation: 1.5707963267948966
+
+Label: 211
+Area: 3.0
+Bounding Box: (280, 277, 283, 279)
+Centroid: (281.0, 277.3333333333333)
+Orientation: -0.4913968616236646
+
+Label: 212
+Area: 1.0
+Bounding Box: (282, 275, 283, 276)
+Centroid: (282.0, 275.0)
+Orientation: -0.7853981633974483
+
+Label: 213
+Area: 1.0
+Bounding Box: (282, 399, 283, 400)
+Centroid: (282.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 214
+Area: 4.0
+Bounding Box: (283, 62, 287, 64)
+Centroid: (284.5, 62.5)
+Orientation: 0.0
+
+Label: 215
+Area: 1.0
+Bounding Box: (283, 128, 284, 129)
+Centroid: (283.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 216
+Area: 10.0
+Bounding Box: (283, 259, 288, 267)
+Centroid: (284.5, 262.5)
+Orientation: 1.2113813269840843
+
+Label: 217
+Area: 2.0
+Bounding Box: (283, 273, 285, 274)
+Centroid: (283.5, 273.0)
+Orientation: 0.0
+
+Label: 218
+Area: 1.0
+Bounding Box: (283, 376, 284, 377)
+Centroid: (283.0, 376.0)
+Orientation: -0.7853981633974483
+
+Label: 219
+Area: 2.0
+Bounding Box: (283, 397, 285, 399)
+Centroid: (283.5, 397.5)
+Orientation: 0.7853981633974483
+
+Label: 220
+Area: 3.0
+Bounding Box: (284, 59, 286, 61)
+Centroid: (284.6666666666667, 59.333333333333336)
+Orientation: 0.7853981633974483
+
+Label: 221
+Area: 4.0
+Bounding Box: (284, 131, 287, 133)
+Centroid: (285.0, 131.75)
+Orientation: 0.0
+
+Label: 222
+Area: 3.0
+Bounding Box: (284, 275, 287, 277)
+Centroid: (285.0, 275.6666666666667)
+Orientation: 0.0
+
+Label: 223
+Area: 1.0
+Bounding Box: (284, 278, 285, 279)
+Centroid: (284.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 224
+Area: 1.0
+Bounding Box: (284, 379, 285, 380)
+Centroid: (284.0, 379.0)
+Orientation: -0.7853981633974483
+
+Label: 225
+Area: 1.0
+Bounding Box: (285, 129, 286, 130)
+Centroid: (285.0, 129.0)
+Orientation: -0.7853981633974483
+
+Label: 226
+Area: 1.0
+Bounding Box: (285, 134, 286, 135)
+Centroid: (285.0, 134.0)
+Orientation: -0.7853981633974483
+
+Label: 227
+Area: 4.0
+Bounding Box: (285, 376, 288, 378)
+Centroid: (285.75, 376.5)
+Orientation: -0.25957305712326145
+
+Label: 228
+Area: 8.0
+Bounding Box: (286, 52, 291, 56)
+Centroid: (287.875, 53.75)
+Orientation: -0.27393176575091777
+
+Label: 229
+Area: 6.0
+Bounding Box: (286, 260, 291, 263)
+Centroid: (287.8333333333333, 260.6666666666667)
+Orientation: -0.27829965900511133
+
+Label: 230
+Area: 1.0
+Bounding Box: (286, 278, 287, 279)
+Centroid: (286.0, 278.0)
+Orientation: -0.7853981633974483
+
+Label: 231
+Area: 2.0
+Bounding Box: (286, 395, 288, 397)
+Centroid: (286.5, 395.5)
+Orientation: 0.7853981633974483
+
+Label: 232
+Area: 2.0
+Bounding Box: (287, 60, 288, 62)
+Centroid: (287.0, 60.5)
+Orientation: 1.5707963267948966
+
+Label: 233
+Area: 1.0
+Bounding Box: (287, 130, 288, 131)
+Centroid: (287.0, 130.0)
+Orientation: -0.7853981633974483
+
+Label: 234
+Area: 1.0
+Bounding Box: (287, 134, 288, 135)
+Centroid: (287.0, 134.0)
+Orientation: -0.7853981633974483
+
+Label: 235
+Area: 1.0
+Bounding Box: (287, 393, 288, 394)
+Centroid: (287.0, 393.0)
+Orientation: -0.7853981633974483
+
+Label: 236
+Area: 3.0
+Bounding Box: (287, 398, 290, 400)
+Centroid: (288.0, 398.6666666666667)
+Orientation: 0.0
+
+Label: 237
+Area: 1.0
+Bounding Box: (288, 40, 289, 41)
+Centroid: (288.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 238
+Area: 5.0
+Bounding Box: (288, 240, 291, 244)
+Centroid: (288.8, 241.8)
+Orientation: 1.380543138238714
+
+Label: 239
+Area: 1.0
+Bounding Box: (288, 257, 289, 258)
+Centroid: (288.0, 257.0)
+Orientation: -0.7853981633974483
+
+Label: 240
+Area: 6.0
+Bounding Box: (289, 137, 293, 141)
+Centroid: (290.1666666666667, 139.0)
+Orientation: 0.8338569772946298
+
+Label: 241
+Area: 1.0
+Bounding Box: (289, 394, 290, 395)
+Centroid: (289.0, 394.0)
+Orientation: -0.7853981633974483
+
+Label: 242
+Area: 5.0
+Bounding Box: (290, 49, 293, 53)
+Centroid: (291.0, 50.6)
+Orientation: 1.5707963267948966
+
+Label: 243
+Area: 1.0
+Bounding Box: (291, 240, 292, 241)
+Centroid: (291.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 244
+Area: 3.0
+Bounding Box: (291, 261, 294, 264)
+Centroid: (292.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 245
+Area: 4.0
+Bounding Box: (291, 394, 294, 397)
+Centroid: (292.0, 395.25)
+Orientation: 0.8780721383952957
+
+Label: 246
+Area: 1.0
+Bounding Box: (291, 398, 292, 399)
+Centroid: (291.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 247
+Area: 6.0
+Bounding Box: (292, 52, 296, 56)
+Centroid: (293.5, 54.0)
+Orientation: -1.2334258556831204
+
+Label: 248
+Area: 8.0
+Bounding Box: (292, 137, 296, 143)
+Centroid: (293.625, 139.125)
+Orientation: 1.0291244809903863
+
+Label: 249
+Area: 6.0
+Bounding Box: (292, 242, 297, 245)
+Centroid: (294.0, 242.66666666666666)
+Orientation: 0.3664075508932533
+
+Label: 250
+Area: 1.0
+Bounding Box: (292, 259, 293, 260)
+Centroid: (292.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 251
+Area: 3.0
+Bounding Box: (293, 397, 296, 399)
+Centroid: (294.0, 397.6666666666667)
+Orientation: -0.4913968616236646
+
+Label: 252
+Area: 1.0
+Bounding Box: (294, 259, 295, 260)
+Centroid: (294.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 253
+Area: 1.0
+Bounding Box: (294, 263, 295, 264)
+Centroid: (294.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 254
+Area: 1.0
+Bounding Box: (295, 376, 296, 377)
+Centroid: (295.0, 376.0)
+Orientation: -0.7853981633974483
+
+Label: 255
+Area: 2.0
+Bounding Box: (296, 361, 298, 362)
+Centroid: (296.5, 361.0)
+Orientation: 0.0
+
+Label: 256
+Area: 2.0
+Bounding Box: (296, 364, 298, 366)
+Centroid: (296.5, 364.5)
+Orientation: 0.7853981633974483
+
+Label: 257
+Area: 6.0
+Bounding Box: (296, 520, 300, 524)
+Centroid: (297.5, 521.8333333333334)
+Orientation: -0.9945103281870631
+
+Label: 258
+Area: 1.0
+Bounding Box: (296, 526, 297, 527)
+Centroid: (296.0, 526.0)
+Orientation: -0.7853981633974483
+
+Label: 259
+Area: 4.0
+Bounding Box: (296, 536, 299, 539)
+Centroid: (297.0, 537.0)
+Orientation: -0.7853981633974483
+
+Label: 260
+Area: 1.0
+Bounding Box: (296, 542, 297, 543)
+Centroid: (296.0, 542.0)
+Orientation: -0.7853981633974483
+
+Label: 261
+Area: 11.0
+Bounding Box: (297, 32, 303, 38)
+Centroid: (298.90909090909093, 33.90909090909091)
+Orientation: -0.7472777514603791
+
+Label: 262
+Area: 1.0
+Bounding Box: (297, 241, 298, 242)
+Centroid: (297.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 263
+Area: 2.0
+Bounding Box: (297, 368, 299, 370)
+Centroid: (297.5, 368.5)
+Orientation: -0.7853981633974483
+
+Label: 264
+Area: 2.0
+Bounding Box: (297, 374, 299, 376)
+Centroid: (297.5, 374.5)
+Orientation: 0.7853981633974483
+
+Label: 265
+Area: 4.0
+Bounding Box: (298, 46, 302, 48)
+Centroid: (299.5, 46.5)
+Orientation: 0.0
+
+Label: 266
+Area: 1.0
+Bounding Box: (298, 243, 299, 244)
+Centroid: (298.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 267
+Area: 10.0
+Bounding Box: (298, 362, 302, 368)
+Centroid: (299.7, 364.3)
+Orientation: 1.4382748968461694
+
+Label: 268
+Area: 2.0
+Bounding Box: (298, 526, 299, 528)
+Centroid: (298.0, 526.5)
+Orientation: 1.5707963267948966
+
+Label: 269
+Area: 2.0
+Bounding Box: (298, 540, 299, 542)
+Centroid: (298.0, 540.5)
+Orientation: 1.5707963267948966
+
+Label: 270
+Area: 4.0
+Bounding Box: (299, 260, 303, 262)
+Centroid: (300.5, 260.5)
+Orientation: 0.0
+
+Label: 271
+Area: 1.0
+Bounding Box: (300, 240, 301, 241)
+Centroid: (300.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 272
+Area: 1.0
+Bounding Box: (300, 370, 301, 371)
+Centroid: (300.0, 370.0)
+Orientation: -0.7853981633974483
+
+Label: 273
+Area: 1.0
+Bounding Box: (300, 373, 301, 374)
+Centroid: (300.0, 373.0)
+Orientation: -0.7853981633974483
+
+Label: 274
+Area: 1.0
+Bounding Box: (300, 525, 301, 526)
+Centroid: (300.0, 525.0)
+Orientation: -0.7853981633974483
+
+Label: 275
+Area: 1.0
+Bounding Box: (300, 537, 301, 538)
+Centroid: (300.0, 537.0)
+Orientation: -0.7853981633974483
+
+Label: 276
+Area: 9252.0
+Bounding Box: (300, 466, 510, 572)
+Centroid: (402.70201037613487, 516.5193471681798)
+Orientation: -0.039083560027582995
+
+Label: 277
+Area: 1.0
+Bounding Box: (301, 36, 302, 37)
+Centroid: (301.0, 36.0)
+Orientation: -0.7853981633974483
+
+Label: 278
+Area: 6.0
+Bounding Box: (301, 42, 304, 46)
+Centroid: (302.0, 43.333333333333336)
+Orientation: 0.8947326363344194
+
+Label: 279
+Area: 1.0
+Bounding Box: (301, 242, 302, 243)
+Centroid: (301.0, 242.0)
+Orientation: -0.7853981633974483
+
+Label: 280
+Area: 1.0
+Bounding Box: (301, 379, 302, 380)
+Centroid: (301.0, 379.0)
+Orientation: -0.7853981633974483
+
+Label: 281
+Area: 1.0
+Bounding Box: (301, 521, 302, 522)
+Centroid: (301.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 282
+Area: 1.0
+Bounding Box: (301, 527, 302, 528)
+Centroid: (301.0, 527.0)
+Orientation: -0.7853981633974483
+
+Label: 283
+Area: 2.0
+Bounding Box: (302, 360, 303, 362)
+Centroid: (302.0, 360.5)
+Orientation: 1.5707963267948966
+
+Label: 284
+Area: 2.0
+Bounding Box: (302, 371, 303, 373)
+Centroid: (302.0, 371.5)
+Orientation: 1.5707963267948966
+
+Label: 285
+Area: 1.0
+Bounding Box: (302, 539, 303, 540)
+Centroid: (302.0, 539.0)
+Orientation: -0.7853981633974483
+
+Label: 286
+Area: 1.0
+Bounding Box: (303, 241, 304, 242)
+Centroid: (303.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 287
+Area: 1.0
+Bounding Box: (303, 262, 304, 263)
+Centroid: (303.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 288
+Area: 1.0
+Bounding Box: (303, 363, 304, 364)
+Centroid: (303.0, 363.0)
+Orientation: -0.7853981633974483
+
+Label: 289
+Area: 1.0
+Bounding Box: (303, 536, 304, 537)
+Centroid: (303.0, 536.0)
+Orientation: -0.7853981633974483
+
+Label: 290
+Area: 7.0
+Bounding Box: (304, 32, 309, 36)
+Centroid: (305.7142857142857, 33.142857142857146)
+Orientation: -0.1514424341874858
+
+Label: 291
+Area: 1.0
+Bounding Box: (304, 49, 305, 50)
+Centroid: (304.0, 49.0)
+Orientation: -0.7853981633974483
+
+Label: 292
+Area: 2.0
+Bounding Box: (304, 51, 306, 53)
+Centroid: (304.5, 51.5)
+Orientation: -0.7853981633974483
+
+Label: 293
+Area: 2.0
+Bounding Box: (304, 59, 306, 61)
+Centroid: (304.5, 59.5)
+Orientation: 0.7853981633974483
+
+Label: 294
+Area: 1.0
+Bounding Box: (304, 62, 305, 63)
+Centroid: (304.0, 62.0)
+Orientation: -0.7853981633974483
+
+Label: 295
+Area: 2.0
+Bounding Box: (304, 64, 306, 66)
+Centroid: (304.5, 64.5)
+Orientation: -0.7853981633974483
+
+Label: 296
+Area: 1.0
+Bounding Box: (304, 71, 305, 72)
+Centroid: (304.0, 71.0)
+Orientation: -0.7853981633974483
+
+Label: 297
+Area: 1.0
+Bounding Box: (304, 82, 305, 83)
+Centroid: (304.0, 82.0)
+Orientation: -0.7853981633974483
+
+Label: 298
+Area: 1.0
+Bounding Box: (304, 260, 305, 261)
+Centroid: (304.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 299
+Area: 1.0
+Bounding Box: (304, 394, 305, 395)
+Centroid: (304.0, 394.0)
+Orientation: -0.7853981633974483
+
+Label: 300
+Area: 5.0
+Bounding Box: (304, 557, 307, 560)
+Centroid: (305.2, 558.0)
+Orientation: -1.0556079135327403
+
+Label: 301
+Area: 7487.0
+Bounding Box: (305, 42, 502, 144)
+Centroid: (396.96901295579005, 95.79764925871511)
+Orientation: 0.0493155985064669
+
+Label: 302
+Area: 1.0
+Bounding Box: (305, 85, 306, 86)
+Centroid: (305.0, 85.0)
+Orientation: -0.7853981633974483
+
+Label: 303
+Area: 1.0
+Bounding Box: (305, 104, 306, 105)
+Centroid: (305.0, 104.0)
+Orientation: -0.7853981633974483
+
+Label: 304
+Area: 2.0
+Bounding Box: (305, 106, 307, 108)
+Centroid: (305.5, 106.5)
+Orientation: 0.7853981633974483
+
+Label: 305
+Area: 1.0
+Bounding Box: (305, 110, 306, 111)
+Centroid: (305.0, 110.0)
+Orientation: -0.7853981633974483
+
+Label: 306
+Area: 1.0
+Bounding Box: (305, 240, 306, 241)
+Centroid: (305.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 307
+Area: 2.0
+Bounding Box: (305, 242, 307, 244)
+Centroid: (305.5, 242.5)
+Orientation: 0.7853981633974483
+
+Label: 308
+Area: 2.0
+Bounding Box: (305, 262, 307, 263)
+Centroid: (305.5, 262.0)
+Orientation: 0.0
+
+Label: 309
+Area: 5.0
+Bounding Box: (305, 361, 309, 365)
+Centroid: (306.4, 362.8)
+Orientation: 0.8753249132936874
+
+Label: 310
+Area: 8.0
+Bounding Box: (305, 395, 311, 399)
+Centroid: (307.375, 396.625)
+Orientation: -0.5025474290693595
+
+Label: 311
+Area: 1.0
+Bounding Box: (305, 516, 306, 517)
+Centroid: (305.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 312
+Area: 5.0
+Bounding Box: (305, 549, 309, 552)
+Centroid: (306.2, 549.8)
+Orientation: -0.19025318855618245
+
+Label: 313
+Area: 2.0
+Bounding Box: (305, 554, 306, 556)
+Centroid: (305.0, 554.5)
+Orientation: 1.5707963267948966
+
+Label: 314
+Area: 2.0
+Bounding Box: (306, 39, 308, 40)
+Centroid: (306.5, 39.0)
+Orientation: 0.0
+
+Label: 315
+Area: 1.0
+Bounding Box: (306, 54, 307, 55)
+Centroid: (306.0, 54.0)
+Orientation: -0.7853981633974483
+
+Label: 316
+Area: 1.0
+Bounding Box: (306, 57, 307, 58)
+Centroid: (306.0, 57.0)
+Orientation: -0.7853981633974483
+
+Label: 317
+Area: 3.0
+Bounding Box: (306, 512, 309, 514)
+Centroid: (307.0, 512.6666666666666)
+Orientation: -0.4913968616236646
+
+Label: 318
+Area: 3.0
+Bounding Box: (307, 49, 309, 52)
+Centroid: (307.6666666666667, 50.0)
+Orientation: 1.079399465171232
+
+Label: 319
+Area: 3.0
+Bounding Box: (307, 60, 309, 63)
+Centroid: (307.6666666666667, 61.0)
+Orientation: -1.079399465171232
+
+Label: 320
+Area: 2.0
+Bounding Box: (307, 81, 309, 82)
+Centroid: (307.5, 81.0)
+Orientation: 0.0
+
+Label: 321
+Area: 1.0
+Bounding Box: (307, 87, 308, 88)
+Centroid: (307.0, 87.0)
+Orientation: -0.7853981633974483
+
+Label: 322
+Area: 1.0
+Bounding Box: (307, 105, 308, 106)
+Centroid: (307.0, 105.0)
+Orientation: -0.7853981633974483
+
+Label: 323
+Area: 2.0
+Bounding Box: (307, 110, 309, 112)
+Centroid: (307.5, 110.5)
+Orientation: -0.7853981633974483
+
+Label: 324
+Area: 1.0
+Bounding Box: (307, 240, 308, 241)
+Centroid: (307.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 325
+Area: 1.0
+Bounding Box: (307, 260, 308, 261)
+Centroid: (307.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 326
+Area: 1.0
+Bounding Box: (307, 360, 308, 361)
+Centroid: (307.0, 360.0)
+Orientation: -0.7853981633974483
+
+Label: 327
+Area: 1.0
+Bounding Box: (307, 547, 308, 548)
+Centroid: (307.0, 547.0)
+Orientation: -0.7853981633974483
+
+Label: 328
+Area: 1.0
+Bounding Box: (307, 552, 308, 553)
+Centroid: (307.0, 552.0)
+Orientation: -0.7853981633974483
+
+Label: 329
+Area: 1.0
+Bounding Box: (307, 554, 308, 555)
+Centroid: (307.0, 554.0)
+Orientation: -0.7853981633974483
+
+Label: 330
+Area: 3.0
+Bounding Box: (308, 242, 310, 245)
+Centroid: (308.3333333333333, 243.0)
+Orientation: 1.079399465171232
+
+Label: 331
+Area: 1.0
+Bounding Box: (308, 262, 309, 263)
+Centroid: (308.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 332
+Area: 2.0
+Bounding Box: (308, 514, 310, 516)
+Centroid: (308.5, 514.5)
+Orientation: -0.7853981633974483
+
+Label: 333
+Area: 1.0
+Bounding Box: (308, 559, 309, 560)
+Centroid: (308.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 334
+Area: 3.0
+Bounding Box: (309, 360, 311, 363)
+Centroid: (309.3333333333333, 361.0)
+Orientation: -1.079399465171232
+
+Label: 335
+Area: 1.0
+Bounding Box: (309, 399, 310, 400)
+Centroid: (309.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 336
+Area: 1.0
+Bounding Box: (309, 554, 310, 555)
+Centroid: (309.0, 554.0)
+Orientation: -0.7853981633974483
+
+Label: 337
+Area: 2.0
+Bounding Box: (310, 38, 312, 40)
+Centroid: (310.5, 38.5)
+Orientation: 0.7853981633974483
+
+Label: 338
+Area: 1.0
+Bounding Box: (310, 241, 311, 242)
+Centroid: (310.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 339
+Area: 1.0
+Bounding Box: (311, 244, 312, 245)
+Centroid: (311.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 340
+Area: 1.0
+Bounding Box: (311, 398, 312, 399)
+Centroid: (311.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 341
+Area: 2.0
+Bounding Box: (312, 43, 314, 45)
+Centroid: (312.5, 43.5)
+Orientation: -0.7853981633974483
+
+Label: 342
+Area: 2.0
+Bounding Box: (312, 241, 314, 243)
+Centroid: (312.5, 241.5)
+Orientation: -0.7853981633974483
+
+Label: 343
+Area: 3.0
+Bounding Box: (312, 361, 315, 363)
+Centroid: (313.0, 361.6666666666667)
+Orientation: 0.4913968616236646
+
+Label: 344
+Area: 2.0
+Bounding Box: (312, 494, 314, 496)
+Centroid: (312.5, 494.5)
+Orientation: 0.7853981633974483
+
+Label: 345
+Area: 3.0
+Bounding Box: (312, 499, 314, 502)
+Centroid: (312.6666666666667, 500.0)
+Orientation: -1.079399465171232
+
+Label: 346
+Area: 1.0
+Bounding Box: (312, 505, 313, 506)
+Centroid: (312.0, 505.0)
+Orientation: -0.7853981633974483
+
+Label: 347
+Area: 1.0
+Bounding Box: (312, 566, 313, 567)
+Centroid: (312.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 348
+Area: 4.0
+Bounding Box: (313, 564, 317, 566)
+Centroid: (314.5, 564.5)
+Orientation: 0.0
+
+Label: 349
+Area: 1.0
+Bounding Box: (314, 119, 315, 120)
+Centroid: (314.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 350
+Area: 1.0
+Bounding Box: (314, 243, 315, 244)
+Centroid: (314.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 351
+Area: 1.0
+Bounding Box: (314, 263, 315, 264)
+Centroid: (314.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 352
+Area: 1.0
+Bounding Box: (314, 364, 315, 365)
+Centroid: (314.0, 364.0)
+Orientation: -0.7853981633974483
+
+Label: 353
+Area: 1.0
+Bounding Box: (314, 488, 315, 489)
+Centroid: (314.0, 488.0)
+Orientation: -0.7853981633974483
+
+Label: 354
+Area: 1.0
+Bounding Box: (314, 490, 315, 491)
+Centroid: (314.0, 490.0)
+Orientation: -0.7853981633974483
+
+Label: 355
+Area: 1.0
+Bounding Box: (314, 493, 315, 494)
+Centroid: (314.0, 493.0)
+Orientation: -0.7853981633974483
+
+Label: 356
+Area: 1.0
+Bounding Box: (315, 117, 316, 118)
+Centroid: (315.0, 117.0)
+Orientation: -0.7853981633974483
+
+Label: 357
+Area: 1.0
+Bounding Box: (315, 241, 316, 242)
+Centroid: (315.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 358
+Area: 3.0
+Bounding Box: (315, 260, 318, 262)
+Centroid: (316.0, 260.3333333333333)
+Orientation: 0.0
+
+Label: 359
+Area: 2.0
+Bounding Box: (315, 366, 317, 367)
+Centroid: (315.5, 366.0)
+Orientation: 0.0
+
+Label: 360
+Area: 1.0
+Bounding Box: (316, 42, 317, 43)
+Centroid: (316.0, 42.0)
+Orientation: -0.7853981633974483
+
+Label: 361
+Area: 4.0
+Bounding Box: (316, 117, 320, 120)
+Centroid: (317.5, 118.0)
+Orientation: -0.4636476090008061
+
+Label: 362
+Area: 1.0
+Bounding Box: (316, 263, 317, 264)
+Centroid: (316.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 363
+Area: 1.0
+Bounding Box: (316, 361, 317, 362)
+Centroid: (316.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 364
+Area: 3.0
+Bounding Box: (316, 363, 319, 365)
+Centroid: (317.0, 363.3333333333333)
+Orientation: 0.0
+
+Label: 365
+Area: 1.0
+Bounding Box: (316, 502, 317, 503)
+Centroid: (316.0, 502.0)
+Orientation: -0.7853981633974483
+
+Label: 366
+Area: 1.0
+Bounding Box: (317, 40, 318, 41)
+Centroid: (317.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 367
+Area: 1.0
+Bounding Box: (317, 242, 318, 243)
+Centroid: (317.0, 242.0)
+Orientation: -0.7853981633974483
+
+Label: 368
+Area: 1.0
+Bounding Box: (317, 244, 318, 245)
+Centroid: (317.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 369
+Area: 1.0
+Bounding Box: (317, 391, 318, 392)
+Centroid: (317.0, 391.0)
+Orientation: -0.7853981633974483
+
+Label: 370
+Area: 1.0
+Bounding Box: (317, 529, 318, 530)
+Centroid: (317.0, 529.0)
+Orientation: -0.7853981633974483
+
+Label: 371
+Area: 2.0
+Bounding Box: (317, 531, 319, 533)
+Centroid: (317.5, 531.5)
+Orientation: -0.7853981633974483
+
+Label: 372
+Area: 1.0
+Bounding Box: (317, 534, 318, 535)
+Centroid: (317.0, 534.0)
+Orientation: -0.7853981633974483
+
+Label: 373
+Area: 1.0
+Bounding Box: (318, 42, 319, 43)
+Centroid: (318.0, 42.0)
+Orientation: -0.7853981633974483
+
+Label: 374
+Area: 2.0
+Bounding Box: (318, 114, 320, 116)
+Centroid: (318.5, 114.5)
+Orientation: -0.7853981633974483
+
+Label: 375
+Area: 1.0
+Bounding Box: (318, 361, 319, 362)
+Centroid: (318.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 376
+Area: 1.0
+Bounding Box: (319, 66, 320, 67)
+Centroid: (319.0, 66.0)
+Orientation: -0.7853981633974483
+
+Label: 377
+Area: 2.0
+Bounding Box: (320, 32, 322, 34)
+Centroid: (320.5, 32.5)
+Orientation: 0.7853981633974483
+
+Label: 378
+Area: 3.0
+Bounding Box: (320, 38, 323, 40)
+Centroid: (321.0, 38.333333333333336)
+Orientation: 0.0
+
+Label: 379
+Area: 1.0
+Bounding Box: (320, 44, 321, 45)
+Centroid: (320.0, 44.0)
+Orientation: -0.7853981633974483
+
+Label: 380
+Area: 1.0
+Bounding Box: (320, 125, 321, 126)
+Centroid: (320.0, 125.0)
+Orientation: -0.7853981633974483
+
+Label: 381
+Area: 2.0
+Bounding Box: (320, 134, 322, 136)
+Centroid: (320.5, 134.5)
+Orientation: 0.7853981633974483
+
+Label: 382
+Area: 2.0
+Bounding Box: (320, 138, 322, 140)
+Centroid: (320.5, 138.5)
+Orientation: -0.7853981633974483
+
+Label: 383
+Area: 2.0
+Bounding Box: (320, 142, 322, 143)
+Centroid: (320.5, 142.0)
+Orientation: 0.0
+
+Label: 384
+Area: 2.0
+Bounding Box: (320, 240, 322, 242)
+Centroid: (320.5, 240.5)
+Orientation: 0.7853981633974483
+
+Label: 385
+Area: 2.0
+Bounding Box: (320, 361, 322, 363)
+Centroid: (320.5, 361.5)
+Orientation: -0.7853981633974483
+
+Label: 386
+Area: 1.0
+Bounding Box: (320, 399, 321, 400)
+Centroid: (320.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 387
+Area: 5.0
+Bounding Box: (320, 481, 325, 484)
+Centroid: (322.0, 482.0)
+Orientation: -0.3217505543966422
+
+Label: 388
+Area: 1.0
+Bounding Box: (320, 535, 321, 536)
+Centroid: (320.0, 535.0)
+Orientation: -0.7853981633974483
+
+Label: 389
+Area: 2.0
+Bounding Box: (320, 566, 322, 567)
+Centroid: (320.5, 566.0)
+Orientation: 0.0
+
+Label: 390
+Area: 1.0
+Bounding Box: (321, 41, 322, 42)
+Centroid: (321.0, 41.0)
+Orientation: -0.7853981633974483
+
+Label: 391
+Area: 12.0
+Bounding Box: (321, 72, 328, 78)
+Centroid: (323.0, 74.0)
+Orientation: -0.39269908169872414
+
+Label: 392
+Area: 3.0
+Bounding Box: (321, 115, 323, 118)
+Centroid: (321.3333333333333, 116.0)
+Orientation: 1.5707963267948966
+
+Label: 393
+Area: 6.0
+Bounding Box: (321, 118, 325, 123)
+Centroid: (322.5, 120.0)
+Orientation: -0.8010180801125825
+
+Label: 394
+Area: 2.0
+Bounding Box: (321, 129, 323, 131)
+Centroid: (321.5, 129.5)
+Orientation: 0.7853981633974483
+
+Label: 395
+Area: 1.0
+Bounding Box: (321, 132, 322, 133)
+Centroid: (321.0, 132.0)
+Orientation: -0.7853981633974483
+
+Label: 396
+Area: 1.0
+Bounding Box: (321, 480, 322, 481)
+Centroid: (321.0, 480.0)
+Orientation: -0.7853981633974483
+
+Label: 397
+Area: 1.0
+Bounding Box: (321, 563, 322, 564)
+Centroid: (321.0, 563.0)
+Orientation: -0.7853981633974483
+
+Label: 398
+Area: 3.0
+Bounding Box: (322, 42, 324, 45)
+Centroid: (322.6666666666667, 43.0)
+Orientation: -1.079399465171232
+
+Label: 399
+Area: 1.0
+Bounding Box: (322, 108, 323, 109)
+Centroid: (322.0, 108.0)
+Orientation: -0.7853981633974483
+
+Label: 400
+Area: 10.0
+Bounding Box: (322, 136, 326, 142)
+Centroid: (323.7, 138.7)
+Orientation: -1.4382748968461694
+
+Label: 401
+Area: 1.0
+Bounding Box: (323, 32, 324, 33)
+Centroid: (323.0, 32.0)
+Orientation: -0.7853981633974483
+
+Label: 402
+Area: 1.0
+Bounding Box: (323, 111, 324, 112)
+Centroid: (323.0, 111.0)
+Orientation: -0.7853981633974483
+
+Label: 403
+Area: 1.0
+Bounding Box: (323, 128, 324, 129)
+Centroid: (323.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 404
+Area: 1.0
+Bounding Box: (323, 242, 324, 243)
+Centroid: (323.0, 242.0)
+Orientation: -0.7853981633974483
+
+Label: 405
+Area: 1.0
+Bounding Box: (323, 261, 324, 262)
+Centroid: (323.0, 261.0)
+Orientation: -0.7853981633974483
+
+Label: 406
+Area: 2.0
+Bounding Box: (323, 360, 325, 362)
+Centroid: (323.5, 360.5)
+Orientation: -0.7853981633974483
+
+Label: 407
+Area: 1.0
+Bounding Box: (323, 398, 324, 399)
+Centroid: (323.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 408
+Area: 1.0
+Bounding Box: (323, 516, 324, 517)
+Centroid: (323.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 409
+Area: 1.0
+Bounding Box: (323, 564, 324, 565)
+Centroid: (323.0, 564.0)
+Orientation: -0.7853981633974483
+
+Label: 410
+Area: 2.0
+Bounding Box: (323, 566, 325, 568)
+Centroid: (323.5, 566.5)
+Orientation: -0.7853981633974483
+
+Label: 411
+Area: 1.0
+Bounding Box: (324, 40, 325, 41)
+Centroid: (324.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 412
+Area: 1.0
+Bounding Box: (324, 113, 325, 114)
+Centroid: (324.0, 113.0)
+Orientation: -0.7853981633974483
+
+Label: 413
+Area: 4.0
+Bounding Box: (324, 396, 328, 398)
+Centroid: (325.5, 396.5)
+Orientation: 0.23182380450040305
+
+Label: 414
+Area: 2.0
+Bounding Box: (325, 42, 327, 44)
+Centroid: (325.5, 42.5)
+Orientation: -0.7853981633974483
+
+Label: 415
+Area: 1.0
+Bounding Box: (325, 128, 326, 129)
+Centroid: (325.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 416
+Area: 1.0
+Bounding Box: (325, 243, 326, 244)
+Centroid: (325.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 417
+Area: 2.0
+Bounding Box: (325, 564, 327, 566)
+Centroid: (325.5, 564.5)
+Orientation: 0.7853981633974483
+
+Label: 418
+Area: 1.0
+Bounding Box: (326, 40, 327, 41)
+Centroid: (326.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 419
+Area: 2.0
+Bounding Box: (326, 142, 327, 144)
+Centroid: (326.0, 142.5)
+Orientation: 1.5707963267948966
+
+Label: 420
+Area: 1.0
+Bounding Box: (326, 240, 327, 241)
+Centroid: (326.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 421
+Area: 1.0
+Bounding Box: (326, 360, 327, 361)
+Centroid: (326.0, 360.0)
+Orientation: -0.7853981633974483
+
+Label: 422
+Area: 1.0
+Bounding Box: (326, 362, 327, 363)
+Centroid: (326.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 423
+Area: 1.0
+Bounding Box: (326, 567, 327, 568)
+Centroid: (326.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 424
+Area: 5.0
+Bounding Box: (327, 140, 332, 142)
+Centroid: (329.0, 140.4)
+Orientation: 0.0
+
+Label: 425
+Area: 1.0
+Bounding Box: (327, 243, 328, 244)
+Centroid: (327.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 426
+Area: 4.0
+Bounding Box: (328, 268, 331, 271)
+Centroid: (328.75, 269.0)
+Orientation: 0.6060128282621622
+
+Label: 427
+Area: 4.0
+Bounding Box: (328, 277, 331, 280)
+Centroid: (328.75, 278.25)
+Orientation: 0.7853981633974483
+
+Label: 428
+Area: 1.0
+Bounding Box: (328, 515, 329, 516)
+Centroid: (328.0, 515.0)
+Orientation: -0.7853981633974483
+
+Label: 429
+Area: 1.0
+Bounding Box: (329, 73, 330, 74)
+Centroid: (329.0, 73.0)
+Orientation: -0.7853981633974483
+
+Label: 430
+Area: 2.0
+Bounding Box: (329, 76, 330, 78)
+Centroid: (329.0, 76.5)
+Orientation: 1.5707963267948966
+
+Label: 431
+Area: 1.0
+Bounding Box: (329, 79, 330, 80)
+Centroid: (329.0, 79.0)
+Orientation: -0.7853981633974483
+
+Label: 432
+Area: 1.0
+Bounding Box: (329, 158, 330, 159)
+Centroid: (329.0, 158.0)
+Orientation: -0.7853981633974483
+
+Label: 433
+Area: 2.0
+Bounding Box: (329, 241, 330, 243)
+Centroid: (329.0, 241.5)
+Orientation: 1.5707963267948966
+
+Label: 434
+Area: 1.0
+Bounding Box: (329, 244, 330, 245)
+Centroid: (329.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 435
+Area: 1.0
+Bounding Box: (329, 273, 330, 274)
+Centroid: (329.0, 273.0)
+Orientation: -0.7853981633974483
+
+Label: 436
+Area: 2.0
+Bounding Box: (329, 395, 331, 397)
+Centroid: (329.5, 395.5)
+Orientation: 0.7853981633974483
+
+Label: 437
+Area: 1.0
+Bounding Box: (329, 399, 330, 400)
+Centroid: (329.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 438
+Area: 2.0
+Bounding Box: (329, 494, 331, 495)
+Centroid: (329.5, 494.0)
+Orientation: 0.0
+
+Label: 439
+Area: 1.0
+Bounding Box: (329, 528, 330, 529)
+Centroid: (329.0, 528.0)
+Orientation: -0.7853981633974483
+
+Label: 440
+Area: 1.0
+Bounding Box: (329, 552, 330, 553)
+Centroid: (329.0, 552.0)
+Orientation: -0.7853981633974483
+
+Label: 441
+Area: 1.0
+Bounding Box: (329, 567, 330, 568)
+Centroid: (329.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 442
+Area: 1.0
+Bounding Box: (331, 40, 332, 41)
+Centroid: (331.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 443
+Area: 8.0
+Bounding Box: (331, 157, 336, 160)
+Centroid: (333.25, 158.0)
+Orientation: -0.19926122283321013
+
+Label: 444
+Area: 1.0
+Bounding Box: (331, 243, 332, 244)
+Centroid: (331.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 445
+Area: 1.0
+Bounding Box: (331, 272, 332, 273)
+Centroid: (331.0, 272.0)
+Orientation: -0.7853981633974483
+
+Label: 446
+Area: 1.0
+Bounding Box: (331, 529, 332, 530)
+Centroid: (331.0, 529.0)
+Orientation: -0.7853981633974483
+
+Label: 447
+Area: 1.0
+Bounding Box: (332, 42, 333, 43)
+Centroid: (332.0, 42.0)
+Orientation: -0.7853981633974483
+
+Label: 448
+Area: 1.0
+Bounding Box: (332, 142, 333, 143)
+Centroid: (332.0, 142.0)
+Orientation: -0.7853981633974483
+
+Label: 449
+Area: 1.0
+Bounding Box: (332, 397, 333, 398)
+Centroid: (332.0, 397.0)
+Orientation: -0.7853981633974483
+
+Label: 450
+Area: 1.0
+Bounding Box: (332, 399, 333, 400)
+Centroid: (332.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 451
+Area: 2.0
+Bounding Box: (333, 92, 335, 93)
+Centroid: (333.5, 92.0)
+Orientation: 0.0
+
+Label: 452
+Area: 4.0
+Bounding Box: (333, 395, 337, 398)
+Centroid: (334.5, 396.0)
+Orientation: 0.4636476090008061
+
+Label: 453
+Area: 1.0
+Bounding Box: (333, 531, 334, 532)
+Centroid: (333.0, 531.0)
+Orientation: -0.7853981633974483
+
+Label: 454
+Area: 1.0
+Bounding Box: (334, 34, 335, 35)
+Centroid: (334.0, 34.0)
+Orientation: -0.7853981633974483
+
+Label: 455
+Area: 1.0
+Bounding Box: (334, 72, 335, 73)
+Centroid: (334.0, 72.0)
+Orientation: -0.7853981633974483
+
+Label: 456
+Area: 2.0
+Bounding Box: (334, 74, 335, 76)
+Centroid: (334.0, 74.5)
+Orientation: 1.5707963267948966
+
+Label: 457
+Area: 1.0
+Bounding Box: (334, 78, 335, 79)
+Centroid: (334.0, 78.0)
+Orientation: -0.7853981633974483
+
+Label: 458
+Area: 1.0
+Bounding Box: (334, 493, 335, 494)
+Centroid: (334.0, 493.0)
+Orientation: -0.7853981633974483
+
+Label: 459
+Area: 1.0
+Bounding Box: (334, 495, 335, 496)
+Centroid: (334.0, 495.0)
+Orientation: -0.7853981633974483
+
+Label: 460
+Area: 1.0
+Bounding Box: (334, 533, 335, 534)
+Centroid: (334.0, 533.0)
+Orientation: -0.7853981633974483
+
+Label: 461
+Area: 3.0
+Bounding Box: (335, 94, 338, 96)
+Centroid: (336.0, 94.33333333333333)
+Orientation: 0.4913968616236646
+
+Label: 462
+Area: 1.0
+Bounding Box: (335, 143, 336, 144)
+Centroid: (335.0, 143.0)
+Orientation: -0.7853981633974483
+
+Label: 463
+Area: 1.0
+Bounding Box: (335, 473, 336, 474)
+Centroid: (335.0, 473.0)
+Orientation: -0.7853981633974483
+
+Label: 464
+Area: 2.0
+Bounding Box: (336, 70, 338, 72)
+Centroid: (336.5, 70.5)
+Orientation: 0.7853981633974483
+
+Label: 465
+Area: 1.0
+Bounding Box: (336, 73, 337, 74)
+Centroid: (336.0, 73.0)
+Orientation: -0.7853981633974483
+
+Label: 466
+Area: 1.0
+Bounding Box: (336, 81, 337, 82)
+Centroid: (336.0, 81.0)
+Orientation: -0.7853981633974483
+
+Label: 467
+Area: 1.0
+Bounding Box: (336, 234, 337, 235)
+Centroid: (336.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 468
+Area: 1.0
+Bounding Box: (336, 527, 337, 528)
+Centroid: (336.0, 527.0)
+Orientation: -0.7853981633974483
+
+Label: 469
+Area: 1.0
+Bounding Box: (337, 32, 338, 33)
+Centroid: (337.0, 32.0)
+Orientation: -0.7853981633974483
+
+Label: 470
+Area: 1.0
+Bounding Box: (337, 45, 338, 46)
+Centroid: (337.0, 45.0)
+Orientation: -0.7853981633974483
+
+Label: 471
+Area: 2.0
+Bounding Box: (337, 97, 339, 99)
+Centroid: (337.5, 97.5)
+Orientation: -0.7853981633974483
+
+Label: 472
+Area: 2.0
+Bounding Box: (337, 398, 338, 400)
+Centroid: (337.0, 398.5)
+Orientation: 1.5707963267948966
+
+Label: 473
+Area: 3.0
+Bounding Box: (338, 32, 341, 35)
+Centroid: (339.0, 33.0)
+Orientation: -0.7853981633974483
+
+Label: 474
+Area: 1.0
+Bounding Box: (338, 232, 339, 233)
+Centroid: (338.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 475
+Area: 1.0
+Bounding Box: (338, 360, 339, 361)
+Centroid: (338.0, 360.0)
+Orientation: -0.7853981633974483
+
+Label: 476
+Area: 2.0
+Bounding Box: (338, 537, 340, 539)
+Centroid: (338.5, 537.5)
+Orientation: 0.7853981633974483
+
+Label: 477
+Area: 1.0
+Bounding Box: (338, 554, 339, 555)
+Centroid: (338.0, 554.0)
+Orientation: -0.7853981633974483
+
+Label: 478
+Area: 1.0
+Bounding Box: (339, 126, 340, 127)
+Centroid: (339.0, 126.0)
+Orientation: -0.7853981633974483
+
+Label: 479
+Area: 1.0
+Bounding Box: (339, 128, 340, 129)
+Centroid: (339.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 480
+Area: 2.0
+Bounding Box: (339, 234, 340, 236)
+Centroid: (339.0, 234.5)
+Orientation: 1.5707963267948966
+
+Label: 481
+Area: 1.0
+Bounding Box: (339, 287, 340, 288)
+Centroid: (339.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 482
+Area: 1.0
+Bounding Box: (339, 362, 340, 363)
+Centroid: (339.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 483
+Area: 1.0
+Bounding Box: (339, 389, 340, 390)
+Centroid: (339.0, 389.0)
+Orientation: -0.7853981633974483
+
+Label: 484
+Area: 1.0
+Bounding Box: (339, 566, 340, 567)
+Centroid: (339.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 485
+Area: 1.0
+Bounding Box: (340, 40, 341, 41)
+Centroid: (340.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 486
+Area: 3.0
+Bounding Box: (340, 96, 341, 99)
+Centroid: (340.0, 97.0)
+Orientation: 1.5707963267948966
+
+Label: 487
+Area: 1.0
+Bounding Box: (340, 106, 341, 107)
+Centroid: (340.0, 106.0)
+Orientation: -0.7853981633974483
+
+Label: 488
+Area: 2.0
+Bounding Box: (340, 232, 342, 234)
+Centroid: (340.5, 232.5)
+Orientation: 0.7853981633974483
+
+Label: 489
+Area: 4.0
+Bounding Box: (340, 360, 344, 363)
+Centroid: (341.5, 361.0)
+Orientation: 0.4636476090008061
+
+Label: 490
+Area: 1.0
+Bounding Box: (340, 536, 341, 537)
+Centroid: (340.0, 536.0)
+Orientation: -0.7853981633974483
+
+Label: 491
+Area: 1.0
+Bounding Box: (340, 540, 341, 541)
+Centroid: (340.0, 540.0)
+Orientation: -0.7853981633974483
+
+Label: 492
+Area: 2.0
+Bounding Box: (340, 554, 342, 555)
+Centroid: (340.5, 554.0)
+Orientation: 0.0
+
+Label: 493
+Area: 8.0
+Bounding Box: (341, 32, 345, 37)
+Centroid: (343.0, 34.25)
+Orientation: -1.2074751564540338
+
+Label: 494
+Area: 1.0
+Bounding Box: (341, 128, 342, 129)
+Centroid: (341.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 495
+Area: 2.0
+Bounding Box: (341, 388, 343, 390)
+Centroid: (341.5, 388.5)
+Orientation: 0.7853981633974483
+
+Label: 496
+Area: 1.0
+Bounding Box: (341, 538, 342, 539)
+Centroid: (341.0, 538.0)
+Orientation: -0.7853981633974483
+
+Label: 497
+Area: 2.0
+Bounding Box: (342, 105, 344, 107)
+Centroid: (342.5, 105.5)
+Orientation: -0.7853981633974483
+
+Label: 498
+Area: 3.0
+Bounding Box: (342, 131, 345, 133)
+Centroid: (343.0, 131.66666666666666)
+Orientation: 0.4913968616236646
+
+Label: 499
+Area: 1.0
+Bounding Box: (342, 135, 343, 136)
+Centroid: (342.0, 135.0)
+Orientation: -0.7853981633974483
+
+Label: 500
+Area: 1.0
+Bounding Box: (342, 282, 343, 283)
+Centroid: (342.0, 282.0)
+Orientation: -0.7853981633974483
+
+Label: 501
+Area: 2.0
+Bounding Box: (342, 364, 344, 366)
+Centroid: (342.5, 364.5)
+Orientation: 0.7853981633974483
+
+Label: 502
+Area: 2.0
+Bounding Box: (342, 394, 344, 396)
+Centroid: (342.5, 394.5)
+Orientation: 0.7853981633974483
+
+Label: 503
+Area: 2.0
+Bounding Box: (342, 398, 344, 399)
+Centroid: (342.5, 398.0)
+Orientation: 0.0
+
+Label: 504
+Area: 1.0
+Bounding Box: (342, 472, 343, 473)
+Centroid: (342.0, 472.0)
+Orientation: -0.7853981633974483
+
+Label: 505
+Area: 1.0
+Bounding Box: (343, 60, 344, 61)
+Centroid: (343.0, 60.0)
+Orientation: -0.7853981633974483
+
+Label: 506
+Area: 1.0
+Bounding Box: (343, 71, 344, 72)
+Centroid: (343.0, 71.0)
+Orientation: -0.7853981633974483
+
+Label: 507
+Area: 6.0
+Bounding Box: (343, 89, 348, 92)
+Centroid: (345.3333333333333, 90.0)
+Orientation: -0.08733609950411983
+
+Label: 508
+Area: 1.0
+Bounding Box: (343, 474, 344, 475)
+Centroid: (343.0, 474.0)
+Orientation: -0.7853981633974483
+
+Label: 509
+Area: 1.0
+Bounding Box: (343, 537, 344, 538)
+Centroid: (343.0, 537.0)
+Orientation: -0.7853981633974483
+
+Label: 510
+Area: 2.0
+Bounding Box: (344, 42, 346, 43)
+Centroid: (344.5, 42.0)
+Orientation: 0.0
+
+Label: 511
+Area: 2.0
+Bounding Box: (344, 44, 345, 46)
+Centroid: (344.0, 44.5)
+Orientation: 1.5707963267948966
+
+Label: 512
+Area: 6.0
+Bounding Box: (344, 61, 348, 64)
+Centroid: (345.5, 62.0)
+Orientation: -0.4636476090008061
+
+Label: 513
+Area: 2.0
+Bounding Box: (344, 97, 346, 98)
+Centroid: (344.5, 97.0)
+Orientation: 0.0
+
+Label: 514
+Area: 1.0
+Bounding Box: (344, 234, 345, 235)
+Centroid: (344.0, 234.0)
+Orientation: -0.7853981633974483
+
+Label: 515
+Area: 4.0
+Bounding Box: (344, 526, 347, 528)
+Centroid: (345.25, 526.5)
+Orientation: -0.25957305712326145
+
+Label: 516
+Area: 1.0
+Bounding Box: (344, 573, 345, 574)
+Centroid: (344.0, 573.0)
+Orientation: -0.7853981633974483
+
+Label: 517
+Area: 1.0
+Bounding Box: (345, 232, 346, 233)
+Centroid: (345.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 518
+Area: 2.0
+Bounding Box: (345, 388, 347, 390)
+Centroid: (345.5, 388.5)
+Orientation: -0.7853981633974483
+
+Label: 519
+Area: 1.0
+Bounding Box: (345, 472, 346, 473)
+Centroid: (345.0, 472.0)
+Orientation: -0.7853981633974483
+
+Label: 520
+Area: 2.0
+Bounding Box: (345, 475, 347, 477)
+Centroid: (345.5, 475.5)
+Orientation: -0.7853981633974483
+
+Label: 521
+Area: 1.0
+Bounding Box: (345, 539, 346, 540)
+Centroid: (345.0, 539.0)
+Orientation: -0.7853981633974483
+
+Label: 522
+Area: 7.0
+Bounding Box: (346, 32, 351, 36)
+Centroid: (347.7142857142857, 33.142857142857146)
+Orientation: -0.557847759113351
+
+Label: 523
+Area: 2.0
+Bounding Box: (346, 45, 348, 47)
+Centroid: (346.5, 45.5)
+Orientation: 0.7853981633974483
+
+Label: 524
+Area: 1.0
+Bounding Box: (346, 287, 347, 288)
+Centroid: (346.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 525
+Area: 1.0
+Bounding Box: (346, 391, 347, 392)
+Centroid: (346.0, 391.0)
+Orientation: -0.7853981633974483
+
+Label: 526
+Area: 2.0
+Bounding Box: (346, 537, 348, 539)
+Centroid: (346.5, 537.5)
+Orientation: 0.7853981633974483
+
+Label: 527
+Area: 1.0
+Bounding Box: (346, 574, 347, 575)
+Centroid: (346.0, 574.0)
+Orientation: -0.7853981633974483
+
+Label: 528
+Area: 1.0
+Bounding Box: (347, 78, 348, 79)
+Centroid: (347.0, 78.0)
+Orientation: -0.7853981633974483
+
+Label: 529
+Area: 1.0
+Bounding Box: (347, 524, 348, 525)
+Centroid: (347.0, 524.0)
+Orientation: -0.7853981633974483
+
+Label: 530
+Area: 2.0
+Bounding Box: (347, 540, 349, 542)
+Centroid: (347.5, 540.5)
+Orientation: -0.7853981633974483
+
+Label: 531
+Area: 1.0
+Bounding Box: (348, 232, 349, 233)
+Centroid: (348.0, 232.0)
+Orientation: -0.7853981633974483
+
+Label: 532
+Area: 3.0
+Bounding Box: (348, 234, 350, 237)
+Centroid: (348.6666666666667, 235.0)
+Orientation: 1.079399465171232
+
+Label: 533
+Area: 1.0
+Bounding Box: (348, 472, 349, 473)
+Centroid: (348.0, 472.0)
+Orientation: -0.7853981633974483
+
+Label: 534
+Area: 1.0
+Bounding Box: (348, 474, 349, 475)
+Centroid: (348.0, 474.0)
+Orientation: -0.7853981633974483
+
+Label: 535
+Area: 1.0
+Bounding Box: (348, 527, 349, 528)
+Centroid: (348.0, 527.0)
+Orientation: -0.7853981633974483
+
+Label: 536
+Area: 1.0
+Bounding Box: (348, 572, 349, 573)
+Centroid: (348.0, 572.0)
+Orientation: -0.7853981633974483
+
+Label: 537
+Area: 2.0
+Bounding Box: (348, 574, 350, 576)
+Centroid: (348.5, 574.5)
+Orientation: -0.7853981633974483
+
+Label: 538
+Area: 1.0
+Bounding Box: (349, 44, 350, 45)
+Centroid: (349.0, 44.0)
+Orientation: -0.7853981633974483
+
+Label: 539
+Area: 5.0
+Bounding Box: (349, 46, 352, 50)
+Centroid: (349.8, 47.4)
+Orientation: -1.1071487177940904
+
+Label: 540
+Area: 4.0
+Bounding Box: (349, 60, 351, 64)
+Centroid: (349.5, 61.5)
+Orientation: 1.1780972450961724
+
+Label: 541
+Area: 1.0
+Bounding Box: (349, 77, 350, 78)
+Centroid: (349.0, 77.0)
+Orientation: -0.7853981633974483
+
+Label: 542
+Area: 1.0
+Bounding Box: (349, 79, 350, 80)
+Centroid: (349.0, 79.0)
+Orientation: -0.7853981633974483
+
+Label: 543
+Area: 1.0
+Bounding Box: (349, 88, 350, 89)
+Centroid: (349.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 544
+Area: 3.0
+Bounding Box: (349, 474, 352, 477)
+Centroid: (350.0, 475.0)
+Orientation: -0.7853981633974483
+
+Label: 545
+Area: 1.0
+Bounding Box: (349, 497, 350, 498)
+Centroid: (349.0, 497.0)
+Orientation: -0.7853981633974483
+
+Label: 546
+Area: 7.0
+Bounding Box: (350, 42, 357, 45)
+Centroid: (353.0, 43.142857142857146)
+Orientation: 0.2540314121238585
+
+Label: 547
+Area: 1.0
+Bounding Box: (350, 233, 351, 234)
+Centroid: (350.0, 233.0)
+Orientation: -0.7853981633974483
+
+Label: 548
+Area: 2.0
+Bounding Box: (351, 50, 352, 52)
+Centroid: (351.0, 50.5)
+Orientation: 1.5707963267948966
+
+Label: 549
+Area: 1.0
+Bounding Box: (351, 548, 352, 549)
+Centroid: (351.0, 548.0)
+Orientation: -0.7853981633974483
+
+Label: 550
+Area: 3.0
+Bounding Box: (352, 45, 355, 47)
+Centroid: (353.0, 45.666666666666664)
+Orientation: 0.4913968616236646
+
+Label: 551
+Area: 3.0
+Bounding Box: (352, 65, 355, 67)
+Centroid: (353.0, 65.66666666666667)
+Orientation: 0.4913968616236646
+
+Label: 552
+Area: 1.0
+Bounding Box: (352, 140, 353, 141)
+Centroid: (352.0, 140.0)
+Orientation: -0.7853981633974483
+
+Label: 553
+Area: 1.0
+Bounding Box: (352, 235, 353, 236)
+Centroid: (352.0, 235.0)
+Orientation: -0.7853981633974483
+
+Label: 554
+Area: 1.0
+Bounding Box: (352, 291, 353, 292)
+Centroid: (352.0, 291.0)
+Orientation: -0.7853981633974483
+
+Label: 555
+Area: 3.0
+Bounding Box: (352, 293, 355, 295)
+Centroid: (353.0, 293.3333333333333)
+Orientation: 0.0
+
+Label: 556
+Area: 3.0
+Bounding Box: (352, 396, 355, 398)
+Centroid: (353.0, 396.3333333333333)
+Orientation: -0.4913968616236646
+
+Label: 557
+Area: 1.0
+Bounding Box: (352, 524, 353, 525)
+Centroid: (352.0, 524.0)
+Orientation: -0.7853981633974483
+
+Label: 558
+Area: 3.0
+Bounding Box: (352, 529, 354, 532)
+Centroid: (352.3333333333333, 530.0)
+Orientation: -1.079399465171232
+
+Label: 559
+Area: 1.0
+Bounding Box: (353, 51, 354, 52)
+Centroid: (353.0, 51.0)
+Orientation: -0.7853981633974483
+
+Label: 560
+Area: 1.0
+Bounding Box: (353, 62, 354, 63)
+Centroid: (353.0, 62.0)
+Orientation: -0.7853981633974483
+
+Label: 561
+Area: 1.0
+Bounding Box: (353, 81, 354, 82)
+Centroid: (353.0, 81.0)
+Orientation: -0.7853981633974483
+
+Label: 562
+Area: 2.0
+Bounding Box: (353, 232, 355, 234)
+Centroid: (353.5, 232.5)
+Orientation: -0.7853981633974483
+
+Label: 563
+Area: 1.0
+Bounding Box: (353, 474, 354, 475)
+Centroid: (353.0, 474.0)
+Orientation: -0.7853981633974483
+
+Label: 564
+Area: 1.0
+Bounding Box: (353, 476, 354, 477)
+Centroid: (353.0, 476.0)
+Orientation: -0.7853981633974483
+
+Label: 565
+Area: 6.0
+Bounding Box: (353, 505, 356, 510)
+Centroid: (354.5, 507.0)
+Orientation: 1.421546861001807
+
+Label: 566
+Area: 1.0
+Bounding Box: (353, 527, 354, 528)
+Centroid: (353.0, 527.0)
+Orientation: -0.7853981633974483
+
+Label: 567
+Area: 1.0
+Bounding Box: (353, 567, 354, 568)
+Centroid: (353.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 568
+Area: 1.0
+Bounding Box: (354, 49, 355, 50)
+Centroid: (354.0, 49.0)
+Orientation: -0.7853981633974483
+
+Label: 569
+Area: 1.0
+Bounding Box: (354, 53, 355, 54)
+Centroid: (354.0, 53.0)
+Orientation: -0.7853981633974483
+
+Label: 570
+Area: 13.0
+Bounding Box: (354, 524, 359, 533)
+Centroid: (355.6923076923077, 527.6923076923077)
+Orientation: -1.360216660978007
+
+Label: 571
+Area: 1.0
+Bounding Box: (355, 51, 356, 52)
+Centroid: (355.0, 51.0)
+Orientation: -0.7853981633974483
+
+Label: 572
+Area: 1.0
+Bounding Box: (355, 82, 356, 83)
+Centroid: (355.0, 82.0)
+Orientation: -0.7853981633974483
+
+Label: 573
+Area: 2.0
+Bounding Box: (355, 103, 356, 105)
+Centroid: (355.0, 103.5)
+Orientation: 1.5707963267948966
+
+Label: 574
+Area: 1.0
+Bounding Box: (355, 111, 356, 112)
+Centroid: (355.0, 111.0)
+Orientation: -0.7853981633974483
+
+Label: 575
+Area: 1.0
+Bounding Box: (355, 113, 356, 114)
+Centroid: (355.0, 113.0)
+Orientation: -0.7853981633974483
+
+Label: 576
+Area: 2.0
+Bounding Box: (355, 142, 357, 144)
+Centroid: (355.5, 142.5)
+Orientation: -0.7853981633974483
+
+Label: 577
+Area: 5.0
+Bounding Box: (355, 232, 358, 236)
+Centroid: (356.0, 233.6)
+Orientation: -0.8840959433223887
+
+Label: 578
+Area: 1.0
+Bounding Box: (355, 398, 356, 399)
+Centroid: (355.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 579
+Area: 1.0
+Bounding Box: (355, 501, 356, 502)
+Centroid: (355.0, 501.0)
+Orientation: -0.7853981633974483
+
+Label: 580
+Area: 2.0
+Bounding Box: (356, 294, 358, 296)
+Centroid: (356.5, 294.5)
+Orientation: 0.7853981633974483
+
+Label: 581
+Area: 2.0
+Bounding Box: (357, 49, 359, 51)
+Centroid: (357.5, 49.5)
+Orientation: -0.7853981633974483
+
+Label: 582
+Area: 4.0
+Bounding Box: (357, 140, 360, 144)
+Centroid: (358.0, 141.5)
+Orientation: 1.1071487177940904
+
+Label: 583
+Area: 3.0
+Bounding Box: (357, 565, 359, 568)
+Centroid: (357.3333333333333, 566.0)
+Orientation: 1.079399465171232
+
+Label: 584
+Area: 12.0
+Bounding Box: (358, 43, 365, 48)
+Centroid: (360.75, 44.916666666666664)
+Orientation: 0.02741152893223916
+
+Label: 585
+Area: 9.0
+Bounding Box: (358, 64, 363, 68)
+Centroid: (359.77777777777777, 65.66666666666667)
+Orientation: -0.3073314759610827
+
+Label: 586
+Area: 1.0
+Bounding Box: (358, 398, 359, 399)
+Centroid: (358.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 587
+Area: 1.0
+Bounding Box: (358, 474, 359, 475)
+Centroid: (358.0, 474.0)
+Orientation: -0.7853981633974483
+
+Label: 588
+Area: 1.0
+Bounding Box: (359, 116, 360, 117)
+Centroid: (359.0, 116.0)
+Orientation: -0.7853981633974483
+
+Label: 589
+Area: 1.0
+Bounding Box: (359, 138, 360, 139)
+Centroid: (359.0, 138.0)
+Orientation: -0.7853981633974483
+
+Label: 590
+Area: 1.0
+Bounding Box: (359, 260, 360, 261)
+Centroid: (359.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 591
+Area: 2.0
+Bounding Box: (359, 530, 361, 532)
+Centroid: (359.5, 530.5)
+Orientation: -0.7853981633974483
+
+Label: 592
+Area: 1.0
+Bounding Box: (360, 249, 361, 250)
+Centroid: (360.0, 249.0)
+Orientation: -0.7853981633974483
+
+Label: 593
+Area: 3.0
+Bounding Box: (360, 396, 362, 399)
+Centroid: (360.3333333333333, 397.0)
+Orientation: 1.5707963267948966
+
+Label: 594
+Area: 6.0
+Bounding Box: (360, 564, 365, 567)
+Centroid: (361.8333333333333, 564.8333333333334)
+Orientation: -0.14189705460416382
+
+Label: 595
+Area: 1.0
+Bounding Box: (361, 51, 362, 52)
+Centroid: (361.0, 51.0)
+Orientation: -0.7853981633974483
+
+Label: 596
+Area: 2.0
+Bounding Box: (361, 140, 363, 142)
+Centroid: (361.5, 140.5)
+Orientation: -0.7853981633974483
+
+Label: 597
+Area: 3.0
+Bounding Box: (361, 227, 363, 230)
+Centroid: (361.3333333333333, 228.0)
+Orientation: 1.079399465171232
+
+Label: 598
+Area: 1.0
+Bounding Box: (361, 299, 362, 300)
+Centroid: (361.0, 299.0)
+Orientation: -0.7853981633974483
+
+Label: 599
+Area: 3.0
+Bounding Box: (361, 302, 364, 304)
+Centroid: (362.0, 302.3333333333333)
+Orientation: 0.4913968616236646
+
+Label: 600
+Area: 1.0
+Bounding Box: (361, 360, 362, 361)
+Centroid: (361.0, 360.0)
+Orientation: -0.7853981633974483
+
+Label: 601
+Area: 9.0
+Bounding Box: (361, 525, 366, 529)
+Centroid: (363.3333333333333, 526.4444444444445)
+Orientation: 0.2024458931425417
+
+Label: 602
+Area: 1.0
+Bounding Box: (362, 49, 363, 50)
+Centroid: (362.0, 49.0)
+Orientation: -0.7853981633974483
+
+Label: 603
+Area: 5.0
+Bounding Box: (362, 67, 365, 71)
+Centroid: (363.0, 68.4)
+Orientation: 1.5707963267948966
+
+Label: 604
+Area: 3.0
+Bounding Box: (362, 87, 364, 90)
+Centroid: (362.6666666666667, 88.0)
+Orientation: -1.079399465171232
+
+Label: 605
+Area: 2.0
+Bounding Box: (362, 137, 364, 139)
+Centroid: (362.5, 137.5)
+Orientation: 0.7853981633974483
+
+Label: 606
+Area: 1.0
+Bounding Box: (362, 225, 363, 226)
+Centroid: (362.0, 225.0)
+Orientation: -0.7853981633974483
+
+Label: 607
+Area: 1.0
+Bounding Box: (362, 245, 363, 246)
+Centroid: (362.0, 245.0)
+Orientation: -0.7853981633974483
+
+Label: 608
+Area: 2.0
+Bounding Box: (362, 247, 363, 249)
+Centroid: (362.0, 247.5)
+Orientation: 1.5707963267948966
+
+Label: 609
+Area: 1.0
+Bounding Box: (362, 399, 363, 400)
+Centroid: (362.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 610
+Area: 2.0
+Bounding Box: (362, 530, 364, 531)
+Centroid: (362.5, 530.0)
+Orientation: 0.0
+
+Label: 611
+Area: 1.0
+Bounding Box: (362, 567, 363, 568)
+Centroid: (362.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 612
+Area: 2.0
+Bounding Box: (363, 50, 365, 52)
+Centroid: (363.5, 50.5)
+Orientation: -0.7853981633974483
+
+Label: 613
+Area: 6.0
+Bounding Box: (363, 143, 366, 146)
+Centroid: (364.1666666666667, 144.0)
+Orientation: -0.5880026035475673
+
+Label: 614
+Area: 2.0
+Bounding Box: (363, 227, 365, 229)
+Centroid: (363.5, 227.5)
+Orientation: 0.7853981633974483
+
+Label: 615
+Area: 1.0
+Bounding Box: (363, 300, 364, 301)
+Centroid: (363.0, 300.0)
+Orientation: -0.7853981633974483
+
+Label: 616
+Area: 1.0
+Bounding Box: (363, 361, 364, 362)
+Centroid: (363.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 617
+Area: 1.0
+Bounding Box: (363, 363, 364, 364)
+Centroid: (363.0, 363.0)
+Orientation: -0.7853981633974483
+
+Label: 618
+Area: 3.0
+Bounding Box: (363, 474, 365, 476)
+Centroid: (363.3333333333333, 474.6666666666667)
+Orientation: 0.7853981633974483
+
+Label: 619
+Area: 6.0
+Bounding Box: (364, 64, 368, 68)
+Centroid: (365.5, 65.0)
+Orientation: 1.2334258556831204
+
+Label: 620
+Area: 2.0
+Bounding Box: (364, 267, 366, 269)
+Centroid: (364.5, 267.5)
+Orientation: -0.7853981633974483
+
+Label: 621
+Area: 1.0
+Bounding Box: (364, 523, 365, 524)
+Centroid: (364.0, 523.0)
+Orientation: -0.7853981633974483
+
+Label: 622
+Area: 1.0
+Bounding Box: (364, 532, 365, 533)
+Centroid: (364.0, 532.0)
+Orientation: -0.7853981633974483
+
+Label: 623
+Area: 1.0
+Bounding Box: (364, 542, 365, 543)
+Centroid: (364.0, 542.0)
+Orientation: -0.7853981633974483
+
+Label: 624
+Area: 6.0
+Bounding Box: (364, 565, 369, 568)
+Centroid: (366.1666666666667, 566.1666666666666)
+Orientation: -0.5223649538990667
+
+Label: 625
+Area: 1.0
+Bounding Box: (365, 46, 366, 47)
+Centroid: (365.0, 46.0)
+Orientation: -0.7853981633974483
+
+Label: 626
+Area: 1.0
+Bounding Box: (365, 52, 366, 53)
+Centroid: (365.0, 52.0)
+Orientation: -0.7853981633974483
+
+Label: 627
+Area: 3.0
+Bounding Box: (365, 224, 367, 227)
+Centroid: (365.6666666666667, 225.0)
+Orientation: 1.5707963267948966
+
+Label: 628
+Area: 4.0
+Bounding Box: (365, 299, 367, 303)
+Centroid: (365.25, 300.5)
+Orientation: -1.4552509931969482
+
+Label: 629
+Area: 1.0
+Bounding Box: (365, 360, 366, 361)
+Centroid: (365.0, 360.0)
+Orientation: -0.7853981633974483
+
+Label: 630
+Area: 1.0
+Bounding Box: (365, 362, 366, 363)
+Centroid: (365.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 631
+Area: 11.0
+Bounding Box: (365, 544, 371, 549)
+Centroid: (367.90909090909093, 546.0909090909091)
+Orientation: 0.6558471545077432
+
+Label: 632
+Area: 1.0
+Bounding Box: (366, 50, 367, 51)
+Centroid: (366.0, 50.0)
+Orientation: -0.7853981633974483
+
+Label: 633
+Area: 2.0
+Bounding Box: (366, 81, 368, 83)
+Centroid: (366.5, 81.5)
+Orientation: -0.7853981633974483
+
+Label: 634
+Area: 1.0
+Bounding Box: (366, 85, 367, 86)
+Centroid: (366.0, 85.0)
+Orientation: -0.7853981633974483
+
+Label: 635
+Area: 3.0
+Bounding Box: (366, 141, 369, 143)
+Centroid: (367.0, 141.33333333333334)
+Orientation: 0.0
+
+Label: 636
+Area: 1.0
+Bounding Box: (366, 148, 367, 149)
+Centroid: (366.0, 148.0)
+Orientation: -0.7853981633974483
+
+Label: 637
+Area: 3.0
+Bounding Box: (366, 473, 369, 475)
+Centroid: (367.0, 473.6666666666667)
+Orientation: 0.4913968616236646
+
+Label: 638
+Area: 1.0
+Bounding Box: (366, 500, 367, 501)
+Centroid: (366.0, 500.0)
+Orientation: -0.7853981633974483
+
+Label: 639
+Area: 2.0
+Bounding Box: (366, 541, 368, 543)
+Centroid: (366.5, 541.5)
+Orientation: -0.7853981633974483
+
+Label: 640
+Area: 1.0
+Bounding Box: (367, 44, 368, 45)
+Centroid: (367.0, 44.0)
+Orientation: -0.7853981633974483
+
+Label: 641
+Area: 2.0
+Bounding Box: (367, 46, 369, 48)
+Centroid: (367.5, 46.5)
+Orientation: 0.7853981633974483
+
+Label: 642
+Area: 3.0
+Bounding Box: (367, 226, 369, 229)
+Centroid: (367.6666666666667, 227.0)
+Orientation: -1.079399465171232
+
+Label: 643
+Area: 1.0
+Bounding Box: (367, 267, 368, 268)
+Centroid: (367.0, 267.0)
+Orientation: -0.7853981633974483
+
+Label: 644
+Area: 4.0
+Bounding Box: (367, 361, 370, 364)
+Centroid: (368.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 645
+Area: 1.0
+Bounding Box: (367, 525, 368, 526)
+Centroid: (367.0, 525.0)
+Orientation: -0.7853981633974483
+
+Label: 646
+Area: 1.0
+Bounding Box: (368, 97, 369, 98)
+Centroid: (368.0, 97.0)
+Orientation: -0.7853981633974483
+
+Label: 647
+Area: 1.0
+Bounding Box: (368, 521, 369, 522)
+Centroid: (368.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 648
+Area: 7.0
+Bounding Box: (369, 45, 375, 48)
+Centroid: (371.57142857142856, 46.0)
+Orientation: 0.31501695477295755
+
+Label: 649
+Area: 1.0
+Bounding Box: (369, 274, 370, 275)
+Centroid: (369.0, 274.0)
+Orientation: -0.7853981633974483
+
+Label: 650
+Area: 2.0
+Bounding Box: (369, 299, 371, 301)
+Centroid: (369.5, 299.5)
+Orientation: -0.7853981633974483
+
+Label: 651
+Area: 3.0
+Bounding Box: (369, 301, 372, 303)
+Centroid: (370.0, 301.6666666666667)
+Orientation: -0.4913968616236646
+
+Label: 652
+Area: 2.0
+Bounding Box: (369, 398, 370, 400)
+Centroid: (369.0, 398.5)
+Orientation: 1.5707963267948966
+
+Label: 653
+Area: 4.0
+Bounding Box: (369, 521, 372, 524)
+Centroid: (370.25, 522.25)
+Orientation: -0.7853981633974483
+
+Label: 654
+Area: 1.0
+Bounding Box: (370, 118, 371, 119)
+Centroid: (370.0, 118.0)
+Orientation: -0.7853981633974483
+
+Label: 655
+Area: 4.0
+Bounding Box: (370, 224, 373, 227)
+Centroid: (371.25, 225.0)
+Orientation: 0.0
+
+Label: 656
+Area: 6.0
+Bounding Box: (370, 360, 373, 365)
+Centroid: (371.1666666666667, 362.1666666666667)
+Orientation: -1.3225849500924556
+
+Label: 657
+Area: 1.0
+Bounding Box: (370, 473, 371, 474)
+Centroid: (370.0, 473.0)
+Orientation: -0.7853981633974483
+
+Label: 658
+Area: 1.0
+Bounding Box: (370, 519, 371, 520)
+Centroid: (370.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 659
+Area: 5.0
+Bounding Box: (370, 564, 373, 568)
+Centroid: (371.4, 565.6)
+Orientation: -0.9987119099608863
+
+Label: 660
+Area: 1.0
+Bounding Box: (371, 247, 372, 248)
+Centroid: (371.0, 247.0)
+Orientation: -0.7853981633974483
+
+Label: 661
+Area: 2.0
+Bounding Box: (371, 515, 372, 517)
+Centroid: (371.0, 515.5)
+Orientation: 1.5707963267948966
+
+Label: 662
+Area: 2.0
+Bounding Box: (371, 545, 373, 547)
+Centroid: (371.5, 545.5)
+Orientation: 0.7853981633974483
+
+Label: 663
+Area: 8.0
+Bounding Box: (372, 256, 377, 260)
+Centroid: (373.875, 257.625)
+Orientation: 0.5423821987274001
+
+Label: 664
+Area: 3.0
+Bounding Box: (372, 273, 375, 276)
+Centroid: (373.0, 274.0)
+Orientation: 0.7853981633974483
+
+Label: 665
+Area: 1.0
+Bounding Box: (372, 276, 373, 277)
+Centroid: (372.0, 276.0)
+Orientation: -0.7853981633974483
+
+Label: 666
+Area: 2.0
+Bounding Box: (372, 299, 374, 301)
+Centroid: (372.5, 299.5)
+Orientation: 0.7853981633974483
+
+Label: 667
+Area: 2.0
+Bounding Box: (372, 518, 374, 520)
+Centroid: (372.5, 518.5)
+Orientation: 0.7853981633974483
+
+Label: 668
+Area: 1.0
+Bounding Box: (372, 548, 373, 549)
+Centroid: (372.0, 548.0)
+Orientation: -0.7853981633974483
+
+Label: 669
+Area: 2.0
+Bounding Box: (373, 142, 375, 144)
+Centroid: (373.5, 142.5)
+Orientation: 0.7853981633974483
+
+Label: 670
+Area: 2.0
+Bounding Box: (373, 268, 374, 270)
+Centroid: (373.0, 268.5)
+Orientation: 1.5707963267948966
+
+Label: 671
+Area: 1.0
+Bounding Box: (373, 271, 374, 272)
+Centroid: (373.0, 271.0)
+Orientation: -0.7853981633974483
+
+Label: 672
+Area: 2.0
+Bounding Box: (373, 521, 374, 523)
+Centroid: (373.0, 521.5)
+Orientation: 1.5707963267948966
+
+Label: 673
+Area: 2.0
+Bounding Box: (373, 524, 375, 525)
+Centroid: (373.5, 524.0)
+Orientation: 0.0
+
+Label: 674
+Area: 1.0
+Bounding Box: (373, 542, 374, 543)
+Centroid: (373.0, 542.0)
+Orientation: -0.7853981633974483
+
+Label: 675
+Area: 1.0
+Bounding Box: (373, 562, 374, 563)
+Centroid: (373.0, 562.0)
+Orientation: -0.7853981633974483
+
+Label: 676
+Area: 1.0
+Bounding Box: (374, 140, 375, 141)
+Centroid: (374.0, 140.0)
+Orientation: -0.7853981633974483
+
+Label: 677
+Area: 1.0
+Bounding Box: (374, 224, 375, 225)
+Centroid: (374.0, 224.0)
+Orientation: -0.7853981633974483
+
+Label: 678
+Area: 2.0
+Bounding Box: (374, 226, 375, 228)
+Centroid: (374.0, 226.5)
+Orientation: 1.5707963267948966
+
+Label: 679
+Area: 2.0
+Bounding Box: (374, 254, 376, 256)
+Centroid: (374.5, 254.5)
+Orientation: -0.7853981633974483
+
+Label: 680
+Area: 2.0
+Bounding Box: (374, 279, 376, 281)
+Centroid: (374.5, 279.5)
+Orientation: -0.7853981633974483
+
+Label: 681
+Area: 1.0
+Bounding Box: (374, 303, 375, 304)
+Centroid: (374.0, 303.0)
+Orientation: -0.7853981633974483
+
+Label: 682
+Area: 3.0
+Bounding Box: (374, 394, 377, 397)
+Centroid: (375.0, 395.0)
+Orientation: 0.7853981633974483
+
+Label: 683
+Area: 2.0
+Bounding Box: (374, 398, 376, 399)
+Centroid: (374.5, 398.0)
+Orientation: 0.0
+
+Label: 684
+Area: 1.0
+Bounding Box: (374, 496, 375, 497)
+Centroid: (374.0, 496.0)
+Orientation: -0.7853981633974483
+
+Label: 685
+Area: 1.0
+Bounding Box: (374, 498, 375, 499)
+Centroid: (374.0, 498.0)
+Orientation: -0.7853981633974483
+
+Label: 686
+Area: 2.0
+Bounding Box: (374, 544, 375, 546)
+Centroid: (374.0, 544.5)
+Orientation: 1.5707963267948966
+
+Label: 687
+Area: 3.0
+Bounding Box: (374, 563, 377, 566)
+Centroid: (375.0, 564.0)
+Orientation: -0.7853981633974483
+
+Label: 688
+Area: 1.0
+Bounding Box: (375, 45, 376, 46)
+Centroid: (375.0, 45.0)
+Orientation: -0.7853981633974483
+
+Label: 689
+Area: 1.0
+Bounding Box: (375, 248, 376, 249)
+Centroid: (375.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 690
+Area: 2.0
+Bounding Box: (375, 273, 377, 274)
+Centroid: (375.5, 273.0)
+Orientation: 0.0
+
+Label: 691
+Area: 1.0
+Bounding Box: (375, 301, 376, 302)
+Centroid: (375.0, 301.0)
+Orientation: -0.7853981633974483
+
+Label: 692
+Area: 1.0
+Bounding Box: (375, 363, 376, 364)
+Centroid: (375.0, 363.0)
+Orientation: -0.7853981633974483
+
+Label: 693
+Area: 1.0
+Bounding Box: (375, 517, 376, 518)
+Centroid: (375.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 694
+Area: 1.0
+Bounding Box: (376, 50, 377, 51)
+Centroid: (376.0, 50.0)
+Orientation: -0.7853981633974483
+
+Label: 695
+Area: 2.0
+Bounding Box: (376, 138, 378, 140)
+Centroid: (376.5, 138.5)
+Orientation: -0.7853981633974483
+
+Label: 696
+Area: 2.0
+Bounding Box: (376, 142, 378, 143)
+Centroid: (376.5, 142.0)
+Orientation: 0.0
+
+Label: 697
+Area: 1.0
+Bounding Box: (376, 470, 377, 471)
+Centroid: (376.0, 470.0)
+Orientation: -0.7853981633974483
+
+Label: 698
+Area: 1.0
+Bounding Box: (376, 545, 377, 546)
+Centroid: (376.0, 545.0)
+Orientation: -0.7853981633974483
+
+Label: 699
+Area: 2.0
+Bounding Box: (377, 51, 379, 53)
+Centroid: (377.5, 51.5)
+Orientation: -0.7853981633974483
+
+Label: 700
+Area: 1.0
+Bounding Box: (377, 81, 378, 82)
+Centroid: (377.0, 81.0)
+Orientation: -0.7853981633974483
+
+Label: 701
+Area: 4.0
+Bounding Box: (377, 83, 379, 85)
+Centroid: (377.5, 83.5)
+Orientation: -0.7853981633974483
+
+Label: 702
+Area: 1.0
+Bounding Box: (377, 86, 378, 87)
+Centroid: (377.0, 86.0)
+Orientation: -0.7853981633974483
+
+Label: 703
+Area: 1.0
+Bounding Box: (377, 256, 378, 257)
+Centroid: (377.0, 256.0)
+Orientation: -0.7853981633974483
+
+Label: 704
+Area: 1.0
+Bounding Box: (377, 275, 378, 276)
+Centroid: (377.0, 275.0)
+Orientation: -0.7853981633974483
+
+Label: 705
+Area: 1.0
+Bounding Box: (377, 301, 378, 302)
+Centroid: (377.0, 301.0)
+Orientation: -0.7853981633974483
+
+Label: 706
+Area: 1.0
+Bounding Box: (377, 398, 378, 399)
+Centroid: (377.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 707
+Area: 1.0
+Bounding Box: (377, 464, 378, 465)
+Centroid: (377.0, 464.0)
+Orientation: -0.7853981633974483
+
+Label: 708
+Area: 1.0
+Bounding Box: (377, 466, 378, 467)
+Centroid: (377.0, 466.0)
+Orientation: -0.7853981633974483
+
+Label: 709
+Area: 1.0
+Bounding Box: (377, 518, 378, 519)
+Centroid: (377.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 710
+Area: 1.0
+Bounding Box: (377, 565, 378, 566)
+Centroid: (377.0, 565.0)
+Orientation: -0.7853981633974483
+
+Label: 711
+Area: 1.0
+Bounding Box: (377, 567, 378, 568)
+Centroid: (377.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 712
+Area: 1.0
+Bounding Box: (378, 88, 379, 89)
+Centroid: (378.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 713
+Area: 10.0
+Bounding Box: (378, 136, 382, 142)
+Centroid: (379.7, 138.7)
+Orientation: -1.4382748968461694
+
+Label: 714
+Area: 1.0
+Bounding Box: (378, 521, 379, 522)
+Centroid: (378.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 715
+Area: 2.0
+Bounding Box: (378, 544, 380, 546)
+Centroid: (378.5, 544.5)
+Orientation: -0.7853981633974483
+
+Label: 716
+Area: 1.0
+Bounding Box: (378, 563, 379, 564)
+Centroid: (378.0, 563.0)
+Orientation: -0.7853981633974483
+
+Label: 717
+Area: 1.0
+Bounding Box: (379, 300, 380, 301)
+Centroid: (379.0, 300.0)
+Orientation: -0.7853981633974483
+
+Label: 718
+Area: 1.0
+Bounding Box: (379, 380, 380, 381)
+Centroid: (379.0, 380.0)
+Orientation: -0.7853981633974483
+
+Label: 719
+Area: 2.0
+Bounding Box: (379, 464, 381, 466)
+Centroid: (379.5, 464.5)
+Orientation: 0.7853981633974483
+
+Label: 720
+Area: 1.0
+Bounding Box: (379, 566, 380, 567)
+Centroid: (379.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 721
+Area: 1.0
+Bounding Box: (380, 47, 381, 48)
+Centroid: (380.0, 47.0)
+Orientation: -0.7853981633974483
+
+Label: 722
+Area: 1.0
+Bounding Box: (380, 51, 381, 52)
+Centroid: (380.0, 51.0)
+Orientation: -0.7853981633974483
+
+Label: 723
+Area: 2.0
+Bounding Box: (380, 301, 382, 303)
+Centroid: (380.5, 301.5)
+Orientation: -0.7853981633974483
+
+Label: 724
+Area: 1.0
+Bounding Box: (380, 398, 381, 399)
+Centroid: (380.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 725
+Area: 1.0
+Bounding Box: (380, 503, 381, 504)
+Centroid: (380.0, 503.0)
+Orientation: -0.7853981633974483
+
+Label: 726
+Area: 6.0
+Bounding Box: (381, 40, 387, 43)
+Centroid: (383.5, 41.333333333333336)
+Orientation: 0.35139203979440115
+
+Label: 727
+Area: 2.0
+Bounding Box: (381, 516, 383, 518)
+Centroid: (381.5, 516.5)
+Orientation: -0.7853981633974483
+
+Label: 728
+Area: 2.0
+Bounding Box: (381, 520, 383, 522)
+Centroid: (381.5, 520.5)
+Orientation: 0.7853981633974483
+
+Label: 729
+Area: 1.0
+Bounding Box: (381, 564, 382, 565)
+Centroid: (381.0, 564.0)
+Orientation: -0.7853981633974483
+
+Label: 730
+Area: 1.0
+Bounding Box: (381, 567, 382, 568)
+Centroid: (381.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 731
+Area: 2.0
+Bounding Box: (382, 46, 384, 48)
+Centroid: (382.5, 46.5)
+Orientation: 0.7853981633974483
+
+Label: 732
+Area: 2.0
+Bounding Box: (382, 49, 384, 51)
+Centroid: (382.5, 49.5)
+Orientation: -0.7853981633974483
+
+Label: 733
+Area: 2.0
+Bounding Box: (382, 142, 383, 144)
+Centroid: (382.0, 142.5)
+Orientation: 1.5707963267948966
+
+Label: 734
+Area: 1.0
+Bounding Box: (382, 245, 383, 246)
+Centroid: (382.0, 245.0)
+Orientation: -0.7853981633974483
+
+Label: 735
+Area: 1.0
+Bounding Box: (382, 273, 383, 274)
+Centroid: (382.0, 273.0)
+Orientation: -0.7853981633974483
+
+Label: 736
+Area: 2.0
+Bounding Box: (382, 465, 384, 467)
+Centroid: (382.5, 465.5)
+Orientation: 0.7853981633974483
+
+Label: 737
+Area: 1.0
+Bounding Box: (383, 518, 384, 519)
+Centroid: (383.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 738
+Area: 1.0
+Bounding Box: (383, 566, 384, 567)
+Centroid: (383.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 739
+Area: 1.0
+Bounding Box: (384, 78, 385, 79)
+Centroid: (384.0, 78.0)
+Orientation: -0.7853981633974483
+
+Label: 740
+Area: 4.0
+Bounding Box: (384, 224, 388, 227)
+Centroid: (385.5, 225.0)
+Orientation: -0.4636476090008061
+
+Label: 741
+Area: 2.0
+Bounding Box: (384, 228, 386, 230)
+Centroid: (384.5, 228.5)
+Orientation: -0.7853981633974483
+
+Label: 742
+Area: 1.0
+Bounding Box: (384, 246, 385, 247)
+Centroid: (384.0, 246.0)
+Orientation: -0.7853981633974483
+
+Label: 743
+Area: 2.0
+Bounding Box: (384, 521, 386, 522)
+Centroid: (384.5, 521.0)
+Orientation: 0.0
+
+Label: 744
+Area: 2.0
+Bounding Box: (385, 76, 387, 78)
+Centroid: (385.5, 76.5)
+Orientation: 0.7853981633974483
+
+Label: 745
+Area: 2.0
+Bounding Box: (385, 398, 387, 400)
+Centroid: (385.5, 398.5)
+Orientation: 0.7853981633974483
+
+Label: 746
+Area: 4.0
+Bounding Box: (386, 97, 388, 101)
+Centroid: (386.25, 98.5)
+Orientation: -1.2634648508338138
+
+Label: 747
+Area: 1.0
+Bounding Box: (386, 298, 387, 299)
+Centroid: (386.0, 298.0)
+Orientation: -0.7853981633974483
+
+Label: 748
+Area: 1.0
+Bounding Box: (386, 300, 387, 301)
+Centroid: (386.0, 300.0)
+Orientation: -0.7853981633974483
+
+Label: 749
+Area: 1.0
+Bounding Box: (386, 464, 387, 465)
+Centroid: (386.0, 464.0)
+Orientation: -0.7853981633974483
+
+Label: 750
+Area: 2.0
+Bounding Box: (386, 517, 388, 519)
+Centroid: (386.5, 517.5)
+Orientation: -0.7853981633974483
+
+Label: 751
+Area: 10.0
+Bounding Box: (386, 522, 390, 528)
+Centroid: (387.7, 524.3)
+Orientation: 1.4382748968461694
+
+Label: 752
+Area: 6.0
+Bounding Box: (386, 556, 390, 560)
+Centroid: (387.5, 557.8333333333334)
+Orientation: -1.2490457723982547
+
+Label: 753
+Area: 1.0
+Bounding Box: (387, 138, 388, 139)
+Centroid: (387.0, 138.0)
+Orientation: -0.7853981633974483
+
+Label: 754
+Area: 1.0
+Bounding Box: (387, 143, 388, 144)
+Centroid: (387.0, 143.0)
+Orientation: -0.7853981633974483
+
+Label: 755
+Area: 5.0
+Bounding Box: (387, 301, 391, 304)
+Centroid: (388.8, 302.2)
+Orientation: -0.19025318855618248
+
+Label: 756
+Area: 2.0
+Bounding Box: (387, 396, 389, 398)
+Centroid: (387.5, 396.5)
+Orientation: 0.7853981633974483
+
+Label: 757
+Area: 1.0
+Bounding Box: (387, 466, 388, 467)
+Centroid: (387.0, 466.0)
+Orientation: -0.7853981633974483
+
+Label: 758
+Area: 1.0
+Bounding Box: (388, 40, 389, 41)
+Centroid: (388.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 759
+Area: 1.0
+Bounding Box: (388, 42, 389, 43)
+Centroid: (388.0, 42.0)
+Orientation: -0.7853981633974483
+
+Label: 760
+Area: 1.0
+Bounding Box: (388, 226, 389, 227)
+Centroid: (388.0, 226.0)
+Orientation: -0.7853981633974483
+
+Label: 761
+Area: 2.0
+Bounding Box: (388, 299, 390, 301)
+Centroid: (388.5, 299.5)
+Orientation: -0.7853981633974483
+
+Label: 762
+Area: 1.0
+Bounding Box: (388, 394, 389, 395)
+Centroid: (388.0, 394.0)
+Orientation: -0.7853981633974483
+
+Label: 763
+Area: 4.0
+Bounding Box: (388, 464, 392, 467)
+Centroid: (389.5, 465.0)
+Orientation: 0.4636476090008061
+
+Label: 764
+Area: 1.0
+Bounding Box: (389, 75, 390, 76)
+Centroid: (389.0, 75.0)
+Orientation: -0.7853981633974483
+
+Label: 765
+Area: 1.0
+Bounding Box: (389, 224, 390, 225)
+Centroid: (389.0, 224.0)
+Orientation: -0.7853981633974483
+
+Label: 766
+Area: 1.0
+Bounding Box: (389, 264, 390, 265)
+Centroid: (389.0, 264.0)
+Orientation: -0.7853981633974483
+
+Label: 767
+Area: 1.0
+Bounding Box: (389, 496, 390, 497)
+Centroid: (389.0, 496.0)
+Orientation: -0.7853981633974483
+
+Label: 768
+Area: 5.0
+Bounding Box: (389, 518, 392, 522)
+Centroid: (390.0, 519.2)
+Orientation: 1.5707963267948966
+
+Label: 769
+Area: 2.0
+Bounding Box: (390, 277, 392, 279)
+Centroid: (390.5, 277.5)
+Orientation: 0.7853981633974483
+
+Label: 770
+Area: 1.0
+Bounding Box: (390, 280, 391, 281)
+Centroid: (390.0, 280.0)
+Orientation: -0.7853981633974483
+
+Label: 771
+Area: 1.0
+Bounding Box: (390, 393, 391, 394)
+Centroid: (390.0, 393.0)
+Orientation: -0.7853981633974483
+
+Label: 772
+Area: 1.0
+Bounding Box: (390, 396, 391, 397)
+Centroid: (390.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 773
+Area: 1.0
+Bounding Box: (390, 398, 391, 399)
+Centroid: (390.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 774
+Area: 2.0
+Bounding Box: (390, 468, 392, 470)
+Centroid: (390.5, 468.5)
+Orientation: 0.7853981633974483
+
+Label: 775
+Area: 1.0
+Bounding Box: (391, 265, 392, 266)
+Centroid: (391.0, 265.0)
+Orientation: -0.7853981633974483
+
+Label: 776
+Area: 1.0
+Bounding Box: (391, 270, 392, 271)
+Centroid: (391.0, 270.0)
+Orientation: -0.7853981633974483
+
+Label: 777
+Area: 5.0
+Bounding Box: (391, 522, 396, 524)
+Centroid: (393.0, 522.6)
+Orientation: 0.0
+
+Label: 778
+Area: 8.0
+Bounding Box: (392, 143, 396, 148)
+Centroid: (393.25, 144.875)
+Orientation: -1.2822002198581661
+
+Label: 779
+Area: 1.0
+Bounding Box: (392, 227, 393, 228)
+Centroid: (392.0, 227.0)
+Orientation: -0.7853981633974483
+
+Label: 780
+Area: 1.0
+Bounding Box: (392, 396, 393, 397)
+Centroid: (392.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 781
+Area: 8.0
+Bounding Box: (392, 516, 397, 520)
+Centroid: (394.5, 517.375)
+Orientation: 0.42598316358663607
+
+Label: 782
+Area: 1.0
+Bounding Box: (392, 559, 393, 560)
+Centroid: (392.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 783
+Area: 1.0
+Bounding Box: (393, 398, 394, 399)
+Centroid: (393.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 784
+Area: 6.0
+Bounding Box: (393, 465, 398, 469)
+Centroid: (395.0, 466.5)
+Orientation: 0.5292034332420794
+
+Label: 785
+Area: 1.0
+Bounding Box: (394, 301, 395, 302)
+Centroid: (394.0, 301.0)
+Orientation: -0.7853981633974483
+
+Label: 786
+Area: 6.0
+Bounding Box: (395, 224, 398, 229)
+Centroid: (395.8333333333333, 226.16666666666666)
+Orientation: 1.3225849500924556
+
+Label: 787
+Area: 1.0
+Bounding Box: (395, 558, 396, 559)
+Centroid: (395.0, 558.0)
+Orientation: -0.7853981633974483
+
+Label: 788
+Area: 2.0
+Bounding Box: (396, 254, 397, 256)
+Centroid: (396.0, 254.5)
+Orientation: 1.5707963267948966
+
+Label: 789
+Area: 10.0
+Bounding Box: (396, 395, 404, 400)
+Centroid: (399.3, 397.3)
+Orientation: 0.44237422297674506
+
+Label: 790
+Area: 1.0
+Bounding Box: (396, 398, 397, 399)
+Centroid: (396.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 791
+Area: 1.0
+Bounding Box: (396, 521, 397, 522)
+Centroid: (396.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 792
+Area: 4.0
+Bounding Box: (396, 556, 400, 558)
+Centroid: (397.5, 556.5)
+Orientation: 0.23182380450040305
+
+Label: 793
+Area: 1.0
+Bounding Box: (397, 40, 398, 41)
+Centroid: (397.0, 40.0)
+Orientation: -0.7853981633974483
+
+Label: 794
+Area: 1.0
+Bounding Box: (397, 137, 398, 138)
+Centroid: (397.0, 137.0)
+Orientation: -0.7853981633974483
+
+Label: 795
+Area: 5.0
+Bounding Box: (397, 144, 400, 148)
+Centroid: (398.2, 145.4)
+Orientation: 1.3389725222944935
+
+Label: 796
+Area: 1.0
+Bounding Box: (398, 42, 399, 43)
+Centroid: (398.0, 42.0)
+Orientation: -0.7853981633974483
+
+Label: 797
+Area: 3.0
+Bounding Box: (398, 225, 400, 228)
+Centroid: (398.6666666666667, 226.0)
+Orientation: 1.079399465171232
+
+Label: 798
+Area: 1.0
+Bounding Box: (398, 465, 399, 466)
+Centroid: (398.0, 465.0)
+Orientation: -0.7853981633974483
+
+Label: 799
+Area: 4.0
+Bounding Box: (398, 519, 402, 523)
+Centroid: (399.5, 520.5)
+Orientation: 0.7853981633974483
+
+Label: 800
+Area: 1.0
+Bounding Box: (399, 135, 400, 136)
+Centroid: (399.0, 135.0)
+Orientation: -0.7853981633974483
+
+Label: 801
+Area: 1.0
+Bounding Box: (399, 140, 400, 141)
+Centroid: (399.0, 140.0)
+Orientation: -0.7853981633974483
+
+Label: 802
+Area: 3.0
+Bounding Box: (399, 394, 402, 396)
+Centroid: (400.0, 394.3333333333333)
+Orientation: 0.4913968616236646
+
+Label: 803
+Area: 1.0
+Bounding Box: (399, 467, 400, 468)
+Centroid: (399.0, 467.0)
+Orientation: -0.7853981633974483
+
+Label: 804
+Area: 1.0
+Bounding Box: (399, 495, 400, 496)
+Centroid: (399.0, 495.0)
+Orientation: -0.7853981633974483
+
+Label: 805
+Area: 1.0
+Bounding Box: (399, 517, 400, 518)
+Centroid: (399.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 806
+Area: 5.0
+Bounding Box: (400, 96, 403, 100)
+Centroid: (400.8, 97.4)
+Orientation: -1.3389725222944935
+
+Label: 807
+Area: 2.0
+Bounding Box: (400, 361, 402, 362)
+Centroid: (400.5, 361.0)
+Orientation: 0.0
+
+Label: 808
+Area: 2.0
+Bounding Box: (400, 364, 402, 366)
+Centroid: (400.5, 364.5)
+Orientation: 0.7853981633974483
+
+Label: 809
+Area: 1.0
+Bounding Box: (400, 539, 401, 540)
+Centroid: (400.0, 539.0)
+Orientation: -0.7853981633974483
+
+Label: 810
+Area: 1.0
+Bounding Box: (401, 56, 402, 57)
+Centroid: (401.0, 56.0)
+Orientation: -0.7853981633974483
+
+Label: 811
+Area: 1.0
+Bounding Box: (401, 60, 402, 61)
+Centroid: (401.0, 60.0)
+Orientation: -0.7853981633974483
+
+Label: 812
+Area: 5.0
+Bounding Box: (401, 73, 403, 77)
+Centroid: (401.2, 74.6)
+Orientation: 1.4808695768986575
+
+Label: 813
+Area: 2.0
+Bounding Box: (401, 232, 403, 234)
+Centroid: (401.5, 232.5)
+Orientation: 0.7853981633974483
+
+Label: 814
+Area: 1.0
+Bounding Box: (401, 369, 402, 370)
+Centroid: (401.0, 369.0)
+Orientation: -0.7853981633974483
+
+Label: 815
+Area: 3.0
+Bounding Box: (402, 56, 405, 59)
+Centroid: (403.0, 57.0)
+Orientation: -0.7853981633974483
+
+Label: 816
+Area: 5.0
+Bounding Box: (402, 99, 405, 103)
+Centroid: (403.0, 100.4)
+Orientation: 1.5707963267948966
+
+Label: 817
+Area: 4.0
+Bounding Box: (402, 133, 406, 135)
+Centroid: (403.5, 133.25)
+Orientation: -0.11554533359794854
+
+Label: 818
+Area: 1.0
+Bounding Box: (402, 519, 403, 520)
+Centroid: (402.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 819
+Area: 3.0
+Bounding Box: (402, 557, 405, 560)
+Centroid: (403.0, 558.0)
+Orientation: 0.7853981633974483
+
+Label: 820
+Area: 1.0
+Bounding Box: (403, 60, 404, 61)
+Centroid: (403.0, 60.0)
+Orientation: -0.7853981633974483
+
+Label: 821
+Area: 1.0
+Bounding Box: (403, 131, 404, 132)
+Centroid: (403.0, 131.0)
+Orientation: -0.7853981633974483
+
+Label: 822
+Area: 4.0
+Bounding Box: (403, 466, 407, 468)
+Centroid: (404.5, 466.5)
+Orientation: 0.0
+
+Label: 823
+Area: 2.0
+Bounding Box: (403, 520, 405, 522)
+Centroid: (403.5, 520.5)
+Orientation: -0.7853981633974483
+
+Label: 824
+Area: 1.0
+Bounding Box: (404, 397, 405, 398)
+Centroid: (404.0, 397.0)
+Orientation: -0.7853981633974483
+
+Label: 825
+Area: 3.0
+Bounding Box: (405, 58, 408, 60)
+Centroid: (406.0, 58.666666666666664)
+Orientation: 0.4913968616236646
+
+Label: 826
+Area: 1.0
+Bounding Box: (405, 135, 406, 136)
+Centroid: (405.0, 135.0)
+Orientation: -0.7853981633974483
+
+Label: 827
+Area: 3.0
+Bounding Box: (405, 232, 408, 235)
+Centroid: (406.0, 233.0)
+Orientation: 0.7853981633974483
+
+Label: 828
+Area: 1.0
+Bounding Box: (405, 399, 406, 400)
+Centroid: (405.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 829
+Area: 1.0
+Bounding Box: (405, 557, 406, 558)
+Centroid: (405.0, 557.0)
+Orientation: -0.7853981633974483
+
+Label: 830
+Area: 1.0
+Bounding Box: (406, 107, 407, 108)
+Centroid: (406.0, 107.0)
+Orientation: -0.7853981633974483
+
+Label: 831
+Area: 1.0
+Bounding Box: (406, 259, 407, 260)
+Centroid: (406.0, 259.0)
+Orientation: -0.7853981633974483
+
+Label: 832
+Area: 1.0
+Bounding Box: (406, 295, 407, 296)
+Centroid: (406.0, 295.0)
+Orientation: -0.7853981633974483
+
+Label: 833
+Area: 2.0
+Bounding Box: (406, 360, 407, 362)
+Centroid: (406.0, 360.5)
+Orientation: 1.5707963267948966
+
+Label: 834
+Area: 2.0
+Bounding Box: (406, 519, 407, 521)
+Centroid: (406.0, 519.5)
+Orientation: 1.5707963267948966
+
+Label: 835
+Area: 4.0
+Bounding Box: (406, 537, 410, 538)
+Centroid: (407.5, 537.0)
+Orientation: 0.0
+
+Label: 836
+Area: 4.0
+Bounding Box: (406, 540, 410, 542)
+Centroid: (407.5, 540.5)
+Orientation: 0.0
+
+Label: 837
+Area: 1.0
+Bounding Box: (407, 62, 408, 63)
+Centroid: (407.0, 62.0)
+Orientation: -0.7853981633974483
+
+Label: 838
+Area: 1.0
+Bounding Box: (407, 131, 408, 132)
+Centroid: (407.0, 131.0)
+Orientation: -0.7853981633974483
+
+Label: 839
+Area: 1.0
+Bounding Box: (407, 135, 408, 136)
+Centroid: (407.0, 135.0)
+Orientation: -0.7853981633974483
+
+Label: 840
+Area: 1.0
+Bounding Box: (407, 237, 408, 238)
+Centroid: (407.0, 237.0)
+Orientation: -0.7853981633974483
+
+Label: 841
+Area: 1.0
+Bounding Box: (407, 293, 408, 294)
+Centroid: (407.0, 293.0)
+Orientation: -0.7853981633974483
+
+Label: 842
+Area: 4.0
+Bounding Box: (407, 360, 411, 364)
+Centroid: (408.5, 361.5)
+Orientation: -0.7853981633974483
+
+Label: 843
+Area: 4.0
+Bounding Box: (407, 465, 411, 467)
+Centroid: (408.5, 465.5)
+Orientation: 0.39269908169872414
+
+Label: 844
+Area: 1.0
+Bounding Box: (407, 504, 408, 505)
+Centroid: (407.0, 504.0)
+Orientation: -0.7853981633974483
+
+Label: 845
+Area: 3.0
+Bounding Box: (407, 556, 410, 559)
+Centroid: (408.0, 557.0)
+Orientation: -0.7853981633974483
+
+Label: 846
+Area: 3.0
+Bounding Box: (408, 516, 411, 519)
+Centroid: (409.0, 517.0)
+Orientation: 0.7853981633974483
+
+Label: 847
+Area: 2.0
+Bounding Box: (409, 145, 411, 147)
+Centroid: (409.5, 145.5)
+Orientation: -0.7853981633974483
+
+Label: 848
+Area: 2.0
+Bounding Box: (409, 265, 411, 266)
+Centroid: (409.5, 265.0)
+Orientation: 0.0
+
+Label: 849
+Area: 1.0
+Bounding Box: (409, 364, 410, 365)
+Centroid: (409.0, 364.0)
+Orientation: -0.7853981633974483
+
+Label: 850
+Area: 1.0
+Bounding Box: (409, 522, 410, 523)
+Centroid: (409.0, 522.0)
+Orientation: -0.7853981633974483
+
+Label: 851
+Area: 1.0
+Bounding Box: (410, 64, 411, 65)
+Centroid: (410.0, 64.0)
+Orientation: -0.7853981633974483
+
+Label: 852
+Area: 1.0
+Bounding Box: (410, 468, 411, 469)
+Centroid: (410.0, 468.0)
+Orientation: -0.7853981633974483
+
+Label: 853
+Area: 1.0
+Bounding Box: (410, 524, 411, 525)
+Centroid: (410.0, 524.0)
+Orientation: -0.7853981633974483
+
+Label: 854
+Area: 6.0
+Bounding Box: (411, 123, 415, 128)
+Centroid: (412.6666666666667, 125.0)
+Orientation: -0.8947326363344192
+
+Label: 855
+Area: 2.0
+Bounding Box: (411, 284, 413, 286)
+Centroid: (411.5, 284.5)
+Orientation: -0.7853981633974483
+
+Label: 856
+Area: 1.0
+Bounding Box: (411, 362, 412, 363)
+Centroid: (411.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 857
+Area: 2.0
+Bounding Box: (411, 470, 413, 471)
+Centroid: (411.5, 470.0)
+Orientation: 0.0
+
+Label: 858
+Area: 2.0
+Bounding Box: (411, 522, 413, 524)
+Centroid: (411.5, 522.5)
+Orientation: 0.7853981633974483
+
+Label: 859
+Area: 1.0
+Bounding Box: (412, 122, 413, 123)
+Centroid: (412.0, 122.0)
+Orientation: -0.7853981633974483
+
+Label: 860
+Area: 5.0
+Bounding Box: (412, 144, 415, 149)
+Centroid: (413.2, 146.0)
+Orientation: 1.1518057142907017
+
+Label: 861
+Area: 3.0
+Bounding Box: (412, 360, 415, 362)
+Centroid: (413.0, 360.3333333333333)
+Orientation: 0.4913968616236646
+
+Label: 862
+Area: 1.0
+Bounding Box: (412, 465, 413, 466)
+Centroid: (412.0, 465.0)
+Orientation: -0.7853981633974483
+
+Label: 863
+Area: 3.0
+Bounding Box: (412, 467, 415, 469)
+Centroid: (413.0, 467.3333333333333)
+Orientation: 0.0
+
+Label: 864
+Area: 1.0
+Bounding Box: (413, 286, 414, 287)
+Centroid: (413.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 865
+Area: 2.0
+Bounding Box: (413, 388, 414, 390)
+Centroid: (413.0, 388.5)
+Orientation: 1.5707963267948966
+
+Label: 866
+Area: 1.0
+Bounding Box: (413, 521, 414, 522)
+Centroid: (413.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 867
+Area: 2.0
+Bounding Box: (413, 558, 415, 560)
+Centroid: (413.5, 558.5)
+Orientation: 0.7853981633974483
+
+Label: 868
+Area: 1.0
+Bounding Box: (414, 64, 415, 65)
+Centroid: (414.0, 64.0)
+Orientation: -0.7853981633974483
+
+Label: 869
+Area: 2.0
+Bounding Box: (414, 126, 416, 128)
+Centroid: (414.5, 126.5)
+Orientation: -0.7853981633974483
+
+Label: 870
+Area: 1.0
+Bounding Box: (414, 465, 415, 466)
+Centroid: (414.0, 465.0)
+Orientation: -0.7853981633974483
+
+Label: 871
+Area: 1.0
+Bounding Box: (414, 472, 415, 473)
+Centroid: (414.0, 472.0)
+Orientation: -0.7853981633974483
+
+Label: 872
+Area: 1.0
+Bounding Box: (414, 523, 415, 524)
+Centroid: (414.0, 523.0)
+Orientation: -0.7853981633974483
+
+Label: 873
+Area: 3.0
+Bounding Box: (414, 555, 417, 557)
+Centroid: (415.0, 555.6666666666666)
+Orientation: -0.4913968616236646
+
+Label: 874
+Area: 1.0
+Bounding Box: (415, 287, 416, 288)
+Centroid: (415.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 875
+Area: 1.0
+Bounding Box: (415, 390, 416, 391)
+Centroid: (415.0, 390.0)
+Orientation: -0.7853981633974483
+
+Label: 876
+Area: 2.0
+Bounding Box: (415, 539, 417, 540)
+Centroid: (415.5, 539.0)
+Orientation: 0.0
+
+Label: 877
+Area: 1.0
+Bounding Box: (416, 65, 417, 66)
+Centroid: (416.0, 65.0)
+Orientation: -0.7853981633974483
+
+Label: 878
+Area: 1.0
+Bounding Box: (416, 503, 417, 504)
+Centroid: (416.0, 503.0)
+Orientation: -0.7853981633974483
+
+Label: 879
+Area: 2.0
+Bounding Box: (416, 522, 418, 524)
+Centroid: (416.5, 522.5)
+Orientation: -0.7853981633974483
+
+Label: 880
+Area: 1.0
+Bounding Box: (417, 284, 418, 285)
+Centroid: (417.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 881
+Area: 2.0
+Bounding Box: (417, 286, 419, 288)
+Centroid: (417.5, 286.5)
+Orientation: -0.7853981633974483
+
+Label: 882
+Area: 1.0
+Bounding Box: (417, 558, 418, 559)
+Centroid: (417.0, 558.0)
+Orientation: -0.7853981633974483
+
+Label: 883
+Area: 4.0
+Bounding Box: (418, 65, 420, 68)
+Centroid: (418.25, 65.75)
+Orientation: -1.2490457723982544
+
+Label: 884
+Area: 1.0
+Bounding Box: (418, 524, 419, 525)
+Centroid: (418.0, 524.0)
+Orientation: -0.7853981633974483
+
+Label: 885
+Area: 3.0
+Bounding Box: (418, 555, 420, 558)
+Centroid: (418.6666666666667, 556.0)
+Orientation: 1.079399465171232
+
+Label: 886
+Area: 1.0
+Bounding Box: (419, 518, 420, 519)
+Centroid: (419.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 887
+Area: 1.0
+Bounding Box: (420, 67, 421, 68)
+Centroid: (420.0, 67.0)
+Orientation: -0.7853981633974483
+
+Label: 888
+Area: 1.0
+Bounding Box: (420, 516, 421, 517)
+Centroid: (420.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 889
+Area: 1.0
+Bounding Box: (420, 559, 421, 560)
+Centroid: (420.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 890
+Area: 3.0
+Bounding Box: (421, 102, 424, 104)
+Centroid: (422.0, 102.33333333333333)
+Orientation: -0.4913968616236646
+
+Label: 891
+Area: 1.0
+Bounding Box: (421, 518, 422, 519)
+Centroid: (421.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 892
+Area: 1.0
+Bounding Box: (421, 524, 422, 525)
+Centroid: (421.0, 524.0)
+Orientation: -0.7853981633974483
+
+Label: 893
+Area: 2.0
+Bounding Box: (421, 556, 423, 558)
+Centroid: (421.5, 556.5)
+Orientation: 0.7853981633974483
+
+Label: 894
+Area: 1.0
+Bounding Box: (422, 67, 423, 68)
+Centroid: (422.0, 67.0)
+Orientation: -0.7853981633974483
+
+Label: 895
+Area: 2.0
+Bounding Box: (422, 100, 424, 101)
+Centroid: (422.5, 100.0)
+Orientation: 0.0
+
+Label: 896
+Area: 6.0
+Bounding Box: (422, 240, 427, 243)
+Centroid: (424.3333333333333, 241.0)
+Orientation: 0.16964630722702234
+
+Label: 897
+Area: 1.0
+Bounding Box: (422, 243, 423, 244)
+Centroid: (422.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 898
+Area: 1.0
+Bounding Box: (422, 516, 423, 517)
+Centroid: (422.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 899
+Area: 2.0
+Bounding Box: (422, 522, 424, 524)
+Centroid: (422.5, 522.5)
+Orientation: 0.7853981633974483
+
+Label: 900
+Area: 2.0
+Bounding Box: (422, 537, 424, 538)
+Centroid: (422.5, 537.0)
+Orientation: 0.0
+
+Label: 901
+Area: 2.0
+Bounding Box: (422, 540, 424, 542)
+Centroid: (422.5, 540.5)
+Orientation: -0.7853981633974483
+
+Label: 902
+Area: 1.0
+Bounding Box: (422, 559, 423, 560)
+Centroid: (422.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 903
+Area: 1.0
+Bounding Box: (423, 285, 424, 286)
+Centroid: (423.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 904
+Area: 1.0
+Bounding Box: (423, 361, 424, 362)
+Centroid: (423.0, 361.0)
+Orientation: -0.7853981633974483
+
+Label: 905
+Area: 2.0
+Bounding Box: (423, 517, 425, 519)
+Centroid: (423.5, 517.5)
+Orientation: -0.7853981633974483
+
+Label: 906
+Area: 2.0
+Bounding Box: (424, 40, 425, 42)
+Centroid: (424.0, 40.5)
+Orientation: 1.5707963267948966
+
+Label: 907
+Area: 1.0
+Bounding Box: (424, 44, 425, 45)
+Centroid: (424.0, 44.0)
+Orientation: -0.7853981633974483
+
+Label: 908
+Area: 2.0
+Bounding Box: (424, 50, 426, 51)
+Centroid: (424.5, 50.0)
+Orientation: 0.0
+
+Label: 909
+Area: 2.0
+Bounding Box: (424, 52, 425, 54)
+Centroid: (424.0, 52.5)
+Orientation: 1.5707963267948966
+
+Label: 910
+Area: 1.0
+Bounding Box: (424, 121, 425, 122)
+Centroid: (424.0, 121.0)
+Orientation: -0.7853981633974483
+
+Label: 911
+Area: 1.0
+Bounding Box: (424, 123, 425, 124)
+Centroid: (424.0, 123.0)
+Orientation: -0.7853981633974483
+
+Label: 912
+Area: 1.0
+Bounding Box: (424, 243, 425, 244)
+Centroid: (424.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 913
+Area: 1.0
+Bounding Box: (424, 283, 425, 284)
+Centroid: (424.0, 283.0)
+Orientation: -0.7853981633974483
+
+Label: 914
+Area: 1.0
+Bounding Box: (424, 287, 425, 288)
+Centroid: (424.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 915
+Area: 2.0
+Bounding Box: (424, 556, 425, 558)
+Centroid: (424.0, 556.5)
+Orientation: 1.5707963267948966
+
+Label: 916
+Area: 1.0
+Bounding Box: (425, 55, 426, 56)
+Centroid: (425.0, 55.0)
+Orientation: -0.7853981633974483
+
+Label: 917
+Area: 1.0
+Bounding Box: (425, 106, 426, 107)
+Centroid: (425.0, 106.0)
+Orientation: -0.7853981633974483
+
+Label: 918
+Area: 1.0
+Bounding Box: (425, 127, 426, 128)
+Centroid: (425.0, 127.0)
+Orientation: -0.7853981633974483
+
+Label: 919
+Area: 7.0
+Bounding Box: (426, 40, 431, 44)
+Centroid: (427.7142857142857, 41.142857142857146)
+Orientation: -0.557847759113351
+
+Label: 920
+Area: 2.0
+Bounding Box: (426, 53, 428, 55)
+Centroid: (426.5, 53.5)
+Orientation: 0.7853981633974483
+
+Label: 921
+Area: 4.0
+Bounding Box: (426, 285, 430, 287)
+Centroid: (427.5, 285.25)
+Orientation: 0.11554533359794854
+
+Label: 922
+Area: 1.0
+Bounding Box: (426, 287, 427, 288)
+Centroid: (426.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 923
+Area: 1.0
+Bounding Box: (426, 517, 427, 518)
+Centroid: (426.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 924
+Area: 1.0
+Bounding Box: (426, 519, 427, 520)
+Centroid: (426.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 925
+Area: 2.0
+Bounding Box: (426, 557, 428, 558)
+Centroid: (426.5, 557.0)
+Orientation: 0.0
+
+Label: 926
+Area: 1.0
+Bounding Box: (426, 559, 427, 560)
+Centroid: (426.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 927
+Area: 3.0
+Bounding Box: (428, 241, 430, 244)
+Centroid: (428.3333333333333, 242.0)
+Orientation: 1.5707963267948966
+
+Label: 928
+Area: 1.0
+Bounding Box: (428, 283, 429, 284)
+Centroid: (428.0, 283.0)
+Orientation: -0.7853981633974483
+
+Label: 929
+Area: 1.0
+Bounding Box: (428, 516, 429, 517)
+Centroid: (428.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 930
+Area: 1.0
+Bounding Box: (428, 518, 429, 519)
+Centroid: (428.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 931
+Area: 1.0
+Bounding Box: (428, 559, 429, 560)
+Centroid: (428.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 932
+Area: 1.0
+Bounding Box: (429, 52, 430, 53)
+Centroid: (429.0, 52.0)
+Orientation: -0.7853981633974483
+
+Label: 933
+Area: 7.0
+Bounding Box: (429, 54, 435, 59)
+Centroid: (431.85714285714283, 56.0)
+Orientation: 0.6117777719493929
+
+Label: 934
+Area: 3.0
+Bounding Box: (429, 369, 432, 371)
+Centroid: (430.0, 369.6666666666667)
+Orientation: 0.4913968616236646
+
+Label: 935
+Area: 1.0
+Bounding Box: (429, 372, 430, 373)
+Centroid: (429.0, 372.0)
+Orientation: -0.7853981633974483
+
+Label: 936
+Area: 2.0
+Bounding Box: (429, 483, 431, 484)
+Centroid: (429.5, 483.0)
+Orientation: 0.0
+
+Label: 937
+Area: 1.0
+Bounding Box: (429, 554, 430, 555)
+Centroid: (429.0, 554.0)
+Orientation: -0.7853981633974483
+
+Label: 938
+Area: 3.0
+Bounding Box: (429, 556, 431, 559)
+Centroid: (429.3333333333333, 557.0)
+Orientation: 1.079399465171232
+
+Label: 939
+Area: 2.0
+Bounding Box: (430, 50, 432, 52)
+Centroid: (430.5, 50.5)
+Orientation: 0.7853981633974483
+
+Label: 940
+Area: 1.0
+Bounding Box: (430, 240, 431, 241)
+Centroid: (430.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 941
+Area: 1.0
+Bounding Box: (430, 489, 431, 490)
+Centroid: (430.0, 489.0)
+Orientation: -0.7853981633974483
+
+Label: 942
+Area: 2.0
+Bounding Box: (430, 500, 432, 501)
+Centroid: (430.5, 500.0)
+Orientation: 0.0
+
+Label: 943
+Area: 1.0
+Bounding Box: (430, 519, 431, 520)
+Centroid: (430.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 944
+Area: 1.0
+Bounding Box: (431, 243, 432, 244)
+Centroid: (431.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 945
+Area: 9.0
+Bounding Box: (431, 285, 439, 288)
+Centroid: (434.44444444444446, 285.55555555555554)
+Orientation: -0.005847686582844476
+
+Label: 946
+Area: 1.0
+Bounding Box: (431, 368, 432, 369)
+Centroid: (431.0, 368.0)
+Orientation: -0.7853981633974483
+
+Label: 947
+Area: 1.0
+Bounding Box: (432, 59, 433, 60)
+Centroid: (432.0, 59.0)
+Orientation: -0.7853981633974483
+
+Label: 948
+Area: 1.0
+Bounding Box: (432, 134, 433, 135)
+Centroid: (432.0, 134.0)
+Orientation: -0.7853981633974483
+
+Label: 949
+Area: 1.0
+Bounding Box: (432, 467, 433, 468)
+Centroid: (432.0, 467.0)
+Orientation: -0.7853981633974483
+
+Label: 950
+Area: 1.0
+Bounding Box: (432, 517, 433, 518)
+Centroid: (432.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 951
+Area: 1.0
+Bounding Box: (432, 556, 433, 557)
+Centroid: (432.0, 556.0)
+Orientation: -0.7853981633974483
+
+Label: 952
+Area: 4.0
+Bounding Box: (433, 132, 437, 134)
+Centroid: (434.5, 132.5)
+Orientation: 0.0
+
+Label: 953
+Area: 1.0
+Bounding Box: (433, 240, 434, 241)
+Centroid: (433.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 954
+Area: 1.0
+Bounding Box: (433, 283, 434, 284)
+Centroid: (433.0, 283.0)
+Orientation: -0.7853981633974483
+
+Label: 955
+Area: 1.0
+Bounding Box: (433, 389, 434, 390)
+Centroid: (433.0, 389.0)
+Orientation: -0.7853981633974483
+
+Label: 956
+Area: 2.0
+Bounding Box: (433, 464, 434, 466)
+Centroid: (433.0, 464.5)
+Orientation: 1.5707963267948966
+
+Label: 957
+Area: 1.0
+Bounding Box: (433, 534, 434, 535)
+Centroid: (433.0, 534.0)
+Orientation: -0.7853981633974483
+
+Label: 958
+Area: 4.0
+Bounding Box: (434, 517, 438, 519)
+Centroid: (435.5, 517.25)
+Orientation: -0.11554533359794854
+
+Label: 959
+Area: 1.0
+Bounding Box: (435, 76, 436, 77)
+Centroid: (435.0, 76.0)
+Orientation: -0.7853981633974483
+
+Label: 960
+Area: 2.0
+Bounding Box: (435, 240, 437, 242)
+Centroid: (435.5, 240.5)
+Orientation: 0.7853981633974483
+
+Label: 961
+Area: 1.0
+Bounding Box: (435, 389, 436, 390)
+Centroid: (435.0, 389.0)
+Orientation: -0.7853981633974483
+
+Label: 962
+Area: 1.0
+Bounding Box: (435, 515, 436, 516)
+Centroid: (435.0, 515.0)
+Orientation: -0.7853981633974483
+
+Label: 963
+Area: 3.0
+Bounding Box: (436, 57, 438, 60)
+Centroid: (436.3333333333333, 58.0)
+Orientation: 1.5707963267948966
+
+Label: 964
+Area: 1.0
+Bounding Box: (436, 391, 437, 392)
+Centroid: (436.0, 391.0)
+Orientation: -0.7853981633974483
+
+Label: 965
+Area: 2.0
+Bounding Box: (436, 519, 438, 521)
+Centroid: (436.5, 519.5)
+Orientation: -0.7853981633974483
+
+Label: 966
+Area: 7.0
+Bounding Box: (436, 522, 442, 526)
+Centroid: (438.14285714285717, 523.4285714285714)
+Orientation: 0.42023027938555935
+
+Label: 967
+Area: 1.0
+Bounding Box: (436, 559, 437, 560)
+Centroid: (436.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 968
+Area: 1.0
+Bounding Box: (437, 75, 438, 76)
+Centroid: (437.0, 75.0)
+Orientation: -0.7853981633974483
+
+Label: 969
+Area: 1.0
+Bounding Box: (437, 557, 438, 558)
+Centroid: (437.0, 557.0)
+Orientation: -0.7853981633974483
+
+Label: 970
+Area: 1.0
+Bounding Box: (438, 56, 439, 57)
+Centroid: (438.0, 56.0)
+Orientation: -0.7853981633974483
+
+Label: 971
+Area: 2.0
+Bounding Box: (438, 241, 440, 243)
+Centroid: (438.5, 241.5)
+Orientation: -0.7853981633974483
+
+Label: 972
+Area: 2.0
+Bounding Box: (438, 465, 440, 466)
+Centroid: (438.5, 465.0)
+Orientation: 0.0
+
+Label: 973
+Area: 2.0
+Bounding Box: (438, 468, 440, 470)
+Centroid: (438.5, 468.5)
+Orientation: -0.7853981633974483
+
+Label: 974
+Area: 1.0
+Bounding Box: (438, 521, 439, 522)
+Centroid: (438.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 975
+Area: 1.0
+Bounding Box: (438, 559, 439, 560)
+Centroid: (438.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 976
+Area: 1.0
+Bounding Box: (439, 59, 440, 60)
+Centroid: (439.0, 59.0)
+Orientation: -0.7853981633974483
+
+Label: 977
+Area: 1.0
+Bounding Box: (439, 246, 440, 247)
+Centroid: (439.0, 246.0)
+Orientation: -0.7853981633974483
+
+Label: 978
+Area: 1.0
+Bounding Box: (439, 515, 440, 516)
+Centroid: (439.0, 515.0)
+Orientation: -0.7853981633974483
+
+Label: 979
+Area: 1.0
+Bounding Box: (439, 519, 440, 520)
+Centroid: (439.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 980
+Area: 1.0
+Bounding Box: (440, 132, 441, 133)
+Centroid: (440.0, 132.0)
+Orientation: -0.7853981633974483
+
+Label: 981
+Area: 8.0
+Bounding Box: (440, 157, 445, 160)
+Centroid: (441.75, 158.0)
+Orientation: 0.19926122283321013
+
+Label: 982
+Area: 1.0
+Bounding Box: (440, 285, 441, 286)
+Centroid: (440.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 983
+Area: 1.0
+Bounding Box: (440, 517, 441, 518)
+Centroid: (440.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 984
+Area: 1.0
+Bounding Box: (440, 556, 441, 557)
+Centroid: (440.0, 556.0)
+Orientation: -0.7853981633974483
+
+Label: 985
+Area: 1.0
+Bounding Box: (441, 56, 442, 57)
+Centroid: (441.0, 56.0)
+Orientation: -0.7853981633974483
+
+Label: 986
+Area: 1.0
+Bounding Box: (441, 60, 442, 61)
+Centroid: (441.0, 60.0)
+Orientation: -0.7853981633974483
+
+Label: 987
+Area: 2.0
+Bounding Box: (441, 134, 442, 136)
+Centroid: (441.0, 134.5)
+Orientation: 1.5707963267948966
+
+Label: 988
+Area: 1.0
+Bounding Box: (441, 399, 442, 400)
+Centroid: (441.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 989
+Area: 1.0
+Bounding Box: (441, 491, 442, 492)
+Centroid: (441.0, 491.0)
+Orientation: -0.7853981633974483
+
+Label: 990
+Area: 2.0
+Bounding Box: (441, 519, 443, 521)
+Centroid: (441.5, 519.5)
+Orientation: -0.7853981633974483
+
+Label: 991
+Area: 3.0
+Bounding Box: (442, 56, 445, 59)
+Centroid: (443.0, 57.0)
+Orientation: -0.7853981633974483
+
+Label: 992
+Area: 10.0
+Bounding Box: (442, 128, 446, 134)
+Centroid: (443.3, 130.7)
+Orientation: 1.4382748968461694
+
+Label: 993
+Area: 5.0
+Bounding Box: (442, 260, 445, 264)
+Centroid: (443.0, 261.2)
+Orientation: 1.223427188696545
+
+Label: 994
+Area: 1.0
+Bounding Box: (442, 286, 443, 287)
+Centroid: (442.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 995
+Area: 1.0
+Bounding Box: (442, 371, 443, 372)
+Centroid: (442.0, 371.0)
+Orientation: -0.7853981633974483
+
+Label: 996
+Area: 1.0
+Bounding Box: (442, 517, 443, 518)
+Centroid: (442.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 997
+Area: 1.0
+Bounding Box: (442, 545, 443, 546)
+Centroid: (442.0, 545.0)
+Orientation: -0.7853981633974483
+
+Label: 998
+Area: 1.0
+Bounding Box: (442, 555, 443, 556)
+Centroid: (442.0, 555.0)
+Orientation: -0.7853981633974483
+
+Label: 999
+Area: 1.0
+Bounding Box: (443, 60, 444, 61)
+Centroid: (443.0, 60.0)
+Orientation: -0.7853981633974483
+
+Label: 1000
+Area: 2.0
+Bounding Box: (443, 398, 445, 400)
+Centroid: (443.5, 398.5)
+Orientation: -0.7853981633974483
+
+Label: 1001
+Area: 1.0
+Bounding Box: (443, 521, 444, 522)
+Centroid: (443.0, 521.0)
+Orientation: -0.7853981633974483
+
+Label: 1002
+Area: 1.0
+Bounding Box: (444, 284, 445, 285)
+Centroid: (444.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1003
+Area: 2.0
+Bounding Box: (444, 286, 446, 288)
+Centroid: (444.5, 286.5)
+Orientation: -0.7853981633974483
+
+Label: 1004
+Area: 1.0
+Bounding Box: (444, 473, 445, 474)
+Centroid: (444.0, 473.0)
+Orientation: -0.7853981633974483
+
+Label: 1005
+Area: 1.0
+Bounding Box: (444, 516, 445, 517)
+Centroid: (444.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 1006
+Area: 1.0
+Bounding Box: (444, 518, 445, 519)
+Centroid: (444.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 1007
+Area: 1.0
+Bounding Box: (444, 544, 445, 545)
+Centroid: (444.0, 544.0)
+Orientation: -0.7853981633974483
+
+Label: 1008
+Area: 1.0
+Bounding Box: (444, 546, 445, 547)
+Centroid: (444.0, 546.0)
+Orientation: -0.7853981633974483
+
+Label: 1009
+Area: 2.0
+Bounding Box: (444, 556, 445, 558)
+Centroid: (444.0, 556.5)
+Orientation: 1.5707963267948966
+
+Label: 1010
+Area: 1.0
+Bounding Box: (444, 559, 445, 560)
+Centroid: (444.0, 559.0)
+Orientation: -0.7853981633974483
+
+Label: 1011
+Area: 3.0
+Bounding Box: (445, 58, 448, 60)
+Centroid: (446.0, 58.666666666666664)
+Orientation: 0.4913968616236646
+
+Label: 1012
+Area: 1.0
+Bounding Box: (445, 127, 446, 128)
+Centroid: (445.0, 127.0)
+Orientation: -0.7853981633974483
+
+Label: 1013
+Area: 2.0
+Bounding Box: (446, 130, 448, 132)
+Centroid: (446.5, 130.5)
+Orientation: 0.7853981633974483
+
+Label: 1014
+Area: 2.0
+Bounding Box: (446, 134, 448, 135)
+Centroid: (446.5, 134.0)
+Orientation: 0.0
+
+Label: 1015
+Area: 1.0
+Bounding Box: (446, 158, 447, 159)
+Centroid: (446.0, 158.0)
+Orientation: -0.7853981633974483
+
+Label: 1016
+Area: 3.0
+Bounding Box: (446, 397, 449, 399)
+Centroid: (447.0, 397.3333333333333)
+Orientation: 0.0
+
+Label: 1017
+Area: 1.0
+Bounding Box: (446, 495, 447, 496)
+Centroid: (446.0, 495.0)
+Orientation: -0.7853981633974483
+
+Label: 1018
+Area: 1.0
+Bounding Box: (446, 519, 447, 520)
+Centroid: (446.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 1019
+Area: 2.0
+Bounding Box: (446, 544, 448, 546)
+Centroid: (446.5, 544.5)
+Orientation: -0.7853981633974483
+
+Label: 1020
+Area: 3.0
+Bounding Box: (446, 557, 449, 559)
+Centroid: (447.0, 557.3333333333334)
+Orientation: 0.0
+
+Label: 1021
+Area: 1.0
+Bounding Box: (447, 62, 448, 63)
+Centroid: (447.0, 62.0)
+Orientation: -0.7853981633974483
+
+Label: 1022
+Area: 1.0
+Bounding Box: (448, 124, 449, 125)
+Centroid: (448.0, 124.0)
+Orientation: -0.7853981633974483
+
+Label: 1023
+Area: 4.0
+Bounding Box: (448, 364, 451, 367)
+Centroid: (449.25, 365.25)
+Orientation: -0.7853981633974483
+
+Label: 1024
+Area: 3.0
+Bounding Box: (448, 517, 451, 519)
+Centroid: (449.0, 517.3333333333334)
+Orientation: -0.4913968616236646
+
+Label: 1025
+Area: 1.0
+Bounding Box: (448, 536, 449, 537)
+Centroid: (448.0, 536.0)
+Orientation: -0.7853981633974483
+
+Label: 1026
+Area: 16.0
+Bounding Box: (448, 538, 454, 546)
+Centroid: (450.125, 541.875)
+Orientation: 1.1887339381082032
+
+Label: 1027
+Area: 2.0
+Bounding Box: (449, 126, 450, 128)
+Centroid: (449.0, 126.5)
+Orientation: 1.5707963267948966
+
+Label: 1028
+Area: 1.0
+Bounding Box: (449, 362, 450, 363)
+Centroid: (449.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 1029
+Area: 1.0
+Bounding Box: (449, 399, 450, 400)
+Centroid: (449.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 1030
+Area: 10.0
+Bounding Box: (450, 120, 454, 126)
+Centroid: (451.3, 122.7)
+Orientation: 1.4382748968461694
+
+Label: 1031
+Area: 1.0
+Bounding Box: (450, 515, 451, 516)
+Centroid: (450.0, 515.0)
+Orientation: -0.7853981633974483
+
+Label: 1032
+Area: 1.0
+Bounding Box: (450, 522, 451, 523)
+Centroid: (450.0, 522.0)
+Orientation: -0.7853981633974483
+
+Label: 1033
+Area: 1.0
+Bounding Box: (450, 557, 451, 558)
+Centroid: (450.0, 557.0)
+Orientation: -0.7853981633974483
+
+Label: 1034
+Area: 1.0
+Bounding Box: (451, 107, 452, 108)
+Centroid: (451.0, 107.0)
+Orientation: -0.7853981633974483
+
+Label: 1035
+Area: 1.0
+Bounding Box: (451, 109, 452, 110)
+Centroid: (451.0, 109.0)
+Orientation: -0.7853981633974483
+
+Label: 1036
+Area: 2.0
+Bounding Box: (451, 360, 452, 362)
+Centroid: (451.0, 360.5)
+Orientation: 1.5707963267948966
+
+Label: 1037
+Area: 8.0
+Bounding Box: (451, 396, 456, 400)
+Centroid: (452.5, 397.375)
+Orientation: -0.42598316358663607
+
+Label: 1038
+Area: 1.0
+Bounding Box: (451, 466, 452, 467)
+Centroid: (451.0, 466.0)
+Orientation: -0.7853981633974483
+
+Label: 1039
+Area: 1.0
+Bounding Box: (451, 490, 452, 491)
+Centroid: (451.0, 490.0)
+Orientation: -0.7853981633974483
+
+Label: 1040
+Area: 2.0
+Bounding Box: (451, 513, 453, 514)
+Centroid: (451.5, 513.0)
+Orientation: 0.0
+
+Label: 1041
+Area: 1.0
+Bounding Box: (451, 555, 452, 556)
+Centroid: (451.0, 555.0)
+Orientation: -0.7853981633974483
+
+Label: 1042
+Area: 1.0
+Bounding Box: (452, 66, 453, 67)
+Centroid: (452.0, 66.0)
+Orientation: -0.7853981633974483
+
+Label: 1043
+Area: 1.0
+Bounding Box: (452, 100, 453, 101)
+Centroid: (452.0, 100.0)
+Orientation: -0.7853981633974483
+
+Label: 1044
+Area: 1.0
+Bounding Box: (452, 464, 453, 465)
+Centroid: (452.0, 464.0)
+Orientation: -0.7853981633974483
+
+Label: 1045
+Area: 3.0
+Bounding Box: (452, 515, 455, 517)
+Centroid: (453.0, 515.6666666666666)
+Orientation: 0.0
+
+Label: 1046
+Area: 1.0
+Bounding Box: (452, 518, 453, 519)
+Centroid: (452.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 1047
+Area: 7.0
+Bounding Box: (453, 556, 460, 560)
+Centroid: (456.0, 557.2857142857143)
+Orientation: 0.45071945632117627
+
+Label: 1048
+Area: 1.0
+Bounding Box: (454, 64, 455, 65)
+Centroid: (454.0, 64.0)
+Orientation: -0.7853981633974483
+
+Label: 1049
+Area: 1.0
+Bounding Box: (454, 68, 455, 69)
+Centroid: (454.0, 68.0)
+Orientation: -0.7853981633974483
+
+Label: 1050
+Area: 1.0
+Bounding Box: (454, 70, 455, 71)
+Centroid: (454.0, 70.0)
+Orientation: -0.7853981633974483
+
+Label: 1051
+Area: 2.0
+Bounding Box: (454, 122, 456, 124)
+Centroid: (454.5, 122.5)
+Orientation: 0.7853981633974483
+
+Label: 1052
+Area: 2.0
+Bounding Box: (454, 126, 456, 127)
+Centroid: (454.5, 126.0)
+Orientation: 0.0
+
+Label: 1053
+Area: 1.0
+Bounding Box: (454, 159, 455, 160)
+Centroid: (454.0, 159.0)
+Orientation: -0.7853981633974483
+
+Label: 1054
+Area: 1.0
+Bounding Box: (454, 518, 455, 519)
+Centroid: (454.0, 518.0)
+Orientation: -0.7853981633974483
+
+Label: 1055
+Area: 1.0
+Bounding Box: (455, 257, 456, 258)
+Centroid: (455.0, 257.0)
+Orientation: -0.7853981633974483
+
+Label: 1056
+Area: 1.0
+Bounding Box: (455, 541, 456, 542)
+Centroid: (455.0, 541.0)
+Orientation: -0.7853981633974483
+
+Label: 1057
+Area: 5.0
+Bounding Box: (456, 353, 459, 356)
+Centroid: (456.8, 354.0)
+Orientation: 1.0556079135327403
+
+Label: 1058
+Area: 3.0
+Bounding Box: (456, 357, 459, 359)
+Centroid: (457.0, 357.6666666666667)
+Orientation: 0.0
+
+Label: 1059
+Area: 8.0
+Bounding Box: (456, 397, 463, 400)
+Centroid: (458.875, 397.625)
+Orientation: -0.0938809732567967
+
+Label: 1060
+Area: 2.0
+Bounding Box: (456, 516, 458, 518)
+Centroid: (456.5, 516.5)
+Orientation: 0.7853981633974483
+
+Label: 1061
+Area: 1.0
+Bounding Box: (456, 519, 457, 520)
+Centroid: (456.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 1062
+Area: 1.0
+Bounding Box: (456, 544, 457, 545)
+Centroid: (456.0, 544.0)
+Orientation: -0.7853981633974483
+
+Label: 1063
+Area: 2.0
+Bounding Box: (457, 124, 459, 126)
+Centroid: (457.5, 124.5)
+Orientation: -0.7853981633974483
+
+Label: 1064
+Area: 1.0
+Bounding Box: (457, 395, 458, 396)
+Centroid: (457.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 1065
+Area: 3.0
+Bounding Box: (457, 464, 460, 466)
+Centroid: (458.0, 464.6666666666667)
+Orientation: -0.4913968616236646
+
+Label: 1066
+Area: 1.0
+Bounding Box: (457, 528, 458, 529)
+Centroid: (457.0, 528.0)
+Orientation: -0.7853981633974483
+
+Label: 1067
+Area: 2.0
+Bounding Box: (458, 121, 460, 123)
+Centroid: (458.5, 121.5)
+Orientation: 0.7853981633974483
+
+Label: 1068
+Area: 1.0
+Bounding Box: (458, 158, 459, 159)
+Centroid: (458.0, 158.0)
+Orientation: -0.7853981633974483
+
+Label: 1069
+Area: 1.0
+Bounding Box: (458, 379, 459, 380)
+Centroid: (458.0, 379.0)
+Orientation: -0.7853981633974483
+
+Label: 1070
+Area: 4.0
+Bounding Box: (458, 518, 462, 520)
+Centroid: (459.5, 518.5)
+Orientation: 0.0
+
+Label: 1071
+Area: 7.0
+Bounding Box: (458, 543, 464, 547)
+Centroid: (460.57142857142856, 544.7142857142857)
+Orientation: 0.5037400326514643
+
+Label: 1072
+Area: 1.0
+Bounding Box: (458, 556, 459, 557)
+Centroid: (458.0, 556.0)
+Orientation: -0.7853981633974483
+
+Label: 1073
+Area: 2.0
+Bounding Box: (459, 76, 460, 78)
+Centroid: (459.0, 76.5)
+Orientation: 1.5707963267948966
+
+Label: 1074
+Area: 1.0
+Bounding Box: (459, 152, 460, 153)
+Centroid: (459.0, 152.0)
+Orientation: -0.7853981633974483
+
+Label: 1075
+Area: 2.0
+Bounding Box: (459, 352, 461, 354)
+Centroid: (459.5, 352.5)
+Orientation: 0.7853981633974483
+
+Label: 1076
+Area: 2.0
+Bounding Box: (459, 377, 461, 378)
+Centroid: (459.5, 377.0)
+Orientation: 0.0
+
+Label: 1077
+Area: 1.0
+Bounding Box: (459, 467, 460, 468)
+Centroid: (459.0, 467.0)
+Orientation: -0.7853981633974483
+
+Label: 1078
+Area: 1.0
+Bounding Box: (459, 516, 460, 517)
+Centroid: (459.0, 516.0)
+Orientation: -0.7853981633974483
+
+Label: 1079
+Area: 1.0
+Bounding Box: (460, 72, 461, 73)
+Centroid: (460.0, 72.0)
+Orientation: -0.7853981633974483
+
+Label: 1080
+Area: 2.0
+Bounding Box: (460, 127, 462, 128)
+Centroid: (460.5, 127.0)
+Orientation: 0.0
+
+Label: 1081
+Area: 2.0
+Bounding Box: (460, 356, 462, 358)
+Centroid: (460.5, 356.5)
+Orientation: -0.7853981633974483
+
+Label: 1082
+Area: 3.0
+Bounding Box: (460, 379, 463, 381)
+Centroid: (461.0, 379.6666666666667)
+Orientation: 0.0
+
+Label: 1083
+Area: 1.0
+Bounding Box: (460, 382, 461, 383)
+Centroid: (460.0, 382.0)
+Orientation: -0.7853981633974483
+
+Label: 1084
+Area: 1.0
+Bounding Box: (460, 532, 461, 533)
+Centroid: (460.0, 532.0)
+Orientation: -0.7853981633974483
+
+Label: 1085
+Area: 2.0
+Bounding Box: (461, 75, 463, 77)
+Centroid: (461.5, 75.5)
+Orientation: -0.7853981633974483
+
+Label: 1086
+Area: 3.0
+Bounding Box: (461, 77, 464, 79)
+Centroid: (462.0, 77.66666666666667)
+Orientation: -0.4913968616236646
+
+Label: 1087
+Area: 6.0
+Bounding Box: (461, 371, 464, 376)
+Centroid: (462.1666666666667, 373.1666666666667)
+Orientation: -1.4288992721907328
+
+Label: 1088
+Area: 5.0
+Bounding Box: (461, 464, 466, 466)
+Centroid: (463.0, 464.6)
+Orientation: 0.0
+
+Label: 1089
+Area: 1.0
+Bounding Box: (462, 73, 463, 74)
+Centroid: (462.0, 73.0)
+Orientation: -0.7853981633974483
+
+Label: 1090
+Area: 4.0
+Bounding Box: (462, 124, 466, 127)
+Centroid: (463.5, 125.0)
+Orientation: -0.4636476090008061
+
+Label: 1091
+Area: 1.0
+Bounding Box: (462, 354, 463, 355)
+Centroid: (462.0, 354.0)
+Orientation: -0.7853981633974483
+
+Label: 1092
+Area: 1.0
+Bounding Box: (462, 382, 463, 383)
+Centroid: (462.0, 382.0)
+Orientation: -0.7853981633974483
+
+Label: 1093
+Area: 3.0
+Bounding Box: (464, 72, 467, 74)
+Centroid: (465.0, 72.33333333333333)
+Orientation: 0.0
+
+Label: 1094
+Area: 1.0
+Bounding Box: (464, 531, 465, 532)
+Centroid: (464.0, 531.0)
+Orientation: -0.7853981633974483
+
+Label: 1095
+Area: 2.0
+Bounding Box: (465, 528, 466, 530)
+Centroid: (465.0, 528.5)
+Orientation: 1.5707963267948966
+
+Label: 1096
+Area: 2.0
+Bounding Box: (465, 546, 467, 548)
+Centroid: (465.5, 546.5)
+Orientation: -0.7853981633974483
+
+Label: 1097
+Area: 1.0
+Bounding Box: (466, 75, 467, 76)
+Centroid: (466.0, 75.0)
+Orientation: -0.7853981633974483
+
+Label: 1098
+Area: 1.0
+Bounding Box: (466, 152, 467, 153)
+Centroid: (466.0, 152.0)
+Orientation: -0.7853981633974483
+
+Label: 1099
+Area: 3.0
+Bounding Box: (466, 352, 468, 355)
+Centroid: (466.6666666666667, 353.0)
+Orientation: 1.5707963267948966
+
+Label: 1100
+Area: 1.0
+Bounding Box: (466, 397, 467, 398)
+Centroid: (466.0, 397.0)
+Orientation: -0.7853981633974483
+
+Label: 1101
+Area: 1.0
+Bounding Box: (466, 466, 467, 467)
+Centroid: (466.0, 466.0)
+Orientation: -0.7853981633974483
+
+Label: 1102
+Area: 2.0
+Bounding Box: (466, 566, 468, 568)
+Centroid: (466.5, 566.5)
+Orientation: 0.7853981633974483
+
+Label: 1103
+Area: 1.0
+Bounding Box: (467, 395, 468, 396)
+Centroid: (467.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 1104
+Area: 2.0
+Bounding Box: (467, 464, 469, 466)
+Centroid: (467.5, 464.5)
+Orientation: 0.7853981633974483
+
+Label: 1105
+Area: 1.0
+Bounding Box: (467, 564, 468, 565)
+Centroid: (467.0, 564.0)
+Orientation: -0.7853981633974483
+
+Label: 1106
+Area: 1.0
+Bounding Box: (468, 397, 469, 398)
+Centroid: (468.0, 397.0)
+Orientation: -0.7853981633974483
+
+Label: 1107
+Area: 1.0
+Bounding Box: (469, 74, 470, 75)
+Centroid: (469.0, 74.0)
+Orientation: -0.7853981633974483
+
+Label: 1108
+Area: 1.0
+Bounding Box: (469, 89, 470, 90)
+Centroid: (469.0, 89.0)
+Orientation: -0.7853981633974483
+
+Label: 1109
+Area: 1.0
+Bounding Box: (469, 266, 470, 267)
+Centroid: (469.0, 266.0)
+Orientation: -0.7853981633974483
+
+Label: 1110
+Area: 1.0
+Bounding Box: (469, 268, 470, 269)
+Centroid: (469.0, 268.0)
+Orientation: -0.7853981633974483
+
+Label: 1111
+Area: 2.0
+Bounding Box: (469, 353, 471, 355)
+Centroid: (469.5, 353.5)
+Orientation: -0.7853981633974483
+
+Label: 1112
+Area: 1.0
+Bounding Box: (469, 566, 470, 567)
+Centroid: (469.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 1113
+Area: 1.0
+Bounding Box: (470, 72, 471, 73)
+Centroid: (470.0, 72.0)
+Orientation: -0.7853981633974483
+
+Label: 1114
+Area: 1.0
+Bounding Box: (470, 466, 471, 467)
+Centroid: (470.0, 466.0)
+Orientation: -0.7853981633974483
+
+Label: 1115
+Area: 4.0
+Bounding Box: (470, 529, 474, 531)
+Centroid: (471.5, 529.25)
+Orientation: 0.30733147596108273
+
+Label: 1116
+Area: 3.0
+Bounding Box: (470, 532, 473, 534)
+Centroid: (471.0, 532.3333333333334)
+Orientation: -0.4913968616236646
+
+Label: 1117
+Area: 10.0
+Bounding Box: (471, 72, 477, 77)
+Centroid: (473.9, 73.6)
+Orientation: -0.13030119587367042
+
+Label: 1118
+Area: 1.0
+Bounding Box: (471, 470, 472, 471)
+Centroid: (471.0, 470.0)
+Orientation: -0.7853981633974483
+
+Label: 1119
+Area: 5.0
+Bounding Box: (471, 564, 476, 566)
+Centroid: (473.0, 564.6)
+Orientation: -0.21331374656343802
+
+Label: 1120
+Area: 1076.0
+Bounding Box: (472, 56, 544, 147)
+Centroid: (518.1812267657992, 103.51486988847584)
+Orientation: -1.5649490480706194
+
+Label: 1121
+Area: 1.0
+Bounding Box: (472, 244, 473, 245)
+Centroid: (472.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 1122
+Area: 5.0
+Bounding Box: (472, 285, 476, 288)
+Centroid: (473.2, 286.4)
+Orientation: 0.4826258315949633
+
+Label: 1123
+Area: 9.0
+Bounding Box: (472, 352, 480, 355)
+Centroid: (475.77777777777777, 352.8888888888889)
+Orientation: -0.12003536353715392
+
+Label: 1124
+Area: 1.0
+Bounding Box: (472, 534, 473, 535)
+Centroid: (472.0, 534.0)
+Orientation: -0.7853981633974483
+
+Label: 1125
+Area: 1.0
+Bounding Box: (473, 127, 474, 128)
+Centroid: (473.0, 127.0)
+Orientation: -0.7853981633974483
+
+Label: 1126
+Area: 1.0
+Bounding Box: (473, 241, 474, 242)
+Centroid: (473.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1127
+Area: 1.0
+Bounding Box: (473, 356, 474, 357)
+Centroid: (473.0, 356.0)
+Orientation: -0.7853981633974483
+
+Label: 1128
+Area: 1.0
+Bounding Box: (473, 464, 474, 465)
+Centroid: (473.0, 464.0)
+Orientation: -0.7853981633974483
+
+Label: 1129
+Area: 2.0
+Bounding Box: (473, 515, 475, 517)
+Centroid: (473.5, 515.5)
+Orientation: 0.7853981633974483
+
+Label: 1130
+Area: 2.0
+Bounding Box: (473, 518, 475, 520)
+Centroid: (473.5, 518.5)
+Orientation: 0.7853981633974483
+
+Label: 1131
+Area: 1.0
+Bounding Box: (473, 543, 474, 544)
+Centroid: (473.0, 543.0)
+Orientation: -0.7853981633974483
+
+Label: 1132
+Area: 3.0
+Bounding Box: (474, 242, 476, 245)
+Centroid: (474.6666666666667, 243.0)
+Orientation: -1.079399465171232
+
+Label: 1133
+Area: 2.0
+Bounding Box: (475, 126, 477, 128)
+Centroid: (475.5, 126.5)
+Orientation: -0.7853981633974483
+
+Label: 1134
+Area: 2.0
+Bounding Box: (475, 152, 477, 154)
+Centroid: (475.5, 152.5)
+Orientation: -0.7853981633974483
+
+Label: 1135
+Area: 3.0
+Bounding Box: (475, 158, 478, 160)
+Centroid: (476.0, 158.33333333333334)
+Orientation: -0.4913968616236646
+
+Label: 1136
+Area: 7.0
+Bounding Box: (475, 284, 481, 287)
+Centroid: (477.57142857142856, 284.85714285714283)
+Orientation: 0.10423260918999384
+
+Label: 1137
+Area: 2.0
+Bounding Box: (475, 464, 477, 466)
+Centroid: (475.5, 464.5)
+Orientation: 0.7853981633974483
+
+Label: 1138
+Area: 1.0
+Bounding Box: (475, 528, 476, 529)
+Centroid: (475.0, 528.0)
+Orientation: -0.7853981633974483
+
+Label: 1139
+Area: 1.0
+Bounding Box: (476, 56, 477, 57)
+Centroid: (476.0, 56.0)
+Orientation: -0.7853981633974483
+
+Label: 1140
+Area: 1.0
+Bounding Box: (476, 240, 477, 241)
+Centroid: (476.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1141
+Area: 1.0
+Bounding Box: (476, 355, 477, 356)
+Centroid: (476.0, 355.0)
+Orientation: -0.7853981633974483
+
+Label: 1142
+Area: 2.0
+Bounding Box: (476, 516, 477, 518)
+Centroid: (476.0, 516.5)
+Orientation: 1.5707963267948966
+
+Label: 1143
+Area: 1.0
+Bounding Box: (476, 519, 477, 520)
+Centroid: (476.0, 519.0)
+Orientation: -0.7853981633974483
+
+Label: 1144
+Area: 1.0
+Bounding Box: (476, 531, 477, 532)
+Centroid: (476.0, 531.0)
+Orientation: -0.7853981633974483
+
+Label: 1145
+Area: 1.0
+Bounding Box: (476, 566, 477, 567)
+Centroid: (476.0, 566.0)
+Orientation: -0.7853981633974483
+
+Label: 1146
+Area: 1.0
+Bounding Box: (477, 76, 478, 77)
+Centroid: (477.0, 76.0)
+Orientation: -0.7853981633974483
+
+Label: 1147
+Area: 2.0
+Bounding Box: (477, 242, 479, 244)
+Centroid: (477.5, 242.5)
+Orientation: -0.7853981633974483
+
+Label: 1148
+Area: 1.0
+Bounding Box: (477, 287, 478, 288)
+Centroid: (477.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1149
+Area: 1.0
+Bounding Box: (477, 367, 478, 368)
+Centroid: (477.0, 367.0)
+Orientation: -0.7853981633974483
+
+Label: 1150
+Area: 2.0
+Bounding Box: (478, 73, 479, 75)
+Centroid: (478.0, 73.5)
+Orientation: 1.5707963267948966
+
+Label: 1151
+Area: 2.0
+Bounding Box: (478, 99, 480, 101)
+Centroid: (478.5, 99.5)
+Orientation: -0.7853981633974483
+
+Label: 1152
+Area: 2.0
+Bounding Box: (478, 125, 480, 127)
+Centroid: (478.5, 125.5)
+Orientation: 0.7853981633974483
+
+Label: 1153
+Area: 1.0
+Bounding Box: (478, 153, 479, 154)
+Centroid: (478.0, 153.0)
+Orientation: -0.7853981633974483
+
+Label: 1154
+Area: 1.0
+Bounding Box: (478, 240, 479, 241)
+Centroid: (478.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1155
+Area: 2.0
+Bounding Box: (478, 465, 480, 467)
+Centroid: (478.5, 465.5)
+Orientation: -0.7853981633974483
+
+Label: 1156
+Area: 1.0
+Bounding Box: (479, 76, 480, 77)
+Centroid: (479.0, 76.0)
+Orientation: -0.7853981633974483
+
+Label: 1157
+Area: 1.0
+Bounding Box: (479, 78, 480, 79)
+Centroid: (479.0, 78.0)
+Orientation: -0.7853981633974483
+
+Label: 1158
+Area: 1.0
+Bounding Box: (479, 121, 480, 122)
+Centroid: (479.0, 121.0)
+Orientation: -0.7853981633974483
+
+Label: 1159
+Area: 1.0
+Bounding Box: (479, 470, 480, 471)
+Centroid: (479.0, 470.0)
+Orientation: -0.7853981633974483
+
+Label: 1160
+Area: 1.0
+Bounding Box: (479, 567, 480, 568)
+Centroid: (479.0, 567.0)
+Orientation: -0.7853981633974483
+
+Label: 1161
+Area: 1.0
+Bounding Box: (480, 74, 481, 75)
+Centroid: (480.0, 74.0)
+Orientation: -0.7853981633974483
+
+Label: 1162
+Area: 1.0
+Bounding Box: (480, 119, 481, 120)
+Centroid: (480.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 1163
+Area: 1.0
+Bounding Box: (480, 356, 481, 357)
+Centroid: (480.0, 356.0)
+Orientation: -0.7853981633974483
+
+Label: 1164
+Area: 1.0
+Bounding Box: (481, 98, 482, 99)
+Centroid: (481.0, 98.0)
+Orientation: -0.7853981633974483
+
+Label: 1165
+Area: 2.0
+Bounding Box: (481, 564, 483, 566)
+Centroid: (481.5, 564.5)
+Orientation: 0.7853981633974483
+
+Label: 1166
+Area: 1.0
+Bounding Box: (482, 73, 483, 74)
+Centroid: (482.0, 73.0)
+Orientation: -0.7853981633974483
+
+Label: 1167
+Area: 1.0
+Bounding Box: (482, 100, 483, 101)
+Centroid: (482.0, 100.0)
+Orientation: -0.7853981633974483
+
+Label: 1168
+Area: 1.0
+Bounding Box: (482, 117, 483, 118)
+Centroid: (482.0, 117.0)
+Orientation: -0.7853981633974483
+
+Label: 1169
+Area: 1.0
+Bounding Box: (482, 285, 483, 286)
+Centroid: (482.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1170
+Area: 1.0
+Bounding Box: (482, 287, 483, 288)
+Centroid: (482.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1171
+Area: 1.0
+Bounding Box: (482, 356, 483, 357)
+Centroid: (482.0, 356.0)
+Orientation: -0.7853981633974483
+
+Label: 1172
+Area: 2.0
+Bounding Box: (482, 542, 484, 544)
+Centroid: (482.5, 542.5)
+Orientation: 0.7853981633974483
+
+Label: 1173
+Area: 1.0
+Bounding Box: (483, 119, 484, 120)
+Centroid: (483.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 1174
+Area: 3.0
+Bounding Box: (483, 476, 485, 479)
+Centroid: (483.3333333333333, 477.0)
+Orientation: 1.079399465171232
+
+Label: 1175
+Area: 3.0
+Bounding Box: (483, 484, 485, 487)
+Centroid: (483.3333333333333, 485.0)
+Orientation: 1.079399465171232
+
+Label: 1176
+Area: 1.0
+Bounding Box: (483, 488, 484, 489)
+Centroid: (483.0, 488.0)
+Orientation: -0.7853981633974483
+
+Label: 1177
+Area: 5.0
+Bounding Box: (483, 493, 487, 497)
+Centroid: (484.8, 494.6)
+Orientation: -0.6954714135012092
+
+Label: 1178
+Area: 5.0
+Bounding Box: (483, 564, 486, 568)
+Centroid: (484.4, 565.8)
+Orientation: -1.0881704951999334
+
+Label: 1179
+Area: 1.0
+Bounding Box: (484, 74, 485, 75)
+Centroid: (484.0, 74.0)
+Orientation: -0.7853981633974483
+
+Label: 1180
+Area: 1.0
+Bounding Box: (484, 284, 485, 285)
+Centroid: (484.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1181
+Area: 1.0
+Bounding Box: (484, 286, 485, 287)
+Centroid: (484.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1182
+Area: 1.0
+Bounding Box: (484, 354, 485, 355)
+Centroid: (484.0, 354.0)
+Orientation: -0.7853981633974483
+
+Label: 1183
+Area: 7.0
+Bounding Box: (484, 488, 488, 493)
+Centroid: (485.2857142857143, 490.0)
+Orientation: -0.9997871771204565
+
+Label: 1184
+Area: 1.0
+Bounding Box: (484, 498, 485, 499)
+Centroid: (484.0, 498.0)
+Orientation: -0.7853981633974483
+
+Label: 1185
+Area: 1.0
+Bounding Box: (485, 116, 486, 117)
+Centroid: (485.0, 116.0)
+Orientation: -0.7853981633974483
+
+Label: 1186
+Area: 2.0
+Bounding Box: (485, 118, 486, 120)
+Centroid: (485.0, 118.5)
+Orientation: 1.5707963267948966
+
+Label: 1187
+Area: 1.0
+Bounding Box: (485, 159, 486, 160)
+Centroid: (485.0, 159.0)
+Orientation: -0.7853981633974483
+
+Label: 1188
+Area: 1.0
+Bounding Box: (485, 473, 486, 474)
+Centroid: (485.0, 473.0)
+Orientation: -0.7853981633974483
+
+Label: 1189
+Area: 1.0
+Bounding Box: (485, 481, 486, 482)
+Centroid: (485.0, 481.0)
+Orientation: -0.7853981633974483
+
+Label: 1190
+Area: 1.0
+Bounding Box: (486, 287, 487, 288)
+Centroid: (486.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1191
+Area: 2.0
+Bounding Box: (486, 353, 488, 355)
+Centroid: (486.5, 353.5)
+Orientation: -0.7853981633974483
+
+Label: 1192
+Area: 2.0
+Bounding Box: (486, 475, 488, 477)
+Centroid: (486.5, 475.5)
+Orientation: -0.7853981633974483
+
+Label: 1193
+Area: 2.0
+Bounding Box: (486, 483, 488, 485)
+Centroid: (486.5, 483.5)
+Orientation: -0.7853981633974483
+
+Label: 1194
+Area: 1.0
+Bounding Box: (486, 497, 487, 498)
+Centroid: (486.0, 497.0)
+Orientation: -0.7853981633974483
+
+Label: 1195
+Area: 1.0
+Bounding Box: (486, 536, 487, 537)
+Centroid: (486.0, 536.0)
+Orientation: -0.7853981633974483
+
+Label: 1196
+Area: 2.0
+Bounding Box: (487, 117, 489, 118)
+Centroid: (487.5, 117.0)
+Orientation: 0.0
+
+Label: 1197
+Area: 1.0
+Bounding Box: (487, 119, 488, 120)
+Centroid: (487.0, 119.0)
+Orientation: -0.7853981633974483
+
+Label: 1198
+Area: 1.0
+Bounding Box: (487, 248, 488, 249)
+Centroid: (487.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1199
+Area: 1.0
+Bounding Box: (487, 478, 488, 479)
+Centroid: (487.0, 478.0)
+Orientation: -0.7853981633974483
+
+Label: 1200
+Area: 1.0
+Bounding Box: (487, 486, 488, 487)
+Centroid: (487.0, 486.0)
+Orientation: -0.7853981633974483
+
+Label: 1201
+Area: 2.0
+Bounding Box: (487, 534, 489, 536)
+Centroid: (487.5, 534.5)
+Orientation: 0.7853981633974483
+
+Label: 1202
+Area: 2.0
+Bounding Box: (487, 564, 489, 565)
+Centroid: (487.5, 564.0)
+Orientation: 0.0
+
+Label: 1203
+Area: 1.0
+Bounding Box: (488, 57, 489, 58)
+Centroid: (488.0, 57.0)
+Orientation: -0.7853981633974483
+
+Label: 1204
+Area: 2.0
+Bounding Box: (489, 61, 491, 62)
+Centroid: (489.5, 61.0)
+Orientation: 0.0
+
+Label: 1205
+Area: 2.0
+Bounding Box: (489, 72, 490, 74)
+Centroid: (489.0, 72.5)
+Orientation: 1.5707963267948966
+
+Label: 1206
+Area: 2.0
+Bounding Box: (489, 118, 491, 120)
+Centroid: (489.5, 118.5)
+Orientation: -0.7853981633974483
+
+Label: 1207
+Area: 1.0
+Bounding Box: (489, 398, 490, 399)
+Centroid: (489.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 1208
+Area: 1.0
+Bounding Box: (489, 496, 490, 497)
+Centroid: (489.0, 496.0)
+Orientation: -0.7853981633974483
+
+Label: 1209
+Area: 2.0
+Bounding Box: (489, 566, 490, 568)
+Centroid: (489.0, 566.5)
+Orientation: 1.5707963267948966
+
+Label: 1210
+Area: 10.0
+Bounding Box: (490, 74, 494, 80)
+Centroid: (491.3, 76.3)
+Orientation: -1.4382748968461694
+
+Label: 1211
+Area: 3.0
+Bounding Box: (490, 142, 493, 144)
+Centroid: (491.0, 142.66666666666666)
+Orientation: 0.0
+
+Label: 1212
+Area: 10.0
+Bounding Box: (490, 560, 494, 566)
+Centroid: (491.3, 562.7)
+Orientation: 1.4382748968461694
+
+Label: 1213
+Area: 1.0
+Bounding Box: (491, 57, 492, 58)
+Centroid: (491.0, 57.0)
+Orientation: -0.7853981633974483
+
+Label: 1214
+Area: 4.0
+Bounding Box: (491, 398, 495, 400)
+Centroid: (492.5, 398.5)
+Orientation: 0.0
+
+Label: 1215
+Area: 2.0
+Bounding Box: (492, 81, 494, 83)
+Centroid: (492.5, 81.5)
+Orientation: 0.7853981633974483
+
+Label: 1216
+Area: 2.0
+Bounding Box: (492, 117, 494, 119)
+Centroid: (492.5, 117.5)
+Orientation: -0.7853981633974483
+
+Label: 1217
+Area: 1.0
+Bounding Box: (492, 395, 493, 396)
+Centroid: (492.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 1218
+Area: 2.0
+Bounding Box: (493, 56, 495, 57)
+Centroid: (493.5, 56.0)
+Orientation: 0.0
+
+Label: 1219
+Area: 3.0
+Bounding Box: (493, 115, 496, 116)
+Centroid: (494.0, 115.0)
+Orientation: 0.0
+
+Label: 1220
+Area: 1.0
+Bounding Box: (493, 263, 494, 264)
+Centroid: (493.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 1221
+Area: 1.0
+Bounding Box: (493, 502, 494, 503)
+Centroid: (493.0, 502.0)
+Orientation: -0.7853981633974483
+
+Label: 1222
+Area: 1.0
+Bounding Box: (493, 558, 494, 559)
+Centroid: (493.0, 558.0)
+Orientation: -0.7853981633974483
+
+Label: 1223
+Area: 2.0
+Bounding Box: (494, 73, 496, 74)
+Centroid: (494.5, 73.0)
+Orientation: 0.0
+
+Label: 1224
+Area: 2.0
+Bounding Box: (494, 76, 496, 78)
+Centroid: (494.5, 76.5)
+Orientation: -0.7853981633974483
+
+Label: 1225
+Area: 2.0
+Bounding Box: (494, 555, 496, 557)
+Centroid: (494.5, 555.5)
+Orientation: -0.7853981633974483
+
+Label: 1226
+Area: 2.0
+Bounding Box: (494, 562, 496, 564)
+Centroid: (494.5, 562.5)
+Orientation: 0.7853981633974483
+
+Label: 1227
+Area: 2.0
+Bounding Box: (494, 566, 496, 567)
+Centroid: (494.5, 566.0)
+Orientation: 0.0
+
+Label: 1228
+Area: 1.0
+Bounding Box: (495, 83, 496, 84)
+Centroid: (495.0, 83.0)
+Orientation: -0.7853981633974483
+
+Label: 1229
+Area: 1.0
+Bounding Box: (495, 117, 496, 118)
+Centroid: (495.0, 117.0)
+Orientation: -0.7853981633974483
+
+Label: 1230
+Area: 1.0
+Bounding Box: (495, 499, 496, 500)
+Centroid: (495.0, 499.0)
+Orientation: -0.7853981633974483
+
+Label: 1231
+Area: 1.0
+Bounding Box: (496, 264, 497, 265)
+Centroid: (496.0, 264.0)
+Orientation: -0.7853981633974483
+
+Label: 1232
+Area: 1.0
+Bounding Box: (496, 396, 497, 397)
+Centroid: (496.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 1233
+Area: 2.0
+Bounding Box: (497, 55, 499, 56)
+Centroid: (497.5, 55.0)
+Orientation: 0.0
+
+Label: 1234
+Area: 1.0
+Bounding Box: (497, 248, 498, 249)
+Centroid: (497.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1235
+Area: 2.0
+Bounding Box: (497, 398, 498, 400)
+Centroid: (497.0, 398.5)
+Orientation: 1.5707963267948966
+
+Label: 1236
+Area: 1.0
+Bounding Box: (498, 53, 499, 54)
+Centroid: (498.0, 53.0)
+Orientation: -0.7853981633974483
+
+Label: 1237
+Area: 2.0
+Bounding Box: (498, 110, 499, 112)
+Centroid: (498.0, 110.5)
+Orientation: 1.5707963267948966
+
+Label: 1238
+Area: 10.0
+Bounding Box: (498, 392, 502, 398)
+Centroid: (499.3, 394.7)
+Orientation: 1.4382748968461694
+
+Label: 1239
+Area: 2.0
+Bounding Box: (499, 50, 500, 52)
+Centroid: (499.0, 50.5)
+Orientation: 1.5707963267948966
+
+Label: 1240
+Area: 2.0
+Bounding Box: (499, 106, 501, 108)
+Centroid: (499.5, 106.5)
+Orientation: 0.7853981633974483
+
+Label: 1241
+Area: 2.0
+Bounding Box: (499, 248, 500, 250)
+Centroid: (499.0, 248.5)
+Orientation: 1.5707963267948966
+
+Label: 1242
+Area: 1.0
+Bounding Box: (499, 504, 500, 505)
+Centroid: (499.0, 504.0)
+Orientation: -0.7853981633974483
+
+Label: 1243
+Area: 6.0
+Bounding Box: (500, 52, 504, 55)
+Centroid: (501.5, 53.0)
+Orientation: -0.1743855017919535
+
+Label: 1244
+Area: 1.0
+Bounding Box: (500, 111, 501, 112)
+Centroid: (500.0, 111.0)
+Orientation: -0.7853981633974483
+
+Label: 1245
+Area: 2.0
+Bounding Box: (500, 506, 501, 508)
+Centroid: (500.0, 506.5)
+Orientation: 1.5707963267948966
+
+Label: 1246
+Area: 4.0
+Bounding Box: (500, 509, 504, 511)
+Centroid: (501.5, 509.5)
+Orientation: 0.0
+
+Label: 1247
+Area: 3.0
+Bounding Box: (501, 550, 504, 552)
+Centroid: (502.0, 550.6666666666666)
+Orientation: 0.0
+
+Label: 1248
+Area: 2.0
+Bounding Box: (502, 98, 504, 100)
+Centroid: (502.5, 98.5)
+Orientation: 0.7853981633974483
+
+Label: 1249
+Area: 1.0
+Bounding Box: (502, 106, 503, 107)
+Centroid: (502.0, 106.0)
+Orientation: -0.7853981633974483
+
+Label: 1250
+Area: 1.0
+Bounding Box: (502, 111, 503, 112)
+Centroid: (502.0, 111.0)
+Orientation: -0.7853981633974483
+
+Label: 1251
+Area: 2.0
+Bounding Box: (502, 394, 504, 396)
+Centroid: (502.5, 394.5)
+Orientation: 0.7853981633974483
+
+Label: 1252
+Area: 2.0
+Bounding Box: (502, 398, 504, 399)
+Centroid: (502.5, 398.0)
+Orientation: 0.0
+
+Label: 1253
+Area: 1.0
+Bounding Box: (502, 504, 503, 505)
+Centroid: (502.0, 504.0)
+Orientation: -0.7853981633974483
+
+Label: 1254
+Area: 1.0
+Bounding Box: (502, 507, 503, 508)
+Centroid: (502.0, 507.0)
+Orientation: -0.7853981633974483
+
+Label: 1255
+Area: 1.0
+Bounding Box: (503, 546, 504, 547)
+Centroid: (503.0, 546.0)
+Orientation: -0.7853981633974483
+
+Label: 1256
+Area: 1.0
+Bounding Box: (503, 548, 504, 549)
+Centroid: (503.0, 548.0)
+Orientation: -0.7853981633974483
+
+Label: 1257
+Area: 1.0
+Bounding Box: (504, 72, 505, 73)
+Centroid: (504.0, 72.0)
+Orientation: -0.7853981633974483
+
+Label: 1258
+Area: 1.0
+Bounding Box: (504, 82, 505, 83)
+Centroid: (504.0, 82.0)
+Orientation: -0.7853981633974483
+
+Label: 1259
+Area: 3.0
+Bounding Box: (504, 153, 506, 156)
+Centroid: (504.6666666666667, 154.0)
+Orientation: 1.079399465171232
+
+Label: 1260
+Area: 2.0
+Bounding Box: (504, 242, 506, 244)
+Centroid: (504.5, 242.5)
+Orientation: 0.7853981633974483
+
+Label: 1261
+Area: 1.0
+Bounding Box: (504, 285, 505, 286)
+Centroid: (504.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1262
+Area: 1.0
+Bounding Box: (505, 240, 506, 241)
+Centroid: (505.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1263
+Area: 1.0
+Bounding Box: (505, 543, 506, 544)
+Centroid: (505.0, 543.0)
+Orientation: -0.7853981633974483
+
+Label: 1264
+Area: 1.0
+Bounding Box: (506, 285, 507, 286)
+Centroid: (506.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1265
+Area: 1.0
+Bounding Box: (506, 287, 507, 288)
+Centroid: (506.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1266
+Area: 1.0
+Bounding Box: (506, 520, 507, 521)
+Centroid: (506.0, 520.0)
+Orientation: -0.7853981633974483
+
+Label: 1267
+Area: 2.0
+Bounding Box: (506, 522, 507, 524)
+Centroid: (506.0, 522.5)
+Orientation: 1.5707963267948966
+
+Label: 1268
+Area: 6.0
+Bounding Box: (507, 155, 513, 157)
+Centroid: (509.5, 155.66666666666666)
+Orientation: 0.17768850907017503
+
+Label: 1269
+Area: 2.0
+Bounding Box: (507, 242, 509, 244)
+Centroid: (507.5, 242.5)
+Orientation: 0.7853981633974483
+
+Label: 1270
+Area: 1.0
+Bounding Box: (507, 398, 508, 399)
+Centroid: (507.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 1271
+Area: 8.0
+Bounding Box: (507, 523, 512, 528)
+Centroid: (508.75, 525.375)
+Orientation: 0.8103773612584196
+
+Label: 1272
+Area: 1.0
+Bounding Box: (507, 531, 508, 532)
+Centroid: (507.0, 531.0)
+Orientation: -0.7853981633974483
+
+Label: 1273
+Area: 4.0
+Bounding Box: (507, 532, 511, 534)
+Centroid: (508.5, 532.75)
+Orientation: -0.11554533359794854
+
+Label: 1274
+Area: 3.0
+Bounding Box: (507, 542, 510, 544)
+Centroid: (508.0, 542.6666666666666)
+Orientation: 0.0
+
+Label: 1275
+Area: 7.0
+Bounding Box: (508, 240, 513, 245)
+Centroid: (510.0, 241.85714285714286)
+Orientation: 0.8281508102365507
+
+Label: 1276
+Area: 1.0
+Bounding Box: (508, 284, 509, 285)
+Centroid: (508.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1277
+Area: 1.0
+Bounding Box: (508, 286, 509, 287)
+Centroid: (508.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1278
+Area: 1.0
+Bounding Box: (508, 396, 509, 397)
+Centroid: (508.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 1279
+Area: 2.0
+Bounding Box: (508, 528, 509, 530)
+Centroid: (508.0, 528.5)
+Orientation: 1.5707963267948966
+
+Label: 1280
+Area: 23.0
+Bounding Box: (509, 148, 520, 156)
+Centroid: (514.6086956521739, 151.52173913043478)
+Orientation: -0.38456236785367265
+
+Label: 1281
+Area: 2.0
+Bounding Box: (509, 398, 511, 399)
+Centroid: (509.5, 398.0)
+Orientation: 0.0
+
+Label: 1282
+Area: 3.0
+Bounding Box: (509, 512, 511, 514)
+Centroid: (509.3333333333333, 512.6666666666666)
+Orientation: 0.7853981633974483
+
+Label: 1283
+Area: 1.0
+Bounding Box: (509, 517, 510, 518)
+Centroid: (509.0, 517.0)
+Orientation: -0.7853981633974483
+
+Label: 1284
+Area: 3.0
+Bounding Box: (509, 539, 511, 542)
+Centroid: (509.3333333333333, 540.0)
+Orientation: 1.079399465171232
+
+Label: 1285
+Area: 1.0
+Bounding Box: (510, 287, 511, 288)
+Centroid: (510.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1286
+Area: 1.0
+Bounding Box: (510, 515, 511, 516)
+Centroid: (510.0, 515.0)
+Orientation: -0.7853981633974483
+
+Label: 1287
+Area: 2.0
+Bounding Box: (510, 519, 511, 521)
+Centroid: (510.0, 519.5)
+Orientation: 1.5707963267948966
+
+Label: 1288
+Area: 1.0
+Bounding Box: (510, 522, 511, 523)
+Centroid: (510.0, 522.0)
+Orientation: -0.7853981633974483
+
+Label: 1289
+Area: 1.0
+Bounding Box: (510, 529, 511, 530)
+Centroid: (510.0, 529.0)
+Orientation: -0.7853981633974483
+
+Label: 1290
+Area: 2.0
+Bounding Box: (510, 537, 512, 539)
+Centroid: (510.5, 537.5)
+Orientation: 0.7853981633974483
+
+Label: 1291
+Area: 1.0
+Bounding Box: (511, 396, 512, 397)
+Centroid: (511.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 1292
+Area: 1.0
+Bounding Box: (511, 535, 512, 536)
+Centroid: (511.0, 535.0)
+Orientation: -0.7853981633974483
+
+Label: 1293
+Area: 1.0
+Bounding Box: (511, 543, 512, 544)
+Centroid: (511.0, 543.0)
+Orientation: -0.7853981633974483
+
+Label: 1294
+Area: 2.0
+Bounding Box: (512, 162, 514, 163)
+Centroid: (512.5, 162.0)
+Orientation: 0.0
+
+Label: 1295
+Area: 2.0
+Bounding Box: (512, 164, 513, 166)
+Centroid: (512.0, 164.5)
+Orientation: 1.5707963267948966
+
+Label: 1296
+Area: 1.0
+Bounding Box: (513, 167, 514, 168)
+Centroid: (513.0, 167.0)
+Orientation: -0.7853981633974483
+
+Label: 1297
+Area: 1.0
+Bounding Box: (513, 286, 514, 287)
+Centroid: (513.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1298
+Area: 2.0
+Bounding Box: (514, 165, 516, 167)
+Centroid: (514.5, 165.5)
+Orientation: 0.7853981633974483
+
+Label: 1299
+Area: 1.0
+Bounding Box: (514, 240, 515, 241)
+Centroid: (514.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1300
+Area: 1.0
+Bounding Box: (514, 242, 515, 243)
+Centroid: (514.0, 242.0)
+Orientation: -0.7853981633974483
+
+Label: 1301
+Area: 3.0
+Bounding Box: (514, 283, 516, 286)
+Centroid: (514.3333333333334, 284.0)
+Orientation: 1.079399465171232
+
+Label: 1302
+Area: 5.0
+Bounding Box: (515, 145, 518, 149)
+Centroid: (516.0, 146.6)
+Orientation: 1.5707963267948966
+
+Label: 1303
+Area: 1.0
+Bounding Box: (515, 287, 516, 288)
+Centroid: (515.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1304
+Area: 1.0
+Bounding Box: (516, 80, 517, 81)
+Centroid: (516.0, 80.0)
+Orientation: -0.7853981633974483
+
+Label: 1305
+Area: 1.0
+Bounding Box: (516, 82, 517, 83)
+Centroid: (516.0, 82.0)
+Orientation: -0.7853981633974483
+
+Label: 1306
+Area: 1.0
+Bounding Box: (516, 241, 517, 242)
+Centroid: (516.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1307
+Area: 1.0
+Bounding Box: (516, 243, 517, 244)
+Centroid: (516.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 1308
+Area: 1.0
+Bounding Box: (517, 164, 518, 165)
+Centroid: (517.0, 164.0)
+Orientation: -0.7853981633974483
+
+Label: 1309
+Area: 3.0
+Bounding Box: (517, 166, 520, 168)
+Centroid: (518.0, 166.66666666666666)
+Orientation: 0.0
+
+Label: 1310
+Area: 2.0
+Bounding Box: (518, 118, 520, 120)
+Centroid: (518.5, 118.5)
+Orientation: -0.7853981633974483
+
+Label: 1311
+Area: 1.0
+Bounding Box: (518, 240, 519, 241)
+Centroid: (518.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1312
+Area: 1.0
+Bounding Box: (518, 287, 519, 288)
+Centroid: (518.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1313
+Area: 4.0
+Bounding Box: (519, 90, 522, 93)
+Centroid: (520.0, 90.75)
+Orientation: 0.9647834985327344
+
+Label: 1314
+Area: 1.0
+Bounding Box: (519, 102, 520, 103)
+Centroid: (519.0, 102.0)
+Orientation: -0.7853981633974483
+
+Label: 1315
+Area: 1.0
+Bounding Box: (519, 112, 520, 113)
+Centroid: (519.0, 112.0)
+Orientation: -0.7853981633974483
+
+Label: 1316
+Area: 1.0
+Bounding Box: (519, 285, 520, 286)
+Centroid: (519.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1317
+Area: 1.0
+Bounding Box: (520, 283, 521, 284)
+Centroid: (520.0, 283.0)
+Orientation: -0.7853981633974483
+
+Label: 1318
+Area: 11.0
+Bounding Box: (520, 377, 527, 382)
+Centroid: (523.7272727272727, 378.8181818181818)
+Orientation: 0.3966989963686674
+
+Label: 1319
+Area: 2.0
+Bounding Box: (521, 86, 523, 88)
+Centroid: (521.5, 86.5)
+Orientation: 0.7853981633974483
+
+Label: 1320
+Area: 2.0
+Bounding Box: (521, 284, 523, 286)
+Centroid: (521.5, 284.5)
+Orientation: -0.7853981633974483
+
+Label: 1321
+Area: 1.0
+Bounding Box: (521, 354, 522, 355)
+Centroid: (521.0, 354.0)
+Orientation: -0.7853981633974483
+
+Label: 1322
+Area: 1.0
+Bounding Box: (521, 395, 522, 396)
+Centroid: (521.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 1323
+Area: 4.0
+Bounding Box: (522, 396, 526, 398)
+Centroid: (523.5, 396.5)
+Orientation: 0.0
+
+Label: 1324
+Area: 1.0
+Bounding Box: (523, 91, 524, 92)
+Centroid: (523.0, 91.0)
+Orientation: -0.7853981633974483
+
+Label: 1325
+Area: 1.0
+Bounding Box: (523, 352, 524, 353)
+Centroid: (523.0, 352.0)
+Orientation: -0.7853981633974483
+
+Label: 1326
+Area: 2.0
+Bounding Box: (524, 282, 526, 284)
+Centroid: (524.5, 282.5)
+Orientation: 0.7853981633974483
+
+Label: 1327
+Area: 1.0
+Bounding Box: (524, 354, 525, 355)
+Centroid: (524.0, 354.0)
+Orientation: -0.7853981633974483
+
+Label: 1328
+Area: 1.0
+Bounding Box: (526, 95, 527, 96)
+Centroid: (526.0, 95.0)
+Orientation: -0.7853981633974483
+
+Label: 1329
+Area: 1.0
+Bounding Box: (526, 167, 527, 168)
+Centroid: (526.0, 167.0)
+Orientation: -0.7853981633974483
+
+Label: 1330
+Area: 1.0
+Bounding Box: (526, 285, 527, 286)
+Centroid: (526.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1331
+Area: 1.0
+Bounding Box: (526, 376, 527, 377)
+Centroid: (526.0, 376.0)
+Orientation: -0.7853981633974483
+
+Label: 1332
+Area: 1.0
+Bounding Box: (526, 395, 527, 396)
+Centroid: (526.0, 395.0)
+Orientation: -0.7853981633974483
+
+Label: 1333
+Area: 1.0
+Bounding Box: (527, 353, 528, 354)
+Centroid: (527.0, 353.0)
+Orientation: -0.7853981633974483
+
+Label: 1334
+Area: 2.0
+Bounding Box: (528, 68, 529, 70)
+Centroid: (528.0, 68.5)
+Orientation: 1.5707963267948966
+
+Label: 1335
+Area: 2.0
+Bounding Box: (528, 149, 530, 151)
+Centroid: (528.5, 149.5)
+Orientation: -0.7853981633974483
+
+Label: 1336
+Area: 1.0
+Bounding Box: (528, 240, 529, 241)
+Centroid: (528.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1337
+Area: 1.0
+Bounding Box: (528, 243, 529, 244)
+Centroid: (528.0, 243.0)
+Orientation: -0.7853981633974483
+
+Label: 1338
+Area: 1.0
+Bounding Box: (528, 246, 529, 247)
+Centroid: (528.0, 246.0)
+Orientation: -0.7853981633974483
+
+Label: 1339
+Area: 2.0
+Bounding Box: (528, 284, 529, 286)
+Centroid: (528.0, 284.5)
+Orientation: 1.5707963267948966
+
+Label: 1340
+Area: 1.0
+Bounding Box: (528, 377, 529, 378)
+Centroid: (528.0, 377.0)
+Orientation: -0.7853981633974483
+
+Label: 1341
+Area: 1.0
+Bounding Box: (528, 396, 529, 397)
+Centroid: (528.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 1342
+Area: 1.0
+Bounding Box: (529, 76, 530, 77)
+Centroid: (529.0, 76.0)
+Orientation: -0.7853981633974483
+
+Label: 1343
+Area: 1.0
+Bounding Box: (529, 78, 530, 79)
+Centroid: (529.0, 78.0)
+Orientation: -0.7853981633974483
+
+Label: 1344
+Area: 1.0
+Bounding Box: (529, 103, 530, 104)
+Centroid: (529.0, 103.0)
+Orientation: -0.7853981633974483
+
+Label: 1345
+Area: 1.0
+Bounding Box: (529, 398, 530, 399)
+Centroid: (529.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 1346
+Area: 10.0
+Bounding Box: (530, 147, 536, 152)
+Centroid: (532.7, 149.4)
+Orientation: -0.6102410572797471
+
+Label: 1347
+Area: 1.0
+Bounding Box: (530, 244, 531, 245)
+Centroid: (530.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 1348
+Area: 4.0
+Bounding Box: (530, 285, 533, 288)
+Centroid: (531.25, 286.0)
+Orientation: 0.0
+
+Label: 1349
+Area: 9.0
+Bounding Box: (530, 376, 535, 383)
+Centroid: (532.5555555555555, 378.55555555555554)
+Orientation: 1.2580538066752822
+
+Label: 1350
+Area: 2.0
+Bounding Box: (531, 128, 533, 129)
+Centroid: (531.5, 128.0)
+Orientation: 0.0
+
+Label: 1351
+Area: 1.0
+Bounding Box: (531, 147, 532, 148)
+Centroid: (531.0, 147.0)
+Orientation: -0.7853981633974483
+
+Label: 1352
+Area: 6.0
+Bounding Box: (531, 165, 536, 167)
+Centroid: (533.0, 165.5)
+Orientation: -0.11554533359794852
+
+Label: 1353
+Area: 6.0
+Bounding Box: (531, 240, 536, 244)
+Centroid: (533.1666666666666, 241.33333333333334)
+Orientation: 0.519146114246523
+
+Label: 1354
+Area: 1.0
+Bounding Box: (531, 380, 532, 381)
+Centroid: (531.0, 380.0)
+Orientation: -0.7853981633974483
+
+Label: 1355
+Area: 7.0
+Bounding Box: (532, 395, 537, 400)
+Centroid: (534.1428571428571, 396.7142857142857)
+Orientation: 0.8287673327354407
+
+Label: 1356
+Area: 1.0
+Bounding Box: (532, 398, 533, 399)
+Centroid: (532.0, 398.0)
+Orientation: -0.7853981633974483
+
+Label: 1357
+Area: 1.0
+Bounding Box: (533, 352, 534, 353)
+Centroid: (533.0, 352.0)
+Orientation: -0.7853981633974483
+
+Label: 1358
+Area: 3.0
+Bounding Box: (534, 93, 536, 96)
+Centroid: (534.6666666666666, 94.0)
+Orientation: 1.5707963267948966
+
+Label: 1359
+Area: 2.0
+Bounding Box: (534, 284, 535, 286)
+Centroid: (534.0, 284.5)
+Orientation: 1.5707963267948966
+
+Label: 1360
+Area: 1.0
+Bounding Box: (534, 287, 535, 288)
+Centroid: (534.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1361
+Area: 2.0
+Bounding Box: (535, 101, 536, 103)
+Centroid: (535.0, 101.5)
+Orientation: 1.5707963267948966
+
+Label: 1362
+Area: 1.0
+Bounding Box: (535, 143, 536, 144)
+Centroid: (535.0, 143.0)
+Orientation: -0.7853981633974483
+
+Label: 1363
+Area: 1.0
+Bounding Box: (535, 145, 536, 146)
+Centroid: (535.0, 145.0)
+Orientation: -0.7853981633974483
+
+Label: 1364
+Area: 1.0
+Bounding Box: (535, 245, 536, 246)
+Centroid: (535.0, 245.0)
+Orientation: -0.7853981633974483
+
+Label: 1365
+Area: 12.0
+Bounding Box: (535, 352, 544, 356)
+Centroid: (538.8333333333334, 353.75)
+Orientation: -0.12350677201957597
+
+Label: 1366
+Area: 1.0
+Bounding Box: (535, 378, 536, 379)
+Centroid: (535.0, 378.0)
+Orientation: -0.7853981633974483
+
+Label: 1367
+Area: 1.0
+Bounding Box: (535, 394, 536, 395)
+Centroid: (535.0, 394.0)
+Orientation: -0.7853981633974483
+
+Label: 1368
+Area: 2.0
+Bounding Box: (536, 62, 537, 64)
+Centroid: (536.0, 62.5)
+Orientation: 1.5707963267948966
+
+Label: 1369
+Area: 2.0
+Bounding Box: (536, 81, 538, 83)
+Centroid: (536.5, 81.5)
+Orientation: 0.7853981633974483
+
+Label: 1370
+Area: 4.0
+Bounding Box: (536, 105, 538, 109)
+Centroid: (536.75, 106.5)
+Orientation: 1.2634648508338138
+
+Label: 1371
+Area: 1.0
+Bounding Box: (536, 110, 537, 111)
+Centroid: (536.0, 110.0)
+Orientation: -0.7853981633974483
+
+Label: 1372
+Area: 1.0
+Bounding Box: (536, 382, 537, 383)
+Centroid: (536.0, 382.0)
+Orientation: -0.7853981633974483
+
+Label: 1373
+Area: 1.0
+Bounding Box: (537, 166, 538, 167)
+Centroid: (537.0, 166.0)
+Orientation: -0.7853981633974483
+
+Label: 1374
+Area: 1.0
+Bounding Box: (537, 241, 538, 242)
+Centroid: (537.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1375
+Area: 3.0
+Bounding Box: (537, 243, 540, 245)
+Centroid: (538.0, 243.33333333333334)
+Orientation: 0.0
+
+Label: 1376
+Area: 1.0
+Bounding Box: (537, 352, 538, 353)
+Centroid: (537.0, 352.0)
+Orientation: -0.7853981633974483
+
+Label: 1377
+Area: 6.0
+Bounding Box: (537, 376, 540, 380)
+Centroid: (537.6666666666666, 377.5)
+Orientation: -1.1980865886578174
+
+Label: 1378
+Area: 1.0
+Bounding Box: (537, 399, 538, 400)
+Centroid: (537.0, 399.0)
+Orientation: -0.7853981633974483
+
+Label: 1379
+Area: 1.0
+Bounding Box: (538, 96, 539, 97)
+Centroid: (538.0, 96.0)
+Orientation: -0.7853981633974483
+
+Label: 1380
+Area: 3.0
+Bounding Box: (538, 396, 540, 399)
+Centroid: (538.6666666666666, 397.0)
+Orientation: 1.5707963267948966
+
+Label: 1381
+Area: 1.0
+Bounding Box: (539, 166, 540, 167)
+Centroid: (539.0, 166.0)
+Orientation: -0.7853981633974483
+
+Label: 1382
+Area: 1.0
+Bounding Box: (539, 241, 540, 242)
+Centroid: (539.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1383
+Area: 2.0
+Bounding Box: (539, 246, 541, 247)
+Centroid: (539.5, 246.0)
+Orientation: 0.0
+
+Label: 1384
+Area: 1.0
+Bounding Box: (539, 286, 540, 287)
+Centroid: (539.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1385
+Area: 1.0
+Bounding Box: (539, 380, 540, 381)
+Centroid: (539.0, 380.0)
+Orientation: -0.7853981633974483
+
+Label: 1386
+Area: 2.0
+Bounding Box: (540, 129, 541, 131)
+Centroid: (540.0, 129.5)
+Orientation: 1.5707963267948966
+
+Label: 1387
+Area: 1.0
+Bounding Box: (540, 132, 541, 133)
+Centroid: (540.0, 132.0)
+Orientation: -0.7853981633974483
+
+Label: 1388
+Area: 3.0
+Bounding Box: (540, 376, 543, 378)
+Centroid: (541.0, 376.3333333333333)
+Orientation: 0.0
+
+Label: 1389
+Area: 2.0
+Bounding Box: (541, 108, 543, 110)
+Centroid: (541.5, 108.5)
+Orientation: 0.7853981633974483
+
+Label: 1390
+Area: 1.0
+Bounding Box: (541, 135, 542, 136)
+Centroid: (541.0, 135.0)
+Orientation: -0.7853981633974483
+
+Label: 1391
+Area: 3.0
+Bounding Box: (541, 241, 544, 243)
+Centroid: (542.0, 241.66666666666666)
+Orientation: -0.4913968616236646
+
+Label: 1392
+Area: 1.0
+Bounding Box: (541, 244, 542, 245)
+Centroid: (541.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 1393
+Area: 2.0
+Bounding Box: (541, 286, 543, 288)
+Centroid: (541.5, 286.5)
+Orientation: 0.7853981633974483
+
+Label: 1394
+Area: 4.0
+Bounding Box: (541, 397, 544, 400)
+Centroid: (541.75, 398.0)
+Orientation: 0.6927241883996009
+
+Label: 1395
+Area: 3.0
+Bounding Box: (542, 98, 544, 101)
+Centroid: (542.6666666666666, 99.0)
+Orientation: 1.5707963267948966
+
+Label: 1396
+Area: 4.0
+Bounding Box: (542, 104, 544, 108)
+Centroid: (542.75, 105.5)
+Orientation: 1.4552509931969482
+
+Label: 1397
+Area: 1.0
+Bounding Box: (542, 111, 543, 112)
+Centroid: (542.0, 111.0)
+Orientation: -0.7853981633974483
+
+Label: 1398
+Area: 2.0
+Bounding Box: (542, 117, 544, 119)
+Centroid: (542.5, 117.5)
+Orientation: 0.7853981633974483
+
+Label: 1399
+Area: 4.0
+Bounding Box: (542, 129, 544, 133)
+Centroid: (542.5, 130.5)
+Orientation: -1.3389725222944935
+
+Label: 1400
+Area: 2.0
+Bounding Box: (542, 282, 544, 283)
+Centroid: (542.5, 282.0)
+Orientation: 0.0
+
+Label: 1401
+Area: 1.0
+Bounding Box: (543, 134, 544, 135)
+Centroid: (543.0, 134.0)
+Orientation: -0.7853981633974483
+
+Label: 1402
+Area: 1.0
+Bounding Box: (543, 396, 544, 397)
+Centroid: (543.0, 396.0)
+Orientation: -0.7853981633974483
+
+Label: 1403
+Area: 8.0
+Bounding Box: (544, 152, 550, 156)
+Centroid: (546.0, 153.75)
+Orientation: 0.1743855017919535
+
+Label: 1404
+Area: 1.0
+Bounding Box: (544, 157, 545, 158)
+Centroid: (544.0, 157.0)
+Orientation: -0.7853981633974483
+
+Label: 1405
+Area: 1.0
+Bounding Box: (544, 167, 545, 168)
+Centroid: (544.0, 167.0)
+Orientation: -0.7853981633974483
+
+Label: 1406
+Area: 1.0
+Bounding Box: (544, 285, 545, 286)
+Centroid: (544.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1407
+Area: 1.0
+Bounding Box: (544, 371, 545, 372)
+Centroid: (544.0, 371.0)
+Orientation: -0.7853981633974483
+
+Label: 1408
+Area: 2.0
+Bounding Box: (544, 373, 546, 374)
+Centroid: (544.5, 373.0)
+Orientation: 0.0
+
+Label: 1409
+Area: 1.0
+Bounding Box: (544, 375, 545, 376)
+Centroid: (544.0, 375.0)
+Orientation: -0.7853981633974483
+
+Label: 1410
+Area: 1.0
+Bounding Box: (545, 287, 546, 288)
+Centroid: (545.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1411
+Area: 2.0
+Bounding Box: (546, 164, 547, 166)
+Centroid: (546.0, 164.5)
+Orientation: 1.5707963267948966
+
+Label: 1412
+Area: 8.0
+Bounding Box: (547, 284, 552, 288)
+Centroid: (548.5, 285.375)
+Orientation: -0.42598316358663607
+
+Label: 1413
+Area: 2.0
+Bounding Box: (547, 389, 549, 391)
+Centroid: (547.5, 389.5)
+Orientation: 0.7853981633974483
+
+Label: 1414
+Area: 3.0
+Bounding Box: (549, 152, 552, 154)
+Centroid: (550.0, 152.33333333333334)
+Orientation: 0.0
+
+Label: 1415
+Area: 2.0
+Bounding Box: (550, 156, 552, 158)
+Centroid: (550.5, 156.5)
+Orientation: -0.7853981633974483
+
+Label: 1416
+Area: 1.0
+Bounding Box: (551, 167, 552, 168)
+Centroid: (551.0, 167.0)
+Orientation: -0.7853981633974483
+
+Label: 1417
+Area: 1.0
+Bounding Box: (551, 387, 552, 388)
+Centroid: (551.0, 387.0)
+Orientation: -0.7853981633974483
+
+Label: 1418
+Area: 1.0
+Bounding Box: (551, 390, 552, 391)
+Centroid: (551.0, 390.0)
+Orientation: -0.7853981633974483
+
+Label: 1419
+Area: 1.0
+Bounding Box: (552, 141, 553, 142)
+Centroid: (552.0, 141.0)
+Orientation: -0.7853981633974483
+
+Label: 1420
+Area: 2.0
+Bounding Box: (552, 285, 554, 287)
+Centroid: (552.5, 285.5)
+Orientation: -0.7853981633974483
+
+Label: 1421
+Area: 1.0
+Bounding Box: (553, 128, 554, 129)
+Centroid: (553.0, 128.0)
+Orientation: -0.7853981633974483
+
+Label: 1422
+Area: 1.0
+Bounding Box: (553, 244, 554, 245)
+Centroid: (553.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 1423
+Area: 6.0
+Bounding Box: (553, 258, 559, 260)
+Centroid: (555.5, 258.3333333333333)
+Orientation: 0.0
+
+Label: 1424
+Area: 1.0
+Bounding Box: (553, 263, 554, 264)
+Centroid: (553.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 1425
+Area: 7.0
+Bounding Box: (553, 360, 558, 363)
+Centroid: (555.2857142857143, 361.0)
+Orientation: -0.1045114714031323
+
+Label: 1426
+Area: 4.0
+Bounding Box: (554, 242, 558, 244)
+Centroid: (555.5, 242.5)
+Orientation: 0.0
+
+Label: 1427
+Area: 1.0
+Bounding Box: (554, 287, 555, 288)
+Centroid: (554.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1428
+Area: 2.0
+Bounding Box: (554, 388, 556, 390)
+Centroid: (554.5, 388.5)
+Orientation: 0.7853981633974483
+
+Label: 1429
+Area: 1.0
+Bounding Box: (554, 391, 555, 392)
+Centroid: (554.0, 391.0)
+Orientation: -0.7853981633974483
+
+Label: 1430
+Area: 2.0
+Bounding Box: (555, 128, 557, 129)
+Centroid: (555.5, 128.0)
+Orientation: 0.0
+
+Label: 1431
+Area: 2.0
+Bounding Box: (555, 261, 557, 262)
+Centroid: (555.5, 261.0)
+Orientation: 0.0
+
+Label: 1432
+Area: 1.0
+Bounding Box: (555, 285, 556, 286)
+Centroid: (555.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1433
+Area: 1.0
+Bounding Box: (555, 386, 556, 387)
+Centroid: (555.0, 386.0)
+Orientation: -0.7853981633974483
+
+Label: 1434
+Area: 1.0
+Bounding Box: (556, 364, 557, 365)
+Centroid: (556.0, 364.0)
+Orientation: -0.7853981633974483
+
+Label: 1435
+Area: 2.0
+Bounding Box: (556, 390, 558, 392)
+Centroid: (556.5, 390.5)
+Orientation: -0.7853981633974483
+
+Label: 1436
+Area: 1.0
+Bounding Box: (557, 159, 558, 160)
+Centroid: (557.0, 159.0)
+Orientation: -0.7853981633974483
+
+Label: 1437
+Area: 1.0
+Bounding Box: (558, 244, 559, 245)
+Centroid: (558.0, 244.0)
+Orientation: -0.7853981633974483
+
+Label: 1438
+Area: 1.0
+Bounding Box: (558, 285, 559, 286)
+Centroid: (558.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1439
+Area: 2.0
+Bounding Box: (558, 385, 560, 387)
+Centroid: (558.5, 385.5)
+Orientation: -0.7853981633974483
+
+Label: 1440
+Area: 1.0
+Bounding Box: (559, 362, 560, 363)
+Centroid: (559.0, 362.0)
+Orientation: -0.7853981633974483
+
+Label: 1441
+Area: 1.0
+Bounding Box: (559, 388, 560, 389)
+Centroid: (559.0, 388.0)
+Orientation: -0.7853981633974483
+
+Label: 1442
+Area: 5.0
+Bounding Box: (560, 40, 563, 44)
+Centroid: (560.8, 41.4)
+Orientation: -1.3389725222944935
+
+Label: 1443
+Area: 1.0
+Bounding Box: (560, 51, 561, 52)
+Centroid: (560.0, 51.0)
+Orientation: -0.7853981633974483
+
+Label: 1444
+Area: 2.0
+Bounding Box: (560, 61, 562, 63)
+Centroid: (560.5, 61.5)
+Orientation: -0.7853981633974483
+
+Label: 1445
+Area: 2.0
+Bounding Box: (560, 65, 562, 67)
+Centroid: (560.5, 65.5)
+Orientation: 0.7853981633974483
+
+Label: 1446
+Area: 1.0
+Bounding Box: (560, 368, 561, 369)
+Centroid: (560.0, 368.0)
+Orientation: -0.7853981633974483
+
+Label: 1447
+Area: 1.0
+Bounding Box: (561, 96, 562, 97)
+Centroid: (561.0, 96.0)
+Orientation: -0.7853981633974483
+
+Label: 1448
+Area: 2.0
+Bounding Box: (561, 98, 563, 100)
+Centroid: (561.5, 98.5)
+Orientation: 0.7853981633974483
+
+Label: 1449
+Area: 1.0
+Bounding Box: (561, 240, 562, 241)
+Centroid: (561.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1450
+Area: 1.0
+Bounding Box: (561, 261, 562, 262)
+Centroid: (561.0, 261.0)
+Orientation: -0.7853981633974483
+
+Label: 1451
+Area: 2.0
+Bounding Box: (561, 263, 562, 265)
+Centroid: (561.0, 263.5)
+Orientation: 1.5707963267948966
+
+Label: 1452
+Area: 1.0
+Bounding Box: (561, 371, 562, 372)
+Centroid: (561.0, 371.0)
+Orientation: -0.7853981633974483
+
+Label: 1453
+Area: 5.0
+Bounding Box: (562, 43, 565, 47)
+Centroid: (563.0, 44.4)
+Orientation: 1.5707963267948966
+
+Label: 1454
+Area: 1.0
+Bounding Box: (562, 88, 563, 89)
+Centroid: (562.0, 88.0)
+Orientation: -0.7853981633974483
+
+Label: 1455
+Area: 2.0
+Bounding Box: (562, 286, 564, 288)
+Centroid: (562.5, 286.5)
+Orientation: -0.7853981633974483
+
+Label: 1456
+Area: 1.0
+Bounding Box: (562, 383, 563, 384)
+Centroid: (562.0, 383.0)
+Orientation: -0.7853981633974483
+
+Label: 1457
+Area: 1.0
+Bounding Box: (563, 240, 564, 241)
+Centroid: (563.0, 240.0)
+Orientation: -0.7853981633974483
+
+Label: 1458
+Area: 1.0
+Bounding Box: (563, 369, 564, 370)
+Centroid: (563.0, 369.0)
+Orientation: -0.7853981633974483
+
+Label: 1459
+Area: 1.0
+Bounding Box: (563, 381, 564, 382)
+Centroid: (563.0, 381.0)
+Orientation: -0.7853981633974483
+
+Label: 1460
+Area: 6.0
+Bounding Box: (564, 40, 568, 44)
+Centroid: (565.5, 41.0)
+Orientation: 1.2334258556831204
+
+Label: 1461
+Area: 4.0
+Bounding Box: (564, 111, 566, 115)
+Centroid: (564.75, 112.5)
+Orientation: 1.4552509931969482
+
+Label: 1462
+Area: 6.0
+Bounding Box: (564, 241, 568, 245)
+Centroid: (565.1666666666666, 242.5)
+Orientation: -0.6550969675237779
+
+Label: 1463
+Area: 2.0
+Bounding Box: (564, 376, 566, 378)
+Centroid: (564.5, 376.5)
+Orientation: 0.7853981633974483
+
+Label: 1464
+Area: 1.0
+Bounding Box: (565, 106, 566, 107)
+Centroid: (565.0, 106.0)
+Orientation: -0.7853981633974483
+
+Label: 1465
+Area: 1.0
+Bounding Box: (565, 286, 566, 287)
+Centroid: (565.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1466
+Area: 4.0
+Bounding Box: (565, 368, 568, 371)
+Centroid: (566.0, 369.0)
+Orientation: -0.7853981633974483
+
+Label: 1467
+Area: 2.0
+Bounding Box: (565, 372, 566, 374)
+Centroid: (565.0, 372.5)
+Orientation: 1.5707963267948966
+
+Label: 1468
+Area: 1.0
+Bounding Box: (566, 50, 567, 51)
+Centroid: (566.0, 50.0)
+Orientation: -0.7853981633974483
+
+Label: 1469
+Area: 4.0
+Bounding Box: (566, 99, 568, 103)
+Centroid: (566.25, 100.5)
+Orientation: 1.2634648508338138
+
+Label: 1470
+Area: 1.0
+Bounding Box: (566, 124, 567, 125)
+Centroid: (566.0, 124.0)
+Orientation: -0.7853981633974483
+
+Label: 1471
+Area: 1.0
+Bounding Box: (567, 97, 568, 98)
+Centroid: (567.0, 97.0)
+Orientation: -0.7853981633974483
+
+Label: 1472
+Area: 1.0
+Bounding Box: (567, 106, 568, 107)
+Centroid: (567.0, 106.0)
+Orientation: -0.7853981633974483
+
+Label: 1473
+Area: 1.0
+Bounding Box: (567, 114, 568, 115)
+Centroid: (567.0, 114.0)
+Orientation: -0.7853981633974483
+
+Label: 1474
+Area: 1.0
+Bounding Box: (567, 245, 568, 246)
+Centroid: (567.0, 245.0)
+Orientation: -0.7853981633974483
+
+Label: 1475
+Area: 1.0
+Bounding Box: (567, 374, 568, 375)
+Centroid: (567.0, 374.0)
+Orientation: -0.7853981633974483
+
+Label: 1476
+Area: 1.0
+Bounding Box: (568, 287, 569, 288)
+Centroid: (568.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1477
+Area: 1.0
+Bounding Box: (569, 248, 570, 249)
+Centroid: (569.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1478
+Area: 2.0
+Bounding Box: (571, 285, 573, 287)
+Centroid: (571.5, 285.5)
+Orientation: -0.7853981633974483
+
+Label: 1479
+Area: 1.0
+Bounding Box: (572, 266, 573, 267)
+Centroid: (572.0, 266.0)
+Orientation: -0.7853981633974483
+
+Label: 1480
+Area: 1.0
+Bounding Box: (573, 287, 574, 288)
+Centroid: (573.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1481
+Area: 1.0
+Bounding Box: (576, 284, 577, 285)
+Centroid: (576.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1482
+Area: 1.0
+Bounding Box: (577, 287, 578, 288)
+Centroid: (577.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1483
+Area: 7.0
+Bounding Box: (578, 284, 583, 288)
+Centroid: (580.1428571428571, 285.57142857142856)
+Orientation: 0.2535492521961685
+
+Label: 1484
+Area: 2.0
+Bounding Box: (579, 242, 581, 244)
+Centroid: (579.5, 242.5)
+Orientation: 0.7853981633974483
+
+Label: 1485
+Area: 1.0
+Bounding Box: (581, 241, 582, 242)
+Centroid: (581.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1486
+Area: 1.0
+Bounding Box: (583, 241, 584, 242)
+Centroid: (583.0, 241.0)
+Orientation: -0.7853981633974483
+
+Label: 1487
+Area: 1.0
+Bounding Box: (583, 284, 584, 285)
+Centroid: (583.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1488
+Area: 4.0
+Bounding Box: (584, 285, 587, 288)
+Centroid: (585.25, 286.25)
+Orientation: -0.7853981633974483
+
+Label: 1489
+Area: 2.0
+Bounding Box: (585, 282, 587, 284)
+Centroid: (585.5, 282.5)
+Orientation: -0.7853981633974483
+
+Label: 1490
+Area: 1.0
+Bounding Box: (586, 252, 587, 253)
+Centroid: (586.0, 252.0)
+Orientation: -0.7853981633974483
+
+Label: 1491
+Area: 2.0
+Bounding Box: (588, 284, 590, 285)
+Centroid: (588.5, 284.0)
+Orientation: 0.0
+
+Label: 1492
+Area: 1.0
+Bounding Box: (588, 287, 589, 288)
+Centroid: (588.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1493
+Area: 3.0
+Bounding Box: (590, 248, 592, 250)
+Centroid: (590.3333333333334, 248.66666666666666)
+Orientation: 0.7853981633974483
+
+Label: 1494
+Area: 5.0
+Bounding Box: (590, 286, 595, 288)
+Centroid: (592.0, 286.2)
+Orientation: 0.10703034178191077
+
+Label: 1495
+Area: 1.0
+Bounding Box: (591, 252, 592, 253)
+Centroid: (591.0, 252.0)
+Orientation: -0.7853981633974483
+
+Label: 1496
+Area: 1.0
+Bounding Box: (592, 284, 593, 285)
+Centroid: (592.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1497
+Area: 1.0
+Bounding Box: (594, 284, 595, 285)
+Centroid: (594.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1498
+Area: 1.0
+Bounding Box: (596, 284, 597, 285)
+Centroid: (596.0, 284.0)
+Orientation: -0.7853981633974483
+
+Label: 1499
+Area: 1.0
+Bounding Box: (597, 262, 598, 263)
+Centroid: (597.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 1500
+Area: 1.0
+Bounding Box: (597, 286, 598, 287)
+Centroid: (597.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1501
+Area: 3.0
+Bounding Box: (599, 284, 602, 286)
+Centroid: (600.0, 284.6666666666667)
+Orientation: 0.0
+
+Label: 1502
+Area: 1.0
+Bounding Box: (600, 249, 601, 250)
+Centroid: (600.0, 249.0)
+Orientation: -0.7853981633974483
+
+Label: 1503
+Area: 1.0
+Bounding Box: (602, 248, 603, 249)
+Centroid: (602.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1504
+Area: 2.0
+Bounding Box: (602, 250, 603, 252)
+Centroid: (602.0, 250.5)
+Orientation: 1.5707963267948966
+
+Label: 1505
+Area: 1.0
+Bounding Box: (602, 282, 603, 283)
+Centroid: (602.0, 282.0)
+Orientation: -0.7853981633974483
+
+Label: 1506
+Area: 5.0
+Bounding Box: (603, 284, 606, 288)
+Centroid: (603.6, 285.6)
+Orientation: 0.9987119099608864
+
+Label: 1507
+Area: 3.0
+Bounding Box: (604, 248, 607, 250)
+Centroid: (605.0, 248.33333333333334)
+Orientation: 0.0
+
+Label: 1508
+Area: 2.0
+Bounding Box: (604, 251, 606, 253)
+Centroid: (604.5, 251.5)
+Orientation: 0.7853981633974483
+
+Label: 1509
+Area: 1.0
+Bounding Box: (607, 285, 608, 286)
+Centroid: (607.0, 285.0)
+Orientation: -0.7853981633974483
+
+Label: 1510
+Area: 1.0
+Bounding Box: (609, 248, 610, 249)
+Centroid: (609.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1511
+Area: 2.0
+Bounding Box: (609, 284, 611, 286)
+Centroid: (609.5, 284.5)
+Orientation: -0.7853981633974483
+
+Label: 1512
+Area: 1.0
+Bounding Box: (609, 287, 610, 288)
+Centroid: (609.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1513
+Area: 1.0
+Bounding Box: (611, 249, 612, 250)
+Centroid: (611.0, 249.0)
+Orientation: -0.7853981633974483
+
+Label: 1514
+Area: 1.0
+Bounding Box: (611, 251, 612, 252)
+Centroid: (611.0, 251.0)
+Orientation: -0.7853981633974483
+
+Label: 1515
+Area: 1.0
+Bounding Box: (611, 287, 612, 288)
+Centroid: (611.0, 287.0)
+Orientation: -0.7853981633974483
+
+Label: 1516
+Area: 3.0
+Bounding Box: (612, 283, 614, 286)
+Centroid: (612.3333333333334, 284.0)
+Orientation: -1.079399465171232
+
+Label: 1517
+Area: 1.0
+Bounding Box: (613, 248, 614, 249)
+Centroid: (613.0, 248.0)
+Orientation: -0.7853981633974483
+
+Label: 1518
+Area: 1.0
+Bounding Box: (613, 250, 614, 251)
+Centroid: (613.0, 250.0)
+Orientation: -0.7853981633974483
+
+Label: 1519
+Area: 2.0
+Bounding Box: (613, 267, 614, 269)
+Centroid: (613.0, 267.5)
+Orientation: 1.5707963267948966
+
+Label: 1520
+Area: 1.0
+Bounding Box: (614, 286, 615, 287)
+Centroid: (614.0, 286.0)
+Orientation: -0.7853981633974483
+
+Label: 1521
+Area: 1.0
+Bounding Box: (615, 250, 616, 251)
+Centroid: (615.0, 250.0)
+Orientation: -0.7853981633974483
+
+Label: 1522
+Area: 1.0
+Bounding Box: (617, 250, 618, 251)
+Centroid: (617.0, 250.0)
+Orientation: -0.7853981633974483
+
+Label: 1523
+Area: 2.0
+Bounding Box: (617, 284, 619, 286)
+Centroid: (617.5, 284.5)
+Orientation: 0.7853981633974483
+
+Label: 1524
+Area: 2.0
+Bounding Box: (619, 250, 621, 251)
+Centroid: (619.5, 250.0)
+Orientation: 0.0
+
+Label: 1525
+Area: 5.0
+Bounding Box: (619, 284, 622, 288)
+Centroid: (620.4, 285.8)
+Orientation: -1.0881704951999334
+
+Label: 1526
+Area: 1.0
+Bounding Box: (622, 250, 623, 251)
+Centroid: (622.0, 250.0)
+Orientation: -0.7853981633974483
+
+Label: 1527
+Area: 2.0
+Bounding Box: (623, 284, 625, 285)
+Centroid: (623.5, 284.0)
+Orientation: 0.0
+
+Label: 1528
+Area: 1.0
+Bounding Box: (624, 263, 625, 264)
+Centroid: (624.0, 263.0)
+Orientation: -0.7853981633974483
+
+Label: 1529
+Area: 1.0
+Bounding Box: (625, 260, 626, 261)
+Centroid: (625.0, 260.0)
+Orientation: -0.7853981633974483
+
+Label: 1530
+Area: 1.0
+Bounding Box: (625, 272, 626, 273)
+Centroid: (625.0, 272.0)
+Orientation: -0.7853981633974483
+
+Label: 1531
+Area: 2.0
+Bounding Box: (625, 286, 626, 288)
+Centroid: (625.0, 286.5)
+Orientation: 1.5707963267948966
+
+Label: 1532
+Area: 1.0
+Bounding Box: (627, 262, 628, 263)
+Centroid: (627.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 1533
+Area: 1.0
+Bounding Box: (627, 272, 628, 273)
+Centroid: (627.0, 272.0)
+Orientation: -0.7853981633974483
+
+Label: 1534
+Area: 2.0
+Bounding Box: (629, 258, 630, 260)
+Centroid: (629.0, 258.5)
+Orientation: 1.5707963267948966
+
+Label: 1535
+Area: 4.0
+Bounding Box: (629, 261, 632, 264)
+Centroid: (630.0, 262.0)
+Orientation: -0.7853981633974483
+
+Label: 1536
+Area: 2.0
+Bounding Box: (629, 273, 631, 275)
+Centroid: (629.5, 273.5)
+Orientation: 0.7853981633974483
+
+Label: 1537
+Area: 1.0
+Bounding Box: (629, 276, 630, 277)
+Centroid: (629.0, 276.0)
+Orientation: -0.7853981633974483
+
+Label: 1538
+Area: 1.0
+Bounding Box: (630, 279, 631, 280)
+Centroid: (630.0, 279.0)
+Orientation: -0.7853981633974483
+
+Label: 1539
+Area: 2.0
+Bounding Box: (630, 282, 632, 284)
+Centroid: (630.5, 282.5)
+Orientation: 0.7853981633974483
+
+Label: 1540
+Area: 2.0
+Bounding Box: (630, 286, 632, 287)
+Centroid: (630.5, 286.0)
+Orientation: 0.0
+
+Label: 1541
+Area: 1.0
+Bounding Box: (631, 257, 632, 258)
+Centroid: (631.0, 257.0)
+Orientation: -0.7853981633974483
+
